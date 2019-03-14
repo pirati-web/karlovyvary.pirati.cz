@@ -6,7 +6,7 @@
 #
 
 title: Piráti Karlovy Vary # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
+email: jindrich.cermak@pirati.cz
 description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -120,7 +120,7 @@ collections:
     permalink: /lide/:path/
 
   program:
-    output: true
+    output: false
     permalink: /komunalni-volby/program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
