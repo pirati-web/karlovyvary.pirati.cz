@@ -6,12 +6,12 @@ tags:
     - Postřehy ze zadní lavice
 title: Postřehy ze zadní lavice III
 author: Jindřich Čermák
-authorId: jakub.pirat    # uid nekoho z _people (nepoviné)
-image: posts/obrazek-u-tohoto-postu.jpg
+authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
+image: posts/karlovy-vary-volba-primatorky-181113-053_galerie-980.jpg
 ---
 **Předně si asi položíte otázku, kam nám zmizel druhý díl. Postřehy z prosincového zastupitelstva se nám přes vánoční svátky poněkud zašantročili, takže budou doplněny později.**
 
-Kompletní záznam jednání si můžete přehrát zde: [http://live.publicstream.cz/vary/1-jednani-zastupitelstva-mesta-karlovy-vary-dne-24-1-2019-470](http://live.publicstream.cz/vary/1-jednani-zastupitelstva-mesta-karlovy-vary-dne-24-1-2019-470). Bude vás to stát jen šest hodin vašeho života  ![😊](https://s.w.org/images/core/emoji/11/svg/1f60a.svg).
+Kompletní záznam jednání si můžete přehrát zde: [http://live.publicstream.cz/vary/1-jednani-zastupitelstva-mesta-karlovy-vary-dne-24-1-2019-470](http://live.publicstream.cz/vary/1-jednani-zastupitelstva-mesta-karlovy-vary-dne-24-1-2019-470). Bude vás to stát jen šest hodin vašeho života 😊.
 
 V klíčových věcech koalice hlasovala opět jednotně a nepřipustila žádné komplikace. Nicméně ani po necelých sto dnech vlády není představen žádný dlouhodobější plán, strategie, čeho chce koalice ANO, Karlovaráci, ODS dosáhnout. Zatím se stále pohybujeme v oblasti PR slibů ve stylu Marka Prchala…
 
