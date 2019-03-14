@@ -5,26 +5,25 @@
 # technické nastavení
 #
 
-title: Your awesome title # To co je napsané na tabu ve kterém je stránka.
+title: Piráti Karlovy Vary # To co je napsané na tabu ve kterém je stránka.
 email: info@pirati.cz
 description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, Karlovy Vary, KV , místní združení,
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: antonin.simkanin@gmail.com # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  email: example@pirati.cz
-  phone: +420 770 113 642
+  name: Piráti Karlovy Vary
+  shortName: MS KV
+  email: jindrich.cermak@pirati.cz
+  phone: +420 604 317 512
   address: |
-    Na Moráni 3,
-    120 00 Praha 2
+   Moskevská 60, Karlovy Vary, 360 01
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  mapLink: https://mapy.cz/zakladni?vlastni-body&x=12.8600882&y=50.2276414&z=18&ut=E-pic&uc=9d3K3xYmSv&ud=ulice%20Moskevsk%C3%A1%201456%2F60%2C%20Karlovy%20Vary%2C%20360%2001%2C%20okres%20Karlovy%20Vary
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
@@ -57,8 +56,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
+  profilePage: https://www.facebook.com/PiratiKV/
+  profilePageName: Piráti KV
   appId: 1526197851008996
 
 twitter:
@@ -78,7 +77,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web
   branch: master
 
 #
