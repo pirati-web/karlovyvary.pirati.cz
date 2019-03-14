@@ -3,7 +3,7 @@ uid: jindrich.cermak
 name:     Jindřich Čermák  	# běžně používáné jméno
 titles:
   before: Mgr.
-  after: DiS.
+  after: 
 category:
   - clenove
   - kandidat-obec
