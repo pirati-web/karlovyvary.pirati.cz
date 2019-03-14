@@ -1,13 +1,13 @@
 ---
+date: 2019-01-28
 category: blog
-title: Postřehy ze zadní lavice III
-date: 2019-01-14T12:00:00.000Z
-author: Jindřich Čermák
-authorId: jmeno.prijmeni    # uid nekoho z _people
-image: https://pirativary.cz/wp-content/uploads/2018/11/karlovy-vary-volba-primatorky-181113-053_galerie-980.jpg
 tags:
-  - Postřehy ze zadní lavice
-  - Zastupitelstvo
+    - Zastupitelstvo
+    - Postřehy ze zadní lavice
+title: Postřehy ze zadní lavice III
+author: Jindřich Čermák
+authorId: jakub.pirat    # uid nekoho z _people (nepoviné)
+image: posts/obrazek-u-tohoto-postu.jpg
 ---
 **Předně si asi položíte otázku, kam nám zmizel druhý díl. Postřehy z prosincového zastupitelstva se nám přes vánoční svátky poněkud zašantročili, takže budou doplněny později.**
 
@@ -109,3 +109,4 @@ Víte, jak se nejlépe dostat do představenstva městské firmy? Buďte zadobř
 Je to komické, ale v představenstvu Karlovarské teplárenské sedí jak manžel hejtmanky Jan Mraček, tak Petr Myšák, který je společně s manželem primátorky Tomášem Pfefferem jednatelem společnosti Seniormed. Ukazuje se, že politické dosazování do městských firem dostalo zcela nový rozměr a budou nově řízeny jako rodina.
 
 Už je líp?
+- - -
