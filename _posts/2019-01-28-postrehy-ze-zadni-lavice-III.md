@@ -1,5 +1,5 @@
 ---
-category: CLANKY
+category: blog
 title: Postřehy ze zadní lavice III
 date: 2019-01-14T12:00:00.000Z
 author: Jindřich Čermák
