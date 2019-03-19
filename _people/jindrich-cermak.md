@@ -7,8 +7,7 @@ titles:
 category:
   - zastupitel
 ordz: 1
-description: předseda zastupitelského klubu
-             člen kulturní komise
+description: předseda zastupitelského klubu, člen kulturní komise
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
