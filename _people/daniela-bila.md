@@ -9,7 +9,8 @@ category:
   - predsednictvo
 ordko: 3
 ordpms: 2
-description: členka Komise školství, vzdělávání a demografie,    1. místopředsedkyně Pirátů Karlovy Vary
+description: členka Komise školství, vzdělávání a demografie, 
+1. místopředsedkyně Pirátů Karlovy Vary
 img: people/daniela_bila.png # zakomentuj radek dokud není fotka
 mail:
   - daniela.bila@pirati.cz
