@@ -46,7 +46,7 @@ Městská nadace vznikla jako nápad velké koalice ODS-ČSSD v roce 2005. Půvo
 
 Už od počátku bylo jasné, že nadace bude čistě politickou hračkou – do správní rady byli dosazeni politici z těch správných velkokoaličních stran – současný předseda Jiří Vaněček (ODS) je v čele nadace od roku 2008, kdy vystřídal hrobnici karlovarské kultury Moniku Makkiehovou. Místopředsedkyně Jana Petříková (dříve ČSSD, naposledy kandidovala za Volbu pro Karlovarský kraj, která má blízko k Tomáši Hybnerovi a Haně Zemanové) je ve správní radě dokonce od roku 2006. Během těch dlouhých let nebyla žádná snaha od těchto představitelů nadace dát jí důvěryhodnou a transparentní tvář.
 
-image: posts/zlavice_3_01.jpg
+![](/assets/img/posts/zlavice_3_01.jpg)
 
 _Jindřich Čermák se vyjadřuje k Nadaci města_
 
@@ -58,7 +58,7 @@ Je otázkou, zda nové vedení půjde cestou větší transparentnosti nadace, n
 
 Skupina kolem náměstka Petra Bursíka /ODS/ hodlá vypracovat alternativní plán k zatím jediné variantě opravy Vřídelní kolonády. Současný plán spočívá v přestěhování tzv. krenotechnologie (laicky řečeno to jsou trubky, kterými proudí vřídelní voda do hotelů a také do samotného výtrysku Vřídla) do prostor před kolonády, do míst bývalého domu Bílý lev. Po přestěhování by došlo k opravě sálu s výtryskem a následné navrácení trubek zpátky.
 
-![](posts/zlavice_3_02.jpg)
+![](/assets/img/posts/zlavice_3_02.jpg)
 
 _Vřídlo netryská…_
 
@@ -66,7 +66,7 @@ Náměstek Bursík přichází s tím, že by se trubky nestěhovaly, ale nad n�
 
 Kolonádu jsme si prohlédli a situace je vskutku havarijní a oprava musí začít co nejdříve. Na druhou stranu – v tomto případě se nevyplatí šetřit a přehnaně riskovat. Vřídlo je to nejcennější, co Karlovy Vary mají, to, co město udělalo jméno. Zaráží nás, že tato varianta se dostává k jednání až nyní, že předchozí vedení s ní reálně nepočítalo, resp. ji nepřipravilo k bližšímu projednávání.
 
-![](posts/zlavice_3_03.jpg)
+![](/assets/img/posts/zlavice_3_03.jpg)
 
 _Strop místnosti s krenotechnologií. Tudy proudilo Vřídlo do sálu s výtryskem._
 
