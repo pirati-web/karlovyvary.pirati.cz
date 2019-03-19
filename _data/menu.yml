@@ -11,7 +11,7 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
-  - link: "volebni program"
+  - link: "Volební program"
     url:  "https://drive.google.com/file/d/16RnfRNNqIq9_fYLKHADNgmW2JzCUJTC_/view"
     icon: "fa fa-file"
 
