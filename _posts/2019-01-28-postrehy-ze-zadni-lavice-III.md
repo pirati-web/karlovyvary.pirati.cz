@@ -3,7 +3,7 @@ date: 2019-01-28
 category: blog
 tags:
     - Zastupitelstvo
-    - Postřehy ze zadní lavice
+    - Postřehy
 title: Postřehy ze zadní lavice III
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
