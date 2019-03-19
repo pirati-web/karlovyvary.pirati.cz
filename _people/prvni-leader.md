@@ -16,7 +16,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/jincer 
 #  googleplus: https://plus.google.com/+uzivatel.na.googleplus
- # twitter: https://twitter.com/uzivatel.na.twitteru
+  twitter: https://twitter.com/jincer
  # flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
 ---
 
