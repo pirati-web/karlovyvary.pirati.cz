@@ -55,4 +55,6 @@ Součástí povolební strategie je i **12 bodů**, které budeme prosazovat od 
 10.  **Aktivní účast na jednáních o novém provozu bazénu Thermal.**
 11.  **Podpora vzniku multižánrového centra/klubu.**
 12.  **Rozvoj činnosti KAM KV, zejména o oblast smart city.**
+
+![](/assets/img/posts/logo_PKV.png)
 - - - 
