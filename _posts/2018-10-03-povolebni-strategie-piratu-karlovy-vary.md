@@ -7,7 +7,7 @@ tags:
 title: Povolební strategie Pirátů Karlovy Vary
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
-image: posts/karlovy-vary-volba-primatorky-181113-053_galerie-980.jpg
+image: posts/logo_PKV.png
 ---
 **_Česká pirátská strana je liberální, demokratická, středová strana s moderním protikorupčním programem. Naším cílem je prosazovat program, ať už jsme v koalici nebo v opozici. Chceme, aby občané Karlových Varů, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak budeme po volbách pracovat. To, že usilujeme o změnu politické kultury a transparence, u nás není jen na papíře. Proto předkládáme jasnou a závaznou strategii povolební činnosti._**
 
