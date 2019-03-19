@@ -14,7 +14,7 @@ img: people/0002_JindrichCermak_03-Mobilní.png # zakomentuj radek dokud není f
 mail:
   - jindrich.cermak@pirati.cz
 profiles:
-facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
+facebook: https://www.facebook.com/jincer 
 #  googleplus: https://plus.google.com/+uzivatel.na.googleplus
  # twitter: https://twitter.com/uzivatel.na.twitteru
  # flickr:		  https://www.flickr.com/search/?user_id=68741528%40N03&sort=date-taken-desc&view_all=1&text=ond%C5%99ej%20profant
