@@ -8,13 +8,14 @@ category:
   - zastupitel
 ordz: 1
 description: Zastupitel Karlových Varů
-img: people/0002_JindrichCermak_03-Mobilní.png # zakomentuj radek dokud není fotka
+img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
 #  googleplus: https://plus.google.com/+uzivatel.na.googleplus
- # twitter: https://twitter.com/uzivatel.na.twitteru
+   twitter: https://twitter.com/jincer
+   instagram: https://www.instagram.com/jincermak/ 
 ---
 
 Jindřich Čermák (* 20. srpna 1982, Karlovy Vary) je hrdým karlovarským patriotem. Po maturitě na tamním gymnáziu studoval nejprve neúspěšně na FF UK, později úspěšně na FF ZČU a to politologii a mezinárodní vztahy. Studium zakončil získáním magisterského titulu v roce 2007. Během studia čtyři roky vedl Akademický spolek studentů politických věd v Plzni, který organizoval přednášky a semináře se špičkovými osobnostmi české politiky (Zeman, Topolánek, Paroubek aj.).
