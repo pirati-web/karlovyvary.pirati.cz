@@ -24,7 +24,7 @@ Stručně, pokud se vám nechce číst celý článek:
 -   Primátorka zastavila 20 usnesení rady, na jejich přezkum má ale čas jen do 11. 12. Nebyla schopna vysvětlit, proč tyto a co je na nich chybné.
 -   Město bude v lednu hospodařit s rozpočtovým provizoriem, vedení nehodlá v prosinci předložit rozpočet.
 
-![](http://pirativary.cz/wp-content/uploads/2018/11/karlovy-vary-volba-primatorky-181113-053_galerie-980.jpg)
+![](/assets/img/posts/karlovy-vary-volba-primatorky-181113-053_galerie-980.jpg)
 
 **Volba vedení města**
 
