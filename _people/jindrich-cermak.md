@@ -6,10 +6,9 @@ titles:
   after:
 category:
   - zastupitel
-  - pos
-  - predsednictvo
+  - komis
 ordz: 1
-ordpms: 1
+ordko: 1
 description: předseda zastupitelského klubu, člen kulturní komise
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
