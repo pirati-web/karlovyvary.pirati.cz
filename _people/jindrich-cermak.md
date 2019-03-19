@@ -6,8 +6,11 @@ titles:
   after:
 category:
   - zastupitel
+  - člen kulturní komise
 ordz: 1
-description: Zastupitel Karlových Varů
+ordk: 1
+description: předseda zastupitelského klubu Pirátů
+             člen kulturní komise
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
