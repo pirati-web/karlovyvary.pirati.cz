@@ -5,8 +5,8 @@ titles:
   before: Mgr.
   after: 
 category:
-  - clenove
-  - kandidat-obec
+  - zastupitel
+  - komise
 ordclenove: 3
 description: Politický analytik, koordinátor komunikace o EU Úřadu vlády ČR
 profession: Mediální Spojka Pirátů Karlovarského Kraje
