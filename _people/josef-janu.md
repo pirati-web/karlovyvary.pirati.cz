@@ -10,7 +10,7 @@ category:
   - kraj
   - predsednictvo
 ordz: 4
-ordko: 2
+ordvy: 2
 ordkr: 1
 ordpms: 1
 description: zastupitel, člen Výboru strategického rozvoje, radní Karlovarského kraje, předseda Pirátů Karlovy Vary
