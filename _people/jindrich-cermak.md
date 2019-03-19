@@ -11,6 +11,8 @@ description: Zastupitel Karlových Varů
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
+tel:
+  - +420 604 317 512
 profiles:
   facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
 # googleplus: https://plus.google.com/+uzivatel.na.googleplus
