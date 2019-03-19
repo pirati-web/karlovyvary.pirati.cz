@@ -6,7 +6,7 @@ titles:
   after:
 category:
   - zastupitel
-ordclenove: 1
+ordz: 1
 description: Zastupitel Karlových Varů
 #img: people/0002_JindrichCermak_03-Mobilní.png # zakomentuj radek dokud není fotka
 mail:
