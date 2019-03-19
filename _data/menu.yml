@@ -13,7 +13,7 @@ top:
     icon: "fa fa-newspaper-o"
   - link: "volebni program"
     url:  "https://drive.google.com/file/d/16RnfRNNqIq9_fYLKHADNgmW2JzCUJTC_/view"
-    icon: "fa fa-file-alt"
+    icon: "fa fa-file"
 
 main:
   - link: /aktuality/
