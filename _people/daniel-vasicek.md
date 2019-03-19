@@ -8,7 +8,7 @@ category:
   - komis
 ordko: 4
 description: člen Komise lázeňství a cestovního ruchu
-img: people/pavel_susanin.png # zakomentuj radek dokud není fotka
+img: people/daniel_vasicek.png # zakomentuj radek dokud není fotka
 mail:
   - vasicekdaniel@seznam.cz
 profiles:
