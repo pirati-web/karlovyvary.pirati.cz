@@ -8,7 +8,7 @@ category:
   - zastupitel
 ordz: 1
 description: Zastupitel Karlových Varů
-#img: people/0002_JindrichCermak_03-Mobilní.png # zakomentuj radek dokud není fotka
+img: people/0002_JindrichCermak_03-Mobilní.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
 profiles:
