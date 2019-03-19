@@ -7,11 +7,12 @@ tags:
 title: Město by mělo umět lidi trochu popostrčit
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
-image: posts/popostrcit.jpg
+image: posts/popostrcit_titulka.jpg
 ---
 ## 29.9. vyšel v Mladé Frontě DNES rozhovor s lídrem Jindřichem Čermákem, který vám nyní přinášíme. Rozhovor vedla Jana Plechatá
 
 **Zcela poprvé samostatně se chce do karlovarského zastupitelstva dostat Česká pirátská strana. Do jejího čela se postavil politolog a koordinátor Eurocentra Karlovy Vary Jindřich Čermák. Navázat chce na úspěchy Pirátů v kraji i republice. Nejmladšího lídra a druhou nejmladší kandidátku v krajském městě vyslali do předvolebního boje karlovarští Piráti. Věří ale, že nejsou stranou jen pro mladé lidi, ačkoli cítí, že potenciál je v jejich případě značný. „Ukazují nám to i různé průzkumy. Takto generalizovat by ale byla ohromná škoda, protože jsme pro všechny, kdo chtějí ve Varech dobře žít,“ říká jednička kandidátky Jindřich Čermák.**
+
 
 **Baví se s vámi i starší lidé?**
 
@@ -100,6 +101,9 @@ Určitě bychom chtěli dál rozvíjet tuto kancelář a minimálně rozvíjet t
 -   Poprvé kandidovali do zastupitelstva Karlových Varů v roce 2014 společně s hnutím O co jim jde?!, KDU-ČSL a Stranou zelených. Uskupení získalo 7,41 procenta hlasů a 3 mandáty. Dva připadly O co jim jde?!, jeden KDU-ČSL. Zatímco O co jim jde?! jsou v současné době v opozici, KDU-ČSL je koaličním partnerem.
 -   Ve volbách do krajského zastupitelstva v roce 2016 získala Česká pirátská strana 5,46 procenta hlasů a 3 mandáty. Jeden z nich patří i karlovarskému Pirátovi Josefovi Janů. Ten se stal krajským radním pro oblast regionálního rozvoje a informatiky.
 -   Do podzimních voleb jdou karlovarští Piráti s pěti tezemi, a to zapojení občanů a informovanost, zjednodušení života, lepší práva města, rozvoj komunity a tvář města.
+
+![](/assets/img/posts/popostrcit.jpg)
+
 
 Foto: Václav Šlauf, MAFRA
 
