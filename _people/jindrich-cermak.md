@@ -13,9 +13,9 @@ mail:
   - jindrich.cermak@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
-#  googleplus: https://plus.google.com/+uzivatel.na.googleplus
-   twitter: https://twitter.com/jincer
-   instagram: https://www.instagram.com/jincermak/ 
+# googleplus: https://plus.google.com/+uzivatel.na.googleplus
+  twitter: https://twitter.com/jincer
+  instagram: https://www.instagram.com/jincermak/ 
    
 ---
 
@@ -28,3 +28,5 @@ Ve volném čase si rád přečte knihu, podívá se na dobrý film nebo si zahr
 Vzdělání/práce: Studoval něco, teď dělá něco.
 
 Politik: zastupitel Karlových Varů
+
+- - - 
