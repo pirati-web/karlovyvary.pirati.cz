@@ -7,9 +7,11 @@ titles:
 category:
   - zastupitel
   - vybor
+  - predsednictvo
 ordz: 2
 ordvy: 1
-description: zastupitelka, členka Výboru pro sociální věci a seniory
+ordpms: 3
+description: zastupitelka, členka Výboru pro sociální věci a seniory, 2. místopředsedkyně Pirátů Karlovy Vary
 img: people/barbora_hradecna.png # zakomentuj radek dokud není fotka
 mail:
   - barbora.hradecna@pirati.cz
