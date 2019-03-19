@@ -8,14 +8,14 @@ category:
   - zastupitel
 ordz: 1
 description: Zastupitel Karlových Varů
-# img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
+img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
 #  googleplus: https://plus.google.com/+uzivatel.na.googleplus
    twitter: https://twitter.com/jincer
-  #  instagram: https://www.instagram.com/jincermak/ 
+   instagram: https://www.instagram.com/jincermak/ 
    
 ---
 
