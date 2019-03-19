@@ -10,7 +10,7 @@ category:
 ordz: 3
 ordko: 2
 description: zastupitel, člen Komise pro hospodaření s majetkem města
-img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
+img: people/pavel_susanin.png # zakomentuj radek dokud není fotka
 mail:
   - susanin.kv@gmail.com
 mob:			  +420 776 009 865
