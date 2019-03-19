@@ -2,8 +2,7 @@
 date: 2018-10-03
 category: blog
 tags:
-    - Zastupitelstvo
-    - Volby 2018
+    - Volby_2018
 title: Povolební strategie Pirátů Karlovy Vary
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
