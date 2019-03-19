@@ -5,7 +5,7 @@ top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
     icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
+  # link: "wiki.pirati.cz"
     url:  "https://wiki.pirati.cz"
     icon: "fa fa-home"
   - link: "Nalodění"
@@ -14,7 +14,7 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
-  - link: "Program"
+  - link: "Volební program"
     url:  "https://drive.google.com/file/d/16RnfRNNqIq9_fYLKHADNgmW2JzCUJTC_/view"
     icon: "fa fa-file"
 
