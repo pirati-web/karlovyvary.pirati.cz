@@ -46,7 +46,7 @@ Městská nadace vznikla jako nápad velké koalice ODS-ČSSD v roce 2005. Půvo
 
 Už od počátku bylo jasné, že nadace bude čistě politickou hračkou – do správní rady byli dosazeni politici z těch správných velkokoaličních stran – současný předseda Jiří Vaněček (ODS) je v čele nadace od roku 2008, kdy vystřídal hrobnici karlovarské kultury Moniku Makkiehovou. Místopředsedkyně Jana Petříková (dříve ČSSD, naposledy kandidovala za Volbu pro Karlovarský kraj, která má blízko k Tomáši Hybnerovi a Haně Zemanové) je ve správní radě dokonce od roku 2006. Během těch dlouhých let nebyla žádná snaha od těchto představitelů nadace dát jí důvěryhodnou a transparentní tvář.
 
-![](posts/zlavice_3_01.jpg)
+![](image: posts/zlavice_3_01.jpg)
 
 _Jindřich Čermák se vyjadřuje k Nadaci města_
 
