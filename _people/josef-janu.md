@@ -23,7 +23,8 @@ profiles:
 # googleplus: https://plus.google.com/+uzivatel.na.googleplus
 # twitter: https://twitter.com/jincer
 # instagram: https://www.instagram.com/jincermak/ 
-   
+calendar: varskejpepik@group.calendar.google.com
+
 ---
 
 **Josef Janů** (* 24. června 1969) se poprvé o „politiku“ začal aktivně zajímat v souvislosti s rokem 1989, kdy si tyto události plnohodnotně užil coby student 3.ročníku ČVUT v Praze, poté se oženil a většinu času věnoval rodince a samozřejmě práci. Aktivní „politický“ restart zaznamenal v období těsně před „Karlovarskou losovačkou“ v období vrcholící arogance slepence ODS+ČSSD a na přelomu let 2006/2007 byl spoluzakladatelem karlovarského hnutí „O co jim jde!?“ (dvoje úspěšné komunální volby 7,25% a 7,4% a jedny neúspěšné krajské 4,7%).
