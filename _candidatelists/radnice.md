@@ -20,11 +20,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: nestraník
     # profession: knihovník
     description: projektant 
-  - uid: aktivni.priznivec
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
-    party: Evropani.cz
+  - uid: daniela.bila
+    age: 48
+    party: Piráti 
+    # profession: zametač
+    description: obchodní referentka, aktivistka, alchymistka 
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
