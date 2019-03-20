@@ -24,7 +24,17 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 48
     party: Piráti 
     # profession: zametač
-    description: obchodní referentka, aktivistka, alchymistka 
+    description: obchodní referentka, aktivistka, alchymistka
+  - uid: josef.janu
+    age: 49
+    party: Piráti 
+    # profession: zametač
+    description: krajský radní, autorizovaný stavební inženýr, mládežnický trenér míčových sportů
+  - uid: renata.kozakova
+    age: 56
+    party: nestraník
+    # profession: zametač
+    description: zastupitelka, ředitelka kanceláře krajského ředitele HZS Karlovarského kraje  
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
