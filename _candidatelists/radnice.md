@@ -12,9 +12,9 @@ leader:
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: barbora.hradecna
     age: 33
+    party: Piráti
     # profession: knihovník
     description: expert na skoky
-    party: Piráti
   - uid: jakub.pirat
     profession: knihovník
   - uid: aktivni.priznivec
