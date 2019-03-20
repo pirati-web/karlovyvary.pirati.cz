@@ -10,7 +10,6 @@ leader:
   description: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-
   - uid: mistni.predseda
     profession: knihovník
     description: expert na skoky
