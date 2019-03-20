@@ -13,27 +13,27 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: barbora.hradecna
     age: 33
     party: Piráti
-    #profession: knihovník
+    profession: knihovník
     description: pracovní a finanční poradce v neziskovém sektoru, freelancer 
   - uid: pavel.susanin
     age: 34
     party: nestraník
-    #profession: knihovník
+    profession: knihovník
     description: projektant 
   - uid: daniela.bila
     age: 48
     party: Piráti 
-    #profession: zametač
+    profession: zametač
     description: obchodní referentka, aktivistka, alchymistka 
    - uid: josef.janu
     age: 49
     party: Piráti 
-    #profession: zametač
+    profession: zametač
     description: krajský radní, autorizovaný stavební inženýr, mládežnický trenér míčových sportů
   - uid: renata.kozakova
     age: 56
     party: nestraník
-    #profession: zametač
+    profession: zametač
     description: zastupitelka, ředitelka kanceláře krajského ředitele HZS Karlovarského kraje  
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
