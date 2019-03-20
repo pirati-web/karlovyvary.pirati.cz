@@ -2,7 +2,7 @@
 date: 2018-10-04
 category: blog
 tags:
-    - Volby_2018
+    - Volby2018
 title: Město by mělo umět lidi trochu popostrčit
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
