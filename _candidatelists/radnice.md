@@ -1,40 +1,26 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-number: 8 # číslo kandidátky odkomentujte až bude známé
+# number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jindrich.cermak
-  age: 35
-  profession: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR
+  age: 31
+  profession: knihovník
   party: Piráti
-  description: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR # zobrazuje se v komunalni-volby
+  description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: barbora.hradecna
-    age: 33
-    party: Piráti
+  - uid: mistni.predseda
     profession: knihovník
-    description: pracovní a finanční poradce v neziskovém sektoru, freelancer 
-  - uid: pavel.susanin
-    age: 34
-    party: nestraník
+    description: expert na skoky
+    party: bez politické příslušnosti
+  - uid: jakub.pirat
     profession: knihovník
-    description: projektant 
-  - uid: daniela.bila
-    age: 48
-    party: Piráti 
+  - uid: aktivni.priznivec
+    age: 63
     profession: zametač
-    description: obchodní referentka, aktivistka, alchymistka 
-   - uid: josef.janu
-    age: 49
-    party: Piráti 
-    profession: zametač
-    description: krajský radní, autorizovaný stavební inženýr, mládežnický trenér míčových sportů
-  - uid: renata.kozakova
-    age: 56
-    party: nestraník
-    profession: zametač
-    description: zastupitelka, ředitelka kanceláře krajského ředitele HZS Karlovarského kraje  
+    description: expert přes dětská hřiště
+    party: Evropani.cz
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
@@ -51,6 +37,4 @@ tail: # zbytek kandidatky
     description: expert na skoky
     party: bez politické příslušnosti
 note: # poznámka pod kanidátku
-   #Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
-    
----
+    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
