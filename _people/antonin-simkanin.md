@@ -1,6 +1,6 @@
 ---
 uid: antonin.simkanin 
-name:     Admin: Antonín Šimkanin    	# běžně používáné jméno
+name:     Admin Antonín Šimkanin    	# běžně používáné jméno
 titles:
   before:
   after:
