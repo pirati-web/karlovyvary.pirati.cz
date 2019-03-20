@@ -1,4 +1,5 @@
 ---
+
 title: Kandidátka na radnici
 uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
@@ -53,4 +54,6 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
 note: # poznámka pod kanidátku
     Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+    
 ---
+
