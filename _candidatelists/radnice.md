@@ -1,13 +1,13 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-number: 8 # číslo kandidátky odkomentujte až bude známé
+# number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jindrich.cermak
-  age: 35
-  # profession: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR
+  age: 31
+  profession: knihovník
   party: Piráti
-  description: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR # zobrazuje se v komunalni-volby
+  description: expert na skoky # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: mistni.predseda
@@ -20,8 +20,8 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 63
     profession: zametač
     description: expert přes dětská hřiště
-    party: Evropani.cz 
- tail: # zbytek kandidatky
+    party: Evropani.cz
+tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name: Mudr. Místní Dkotor
