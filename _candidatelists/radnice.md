@@ -15,8 +15,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Piráti
     # profession: knihovník
     description: pracovní a finanční poradce v neziskovém sektoru, freelancer 
-  - uid: jakub.pirat
-    profession: knihovník
+  - uid: pavel.susanin
+    age: 34
+    party: nestraník
+    # profession: knihovník
+    description: projektant 
   - uid: aktivni.priznivec
     age: 63
     profession: zametač
