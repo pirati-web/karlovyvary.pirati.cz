@@ -38,15 +38,15 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - name: Mudr. Místní Dkotor
+ #- name: Mudr. Místní Dkotor
     age: 49
     profession: obvodní lékař
     party: bez politické příslušnosti
-  - name: Tomáš Šťoural
+ #- name: Tomáš Šťoural
     age: 19
     profession: student
     party: Piráti
-  - uid: mistni.predseda
+ #- uid: mistni.predseda
     profession: knihovník
     description: expert na skoky
     party: bez politické příslušnosti
