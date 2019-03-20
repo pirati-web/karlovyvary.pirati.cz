@@ -35,7 +35,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: nestraník
     # profession: zametač
     description: zastupitelka, ředitelka kanceláře krajského ředitele HZS Karlovarského kraje  
-tail: # zbytek kandidatky
+# tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name: Mudr. Místní Dkotor
