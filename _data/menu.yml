@@ -1,6 +1,6 @@
 top:
   - link: "Krajský web"
-    url:  "https://www.piratikvk.cz"
+    url:  "http://www.piratikvk.cz"
     icon: "fa fa-home"
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
