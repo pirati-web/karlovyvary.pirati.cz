@@ -1,4 +1,4 @@
----
+# ---
 title: Senát
 uid: senat
 campaignCategoryUid: senat
