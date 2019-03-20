@@ -14,7 +14,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 33
     party: Piráti
     # profession: knihovník
-    description: expert na skoky
+    description: pracovní a finanční poradce v neziskovém sektoru, freelancer 
   - uid: jakub.pirat
     profession: knihovník
   - uid: aktivni.priznivec
