@@ -51,5 +51,5 @@ tail: # zbytek kandidatky
     description: expert na skoky
     party: bez politické příslušnosti
 note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+   # Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
