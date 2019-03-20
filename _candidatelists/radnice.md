@@ -5,7 +5,7 @@ number: 8 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jindrich.cermak
   age: 35
-  #profession: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR
+  profession: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR
   party: Piráti
   description: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR # zobrazuje se v komunalni-volby
 
