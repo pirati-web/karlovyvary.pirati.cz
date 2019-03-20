@@ -1,22 +1,27 @@
 ---
-uid: antonin.simkanin 
-name:     Admin Antonín Šimkanin    	# běžně používáné jméno
+uid: jakub.pirat
+name:     Jakub Pirát  	# běžně používáné jméno
 titles:
-  before:
+  before: Bc.
   after:
 category:
+  - clenove
+  - kodo
   - kontaktni_osoba
-contactType: Kontakt na administrátora
+contactType: Kontakt pro dobrovolníky
 description: mistr světa ve skoku pro něco # zobrazuje se v lide
 img: people/ppp.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
-  - antonin.simkanin@gmail.com
+  - jakub.pirat@pirati.cz
 profiles:
-  #facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
-  #googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  #twitter: https://twitter.com/uzivatel.na.twitteru
+  facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
+  googleplus: https://plus.google.com/+uzivatel.na.googleplus
+  twitter: https://twitter.com/uzivatel.na.twitteru
 ---
+
+Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
+[odkaz](/aktuality/)
 
 **Vzdělání/práce:** Studoval něco, teď dělá něco.
 
