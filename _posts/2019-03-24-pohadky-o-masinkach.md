@@ -1,5 +1,5 @@
 ---
-date: 2019-03-22
+date: 2019-03-24
 category: blog
 tags:
     - Zastupitelstvo
@@ -26,5 +26,4 @@ Doprava se vážně neobjevuje z nebe :-). Musí ji vždy někdo zaplatit. V př
 Značnou nevýhodou, výše zmíněnou, je skutečnost, že i ve Varech jsou zastávky docela daleko od nejhustěji obydlených míst. Obě zastávky pro Starou Roli jsou na okraji této čtvrti a vlak, i když bude o pár minut rychlejší než autobus, mu nemůže konkurovat, jestliže ten jede centrem Role. Nelze očekávat, že lidé půjdou deset minut na zastávku, tam počkají deset minut na vlak a pojedou deset minut do centra. Za půl hodiny jste tam i z Role pěšky.
 
 Rozumné doplnění železničních zastávek má ve Varech smysl. Ale nelze očekávat, že by vlak někdy plnohodnotně nahradil (nebo i doplnil) autobusovou dopravu. Na to jsou Vary zkrátka příliš malé město. Železnice bude vždy pouze doplňkem, plánované peníze by bylo vhodnější investovat do rozvoje MHD, například nákupem elektrobusů.
-
-- - - 
+- - -
