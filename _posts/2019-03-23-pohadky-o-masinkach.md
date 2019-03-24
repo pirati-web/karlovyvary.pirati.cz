@@ -5,7 +5,7 @@ tags:
     - Zastupitelstvo
     - Komentáře
     - F-Air
-title: Pohádky o mašinkách
+title: "Pohádky o mašinkách"
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
 image: posts/masinky_titulka.jpg
