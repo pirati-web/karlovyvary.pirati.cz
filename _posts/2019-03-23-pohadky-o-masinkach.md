@@ -3,8 +3,7 @@ date: 2019-03-23
 category: blog
 tags:
     - Zastupitelstvo
-    - Glosy
-    - Železnice
+
 title: Pohádky o mašinkách
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
