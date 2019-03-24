@@ -6,7 +6,7 @@ tags:
 title: Povolební strategie Pirátů Karlovy Vary
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
-image: posts/logo_PKV.png
+image: posts/masinky_titulka.jpg
 ---
 **_Česká pirátská strana je liberální, demokratická, středová strana s moderním protikorupčním programem. Naším cílem je prosazovat program, ať už jsme v koalici nebo v opozici. Chceme, aby občané Karlových Varů, kteří se rozhodnou podpořit svým hlasem Piráty, jasně věděli, jak budeme po volbách pracovat. To, že usilujeme o změnu politické kultury a transparence, u nás není jen na papíře. Proto předkládáme jasnou a závaznou strategii povolební činnosti._**
 
@@ -40,7 +40,7 @@ Pokud zůstaneme v opozici, budeme usilovat o pozice ve výborech, především 
 -   Označení hlasování za tzv. zásadní hlasování musí být přijato minimálně 2/3 členů klubu a nesmí být v rozporu s programem strany, případně schváleným programovým prohlášením koalice. V takovém případě se očekává, že klub bude hlasovat na jednání zastupitelstva jednotně.
 -   Klub schvaluje rozdělení funkcí a gescí uvnitř klubu, volí a odvolává svého předsedu a případné místopředsedy a schvaluje svůj jednací řád.
 
-Součástí povolební strategie je i **12 bodů**, které budeme prosazovat od samého začátku a které musí být součástí případné koaliční dohody:
+Součástí povolební strategie je i **15 bodů**, které budeme prosazovat od samého začátku a které musí být součástí případné koaliční dohody:
 
 1.  **Městské firmy a organizace bez politiků v čele – na každé takové místo otevřené výběrové řízení; politici nebudou ani ve správních radách městských firem.**
 2.  **Participativní rozpočtování v rámci rozpočtu města.**
