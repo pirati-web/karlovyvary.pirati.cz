@@ -9,9 +9,7 @@ title: Pohádky o mašinkách
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
 image: posts/masinky_titulka.jpg
-
 ---
-
 **Železnici mám velmi rád. Asi bych mohl být zařazen mezi šotouše. Přesto ve mně znovuoprášený projekt „vlakotramvaje“ v Karlových Varech nevyvolává nadšení. Můžeme si dlouho hrát na Transport Tycoon s mapou našeho města, ale reálný provoz nás pošle do patřičných mezí.**
 
 Na začátku stál projekt nových železničních zastávek na území města, které v rámci evropských dotací nakreslil tým Patrika Kotase. Je to sice uznávaný dopravní architekt, ale jeho stavby nevzbuzují vždy nadšení ([https://www.archiweb.cz/news/zde-je-kotasovo](https://www.archiweb.cz/news/zde-je-kotasovo)). Projekt zastávek stál necelý milion a můžete se na něj podívat zde: [https://mmkv.cz/cs/uzemni-koncepcni-studie-nove-zeleznicni-zastavky-v-karlovych-varech-cistopis](https://mmkv.cz/cs/uzemni-koncepcni-studie-nove-zeleznicni-zastavky-v-karlovych-varech-cistopis).
