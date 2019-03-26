@@ -3,7 +3,7 @@ date: 2019-03-11
 category: blog
 tags:
     - Zastupitelstvo
-    - Komentáře
+    - Vyjádření
     - F-Air
 title: Vyjádření Pirátů k letecké škole
 author: Pavel Sušanin
