@@ -3,7 +3,7 @@ date: 2019-03-24
 category: blog
 tags:
     - Zastupitelstvo
-    - Glosa
+    - Kometář
 title: Pohádky o mašinkách
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
