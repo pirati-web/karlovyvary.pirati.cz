@@ -1,7 +1,7 @@
 ---
 date: 2019-03-26
 category: blog
-layout: ppost
+layout: post
 tags:
     - Zastupitelstvo
     - Glosa
