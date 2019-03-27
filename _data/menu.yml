@@ -28,7 +28,7 @@ main:
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
-    submenu:
+    # submenu:
       - link: /komunalni-volby/mapa-zameru/
         name: Mapa záměrů
         match: mapa-zameru
