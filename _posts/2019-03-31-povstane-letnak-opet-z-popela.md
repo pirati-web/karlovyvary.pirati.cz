@@ -62,10 +62,10 @@ Pochopitelně zbývá to nejdůležitější – náplň. Dovolím si tvrdit, ž
 
 Jednotlivé strany městské koalice jsou evidentně rozpolceny v tom, co chtít. Kulturní komise, jímž jsem členem a kde, stejně jako v ostatních komisích a výborech, má koalice většinu, jednomyslně schválila toto usnesení:
 
-> _Komise kulturní, památkové péče a architektury doporučuje radě města:_
-> _- zachovat do budoucna koncept a funkce letní scény (Letního kina) v Karlových Varech,_
-> _- hledat možnosti dalšího využití tohoto kulturního zařízení,_
-> _- doporučuje KAM KV jako koordinátora pro hledání budoucího smysluplného využití tohoto kulturního zařízení._
+_Komise kulturní, památkové péče a architektury doporučuje radě města:_  
+_- zachovat do budoucna koncept a funkce letní scény (Letního kina) v Karlových Varech,_  
+_- hledat možnosti dalšího využití tohoto kulturního zařízení,_  
+_- doporučuje KAM KV jako koordinátora pro hledání budoucího smysluplného využití tohoto kulturního zařízení._
 
 Je to diametrálně odlišné od názoru primátorky a vedení. Často slýcháváme, že ve městě nic není, nic se neděje a není kam jít. Proto mi nepřijde vhodné se zbavovat zajímavé a tradiční scény, která by se, při troše snahy, mohla stát kulturním středobodem letního dění ve městě.
 - - - 
