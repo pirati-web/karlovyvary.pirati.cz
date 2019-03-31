@@ -3,7 +3,8 @@ date: 2019-03-31
 category: blog
 tags:
     - Zastupitelstvo
-    - Postřehy
+    - Komentář
+    - Letní_kino
 title: Povstane Letňák (opět) z popela?
 author: Jindřich Čermák
 authorId: jindrich.cermak
