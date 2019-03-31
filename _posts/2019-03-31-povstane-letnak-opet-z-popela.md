@@ -27,7 +27,8 @@ Před volbami v roce 2010 se několik opozičních stran přihlásilo k rekonstr
 
 Do opravy, nikoliv bourání, se pustilo záhy. Práce v hodnotě osmi milionů korun stála nakonec miliony čtyři. Nutno říci, že celá řada věcí byla během rekonstrukce hraně, zejména komunikace s památkáři ale požadavek byl opravit kino rychle, levně a funkčně, což se povedlo za zlomek ceny, za jakou chtěla velká koalice areál opravit.
 
-![Letní kino 2009](/assets/img/posts/lk01.png)
+![Letní kino 2009](/assets/img/posts/lk01.jpg)
+*Letní kino 2009*
 
 ## Současnost
 
@@ -47,7 +48,8 @@ V roce 2017 i 2018 se město pokusilo pobídkou areál oživit a koncerty dotáh
 
 Nutno si uvědomit jednu věc – letní kino bylo postaveno pro účely filmového festivalu a dlouhá léta byl jeho nedílnou součástí. Kdy jindy, než když jsou ve městě tisíce filmůmilovných návštěvníků, by kino mělo být v permanenci. Bohužel, tento potenciál nebyl v posledních letech plně využit (ani když promítání z pásů bylo ještě běžné).
 
-![Letní kino 2011](/assets/img/posts/lk02.png)
+![Letní kino 2011](/assets/img/posts/lk02.jpg)
+*Letní kino 2011*
 
 ## Budoucnost
 
