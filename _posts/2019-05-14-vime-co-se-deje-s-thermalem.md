@@ -10,7 +10,7 @@ author: MS Karlovy Vary
 image: posts/lht_bazen.jpg
 ---
 
-**Rekonstrukce komplexu lázeňského hotelu Thermal evidentně postoupila do další fáze. Podle informací z médií i prostřednictvím vnoučat architekty Machoninové se začíná naplno pracovat uvnitř stavby a stejně tak se připravuje nenávratná likvidace padesátimetrového bazénu, jediného v Karlovarském kraji. Musíme touto cestou opět apelovat na primátorku a vedení města, aby se pokusili zabránit nejhoršímu.**
+**Rekonstrukce komplexu lázeňského hotelu Thermal evidentně postoupila do další fáze. Podle informací z médií (například [reportáž Seznam zpráv](https://www.seznamzpravy.cz/clanek/babisem-slibovanou-rekonstrukci-hotelu-thermal-kritizuji-architekti-pamatkari-i-jeho-autorka-71850)) i prostřednictvím vnoučat architekty Machoninové se začíná naplno pracovat uvnitř stavby a stejně tak se připravuje nenávratná likvidace padesátimetrového bazénu, jediného v Karlovarském kraji. Musíme touto cestou opět apelovat na primátorku a vedení města, aby se pokusili zabránit nejhoršímu.**
 
 Na lednovém zasedání zastupitelstva města jsme varovali před utajováním projektu plánované rekonstrukce. Varovali jsme před tím, že město nemá žádné informace a nevíme, jak bude naloženo s bazénem. Proto jsme navrhli usnesení, které bylo drtivou většinou zastupitelů napříč politickými kluby přijato: **„Zastupitelstvo města uložilo radě města, aby zajistila po Ministerstvu financí ČR kompletní informace o rekonstrukci LH Thermal a o zájemcích o provozování bazénu LH Thermal.“**
 
