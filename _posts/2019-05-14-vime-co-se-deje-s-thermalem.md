@@ -42,5 +42,6 @@ Paní primátorko, vezměte telefon a vytočte číslo premiéra a ministryně S
 
 Vyzýváme k dodržení usnesení a získání všech dostupných materiálů k rekonstrukci. Město musí vstoupit do procesu rozhodování o budoucnosti významné karlovarské dominanty.
 
-![Podle manažera rekonstrukce je "je to zatím ve fázi projektové přípravy. Jde o zateplení pláště a rekonstrukce pokojů. Tam, kde to bude možné a dovolí to požární předpisy, se samozřejmě snažíme zachovat původní interiér“. Ale rube se fest...](/assets/img/posts/lht_stavba.jpg)
+![](/assets/img/posts/lht_stavba.jpg)
+*Podle manažera rekonstrukce"je to zatím ve fázi projektové přípravy. Jde o zateplení pláště a rekonstrukce pokojů. Tam, kde to bude možné a dovolí to požární předpisy, se samozřejmě snažíme zachovat původní interiér“. Ale rube se fest...*
 - - - 
