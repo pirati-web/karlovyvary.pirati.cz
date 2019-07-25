@@ -22,4 +22,4 @@ Předseda zastupitelského klubu Pirátů Jindřich Čermák komentuje: *„Trag
 
 Situaci kolem předsedy představenstva Alžbětiných lázní vnímáme se smíšenými pocity. Určitě měl svou situaci přednést zastupitelstvu otevřeně a ihned po jmenování do funkce. Vedení města mělo také jasně stanovit priority a na ty svázat odměnu, která má být odpovídající náročnosti. Navýšení po devíti měsících spíš ukazuje na bezradnost. Nutno ovšem uznat zápal Václava Benedikta a snahu o zachování posledního městského lázeňského provozu v Alžbětiných lázních.
 
----
+- - -
