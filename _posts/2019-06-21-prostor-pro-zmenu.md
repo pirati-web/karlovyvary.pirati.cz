@@ -6,7 +6,7 @@ tags:
     - Zastupitelstvo
     - Glosa
     - Radnicni_listy
-title: Prostor pro ozměnu
+title: Prostor pro změnu
 author: Pavel Sušanin
 authorId: pavel.susanin   # uid nekoho z _people (nepoviné)
 image: posts/pavel_cl.jpg
