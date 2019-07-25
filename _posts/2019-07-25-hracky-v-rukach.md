@@ -11,12 +11,25 @@ author: MS Karlovy Vary
 
 image: posts/al.jpg
 ---
-**Karlovy Vary jsou často označovány jako rozdělené město. A myslím, že po právu. Je to dáno částečně jeho prostorovým uspořádáním a částečně rozdílným rytmem života domácích obyvatel a návštěvníků města, ať už jsou to turisté nebo lázeňští hosté. Chceme-li tento stav změnit, musíme aktivně pracovat na propojení všech prvků města.**
+**Vedení Karlových Varů je stále přesvědčeno, že ta správná stranická knížka je nejlepším předpokladem pro řízení městské firmy. 
+To přináší nejistotu, časté změny a chybějící plány. I v roce 2019 platí, že městské firmy jsou hračky v rukách politiků.**
 
-Kvalitní veřejný prostor může být pojivem, které pomůže utvářet město jako funkční celek. Vizuální podoba prostředí, v němž žijeme, má větší vliv na naše životy, než si mnozí připouští. Ve veřejném prostoru se prolínají životy obyvatel i návštěvníků a jeho kvalita je tedy jejich společným zájmem. Výrazným příkladem, kde vítězí soukromý zájem nad veřejným, je reklama. S větším či menším odporem jsme byli přinuceni přijmout vysokou míru tolerance vůči vizuálnímu smogu. Přirozenou reakcí je také určitá forma selektivního vnímání, na což reklama reaguje stále hrubšími zásahy do veřejného prostoru v boji o naši pozornost. Přestože město nemá pro regulaci reklamy příliš silnou oporu v legislativě, věřím, že je to prostor pro výrazný posun k přívětivějšímu městskému prostředí.
+Nejnovější karlovarská kauza, která se týká předsedy představenstva Alžbětiných lázní Václava Benedikta, nám tento problém obnažuje
+ve své celé podstatě. Ani nová koalice neřeší problém systematicky a pokračuje ve vyjetých kolejích, kdy většina městských firem vykazuje
+napojení na spřátelené koaliční kruhy.
 
-Logickým krokem v této situaci je vytvoření manuálu veřejných prostranství, který by měl najít takové prvky a vlastnosti veřejného prostoru, které budou oním pojivem jednotlivých částí města a jejich obyvatel a návštěvníků. Město tím získá návod, jak pozvednout laťku kvality veřejného prostoru. Tento dokument by měl také definovat kroky vedoucí ke zvýšení povědomí o významnosti tohoto tématu pro úspěšný rozvoj města, které usiluje o přijetí na seznam UNESCO. Je zcela zřejmé, že od manuálu k jeho skutečnému naplnění vede opravdu dlouhá cesta, jak na straně politické reprezentace, tak na straně veřejnosti. O to víc je důležité se na ní vydat co nejdříve a za každých okolností “držet kurz”.
+Bohužel, tato praxe silně zakořenila s minulou radnicí, kdy až naprosto katastrofální situace v KV Areně vedla k opravdu otevřenému 
+výběrovému řízení a hala dostala kompetentní vedení. Některé další městské společnosti, zejména KV City Centrum, takové štěstí neměly.
 
+Předseda zastupitelského klubu Pirátů Jindřich Čermák komentuje: *„Tragédie některých městských firem v Karlových Varech spočívá v tom,
+že místo je přiděleno na základě politického klíče, bez vize, bez plánu, v podstatě každému, kdo jde kolem. Transparentní výběrové řízení,
+které by mělo být standardem, je v tomto případě sprosté slovo. Falešný je rovněž pocit šetření penězi, který je občas vedením prezentován.
+Pokud chceme, aby městská firma byla úspěšná, nelze ji řídit jako vedlejšák k politické činnosti. Zkrátka platí, nejsme tak bohatí, 
+abychom platili levné politiky.“*
 
-*Článek vyšel v Karlovarských radničních listech - 06/2019*
-- - - 
+Situaci kolem předsedy představenstva Alžbětiných lázní vnímáme se smíšenými pocity. Určitě měl svou situaci přednést zastupitelstvu 
+otevřeně a ihned po jmenování do funkce. Vedení města mělo také jasně stanovit priority a na ty svázat odměnu, která má být odpovídající
+náročnosti. Navýšení po devíti měsících spíš ukazuje na bezradnost. Nutno ovšem uznat zápal Václava Benedikta a snahu o zachování 
+posledního městského lázeňského provozu v Alžbětiných lázních.
+
+- - -
