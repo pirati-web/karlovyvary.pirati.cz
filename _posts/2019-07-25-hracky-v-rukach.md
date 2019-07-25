@@ -4,11 +4,11 @@ category: blog
 layout: post
 tags:
     - Zastupitelstvo
-    - Glosa
-    - Radnicni_listy
+    - Vyjádření
+    
 title: Hračky v rukách politiků
-author: Pavel Sušanin
-authorId: pavel.susanin   # uid nekoho z _people (nepoviné)
+author: MS Karlovy Vary
+
 image: posts/al.jpg
 ---
 **Karlovy Vary jsou často označovány jako rozdělené město. A myslím, že po právu. Je to dáno částečně jeho prostorovým uspořádáním a částečně rozdílným rytmem života domácích obyvatel a návštěvníků města, ať už jsou to turisté nebo lázeňští hosté. Chceme-li tento stav změnit, musíme aktivně pracovat na propojení všech prvků města.**
