@@ -5,7 +5,7 @@ layout: post
 tags:
     - Zastupitelstvo
     - Vyjádření
-title: Hračky v rukách ANO, ODS a Karlovaráků
+title: Hračky v rukách politiků
 author: MS Karlovy Vary
 image: posts/al.jpg
 
