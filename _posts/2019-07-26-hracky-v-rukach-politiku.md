@@ -7,7 +7,7 @@ tags:
     - Vyjádření
 title: Hračky v rukách politiků
 author: MS Karlovy Vary
-image: posts/al.jpg
+
 
 ---
 **Vedení Karlových Varů je stále přesvědčeno, že ta správná stranická knížka je nejlepším předpokladem pro řízení městské firmy. To přináší nejistotu, časté změny a chybějící plány. I v roce 2019 platí, že městské firmy jsou hračky v rukách politiků.**
