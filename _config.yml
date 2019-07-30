@@ -6,7 +6,7 @@
 #
 
 title: Piráti Karlovy Vary # To co je napsané na tabu ve kterém je stránka.
-email: jindrich.cermak@pirati.cz
+email: daniela.bila@pirati.cz
 description: Piráti Karlovy Vary
   
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -18,8 +18,8 @@ administrator:
 organization:
   name: Piráti Karlovy Vary
   shortName: MS KV
-  email: jindrich.cermak@pirati.cz
-  phone: +420 604 317 512
+  email: daniela.bila@pirati.cz
+  phone: +420 606 812 941
   address: |
    Moskevská 60, Karlovy Vary, 360 01
   residenceImg:
@@ -41,9 +41,9 @@ contactSummaryItems:
   - type: organizationDataBox
   - type: piratiRootWebsite
   - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/PiratiKV/" target="_blank">Piráti Karlovy Vary</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
