@@ -4,9 +4,10 @@ name:     Martin Hovorka  	# běžně používáné jméno
 titles:
   before: Ing.
   after: 
-category:
-description: 
+# category:
+# description: 
 img: people/martin_hovorka.png # zakomentuj radek dokud není fotka
+
 # mail:
   - bohdan.vanek@seznam.cz
 profiles:
