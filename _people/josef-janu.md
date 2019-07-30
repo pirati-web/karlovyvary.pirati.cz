@@ -8,7 +8,6 @@ category:
   - zastupitel
   - vybor
   - kraj
-  - predsednictvo
 ordz: 4
 ordvy: 2
 ordkr: 1
