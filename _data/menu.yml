@@ -38,6 +38,9 @@ main:
       - link: /komunalni-volby/povolebni-strategie.html
         name: Povolební strategie
         match: povolebni-strategie
+  - link: /komunalni-volby/kauzy.html
+        name: Kauzy
+        match: kauzy
   - link: /kontakt/
     name: Kontakt
     match: kontakt
