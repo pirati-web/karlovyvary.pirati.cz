@@ -41,6 +41,9 @@ main:
       - link: /komunalni-volby/povolebni-strategie.html
         name: Povolební strategie
         match: povolebni-strategie
+  - link: /zajemci/
+    name: Přidej se!
+    match: zajemci
   - link: /kontakt/
     name: Kontakt
     match: kontakt
