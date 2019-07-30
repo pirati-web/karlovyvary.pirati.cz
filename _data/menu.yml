@@ -28,10 +28,15 @@ main:
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
-    # submenu:
-    # - link: /komunalni-volby/mapa-zameru/
-    #   name: Mapa záměrů
-    #    match: mapa-zameru
+      - link: /komunalni-volby/
+        name: Kandidátka
+        match: komunalni-volby
+      - link: /komunalni-volby/program.html
+        name: Program
+        match: program
+      - link: /komunalni-volby/povolebni-strategie.html
+        name: Povolební strategie
+        match: povolebni-strategie
   - link: /kontakt/
     name: Kontakt
     match: kontakt
