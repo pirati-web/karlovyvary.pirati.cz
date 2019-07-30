@@ -7,10 +7,11 @@ titles:
 category:
   - zastupitel
   - komis
-  
+  - predsednictvo
 ordz: 1
 ordko: 1
-description: předseda zastupitelského klubu, člen Komise kulturní, památkové péče a architektury města
+ordpms: 3
+description: předseda zastupitelského klubu, člen Komise kulturní, památkové péče a architektury města, 2.místopředseda Pirátů Karlovy Vary
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
