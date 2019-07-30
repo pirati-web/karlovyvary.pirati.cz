@@ -1,7 +1,6 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-number: 8 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jindrich.cermak
   age: 35
