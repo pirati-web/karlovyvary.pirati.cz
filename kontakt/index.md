@@ -9,19 +9,12 @@ contentSize: default
 # contentSize: even
 ---
 
-<div class="pce-hero pce-hero--entry">
-    <div class="pce-hero__content">
-        <h1 class="t-h1-super">Přidejte se k Pirátům v Karlových Varech!</h1>
-        <h2 class="t-h4-alt">Sledujte nás, pomozte nám v kampaních, expertních týmech nebo se rovnou naloďte na naši palubu!</h2>
-        <a href="https://nalodeni.pirati.cz" class="button large u-1margin--top" target="_blank" rel="noopener">Chci se přidat k Pirátům</a>
-    </div>
-</div>
 
 Zajímá vás co Piráti dělají? Ozvěte se předsedkyni Daniele Bílé nebo předsedovi zastupitelů Jindřichovi Čermákovi.
 
 Nebo si přijďte s námi popovídat k pivu. Otevřená setkání máme každý čtvrtek od půl osmé v hospůdce Ohře poblíž Chebského mostu!
 
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s Danielou Bílou.
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
+Pokud chcete darovat přimo naší MS poraďte se přímo s Danielou Bílou.
 
