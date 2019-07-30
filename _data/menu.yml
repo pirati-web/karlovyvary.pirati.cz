@@ -32,7 +32,7 @@ main:
       - link: /komunalni-volby/
         name: Kandidátka
         match: komunalni-volby
-      - link: "https://drive.google.com/file/d/16RnfRNNqIq9_fYLKHADNgmW2JzCUJTC_/view"
+      - link: /komunalni-volby/program.html
         name: Program
         match: program
       - link: /komunalni-volby/povolebni-strategie.html
