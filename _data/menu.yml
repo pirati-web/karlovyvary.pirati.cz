@@ -15,7 +15,7 @@ top:
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
   - link: "Volební program"
-    url:  "https://drive.google.com/file/d/16RnfRNNqIq9_fYLKHADNgmW2JzCUJTC_/view"
+    link: /komunalni-volby/program.html
     icon: "fa fa-file"
 
 main:
