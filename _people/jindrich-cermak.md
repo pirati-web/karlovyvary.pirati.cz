@@ -8,6 +8,7 @@ category:
   - zastupitel
   - komis
   - predsednictvo
+  - kontaktni_osoba
 ordz: 1
 ordko: 1
 ordpms: 3
