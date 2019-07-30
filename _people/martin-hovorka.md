@@ -8,8 +8,6 @@ titles:
 # description: 
 img: people/martin_hovorka.png # zakomentuj radek dokud není fotka
 
-# mail:
-  - bohdan.vanek@seznam.cz
 profiles:
 # facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
 # googleplus: https://plus.google.com/+uzivatel.na.googleplus
