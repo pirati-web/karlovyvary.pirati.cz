@@ -15,7 +15,7 @@ top:
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
   - link: "Volební program"
-    link: /komunalni-volby/program.html
+    url: "https://karlovyvary.pirati.cz/komunalni-volby/program.html"
     icon: "fa fa-file"
 
 main:
