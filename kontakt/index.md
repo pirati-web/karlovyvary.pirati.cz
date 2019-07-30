@@ -9,15 +9,19 @@ contentSize: default
 # contentSize: even
 ---
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
+<div class="pce-hero pce-hero--entry">
+    <div class="pce-hero__content">
+        <h1 class="t-h1-super">Přidejte se k Pirátům v Karlových Varech!</h1>
+        <h2 class="t-h4-alt">Sledujte nás, pomozte nám v kampaních, expertních týmech nebo se rovnou naloďte na naši palubu!</h2>
+        <a href="https://nalodeni.pirati.cz" class="button large u-1margin--top" target="_blank" rel="noopener">Chci se přidat k Pirátům</a>
+    </div>
 </div>
 
-Zajámá vás co piráti dělají? Ozvěte se Jindřichovi Čermákovi nebo přijďte k nám
-na schůze které pořádáme v E-picu nebo si přijďte pokecat do hospůdky Ohře, kde se pravidelně setkáváme každý čtvtek.
+Zajímá vás co Piráti dělají? Ozvěte se předsedkyni Daniele Bílé nebo předsedovi zastupitelů Jindřichovi Čermákovi.
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Nebo si přijďte s námi popovídat k pivu. Otevřená setkání máme každý čtvrtek od půl osmé v hospůdce Ohře poblíž Chebského mostu!
+
 
 Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s Jindřichem Čermákem.
+Pokud chcete darovat přimo naší MS poradtě se s Danielou Bílou.
 
