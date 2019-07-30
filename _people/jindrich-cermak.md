@@ -7,8 +7,7 @@ titles:
 category:
   - zastupitel
   - komis
-  - kontaktni_osoba
-ordz: 1
+ ordz: 1
 ordko: 1
 description: předseda zastupitelského klubu, člen Komise kulturní, památkové péče a architektury města
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
