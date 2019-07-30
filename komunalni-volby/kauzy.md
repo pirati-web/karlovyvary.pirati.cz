@@ -157,7 +157,7 @@ Vřídlo je to nejcennější, co ve městě máme. Díky němu je naše město 
 
 ---
 
-![](/assets/img/posts//kauzy06_cl.png)
+![](/assets/img/posts//kauzy07_cl.png)
 
 Dřívější perla lázeňství ve městě se stala jedním z největších kamenů na krku města. Již přes třicet let budova neslouží svému plánovanému zaměření, tj. balneologii. Nejdříve zde fungovalo kasino (již od roku 1988!), posléze je využití budovy víceméně sporadické, kdy nejvíce ožívá během filmového festivalu.
 
