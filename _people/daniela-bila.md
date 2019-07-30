@@ -7,6 +7,7 @@ titles:
 category:
   - komis
   - predsednictvo
+  - kontaktni_osoba
 ordko: 3
 ordpms: 2
 description: členka Komise školství, vzdělávání a demografie, 
