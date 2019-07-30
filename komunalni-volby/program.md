@@ -3,7 +3,8 @@ layout: page
 title: Program pro komunální volby 2018
 campaignGroupUid: radnice
 ---
-![](/assets/img/posts//prog01_zdroje.png) ## Územní rozvoj, bydlení a sociální služby
+![](/assets/img/posts//prog01_zdroje.png) 
+## Územní rozvoj, bydlení a sociální služby
 
 Lázeňství v Karlových Varech stojí na jedinečných přírodních zdrojích. Primárními potřebami jsou tedy náležitá péče o tyto zdroje a rozvoj znalostí a způsobů jejich využití.
 
