@@ -3,7 +3,7 @@ layout: page
 title: Program pro komunální volby 2018
 campaignGroupUid: radnice
 ---
-![](/assets/img/posts//prog01_zdroje.png)## **Zdravé zdroje,** *aneb péče o klenot města*##
+![](/assets/img/posts//prog01_zdroje.png) ## **Zdravé zdroje,** *aneb péče o klenot města*
 
 Lázeňství v Karlových Varech stojí na jedinečných přírodních zdrojích. Primárními potřebami jsou tedy náležitá péče o tyto zdroje a rozvoj znalostí a způsobů jejich využití.
 
@@ -15,7 +15,7 @@ Obyvatelé lázeňského města musí mít k dispozici kvalitní nabídku láze�
 
 ---
 
-![](/assets/img/posts//prog02_prace.png)## Dobře placená práce **co vás baví?**##
+![](/assets/img/posts//prog02_prace.png) ## Dobře placená práce **co vás baví?**
 
 V ideálním světě samozřejmost, bohužel jaká je realita v našem městě všichni víme. Lokální zaměstnavatelé jsou ve velké míře soukromé subjekty – čili nelze z pozice města ovlivnit jejich zaměstnaneckou či platovou politiku. Co však z pozice města lze, je motivovat zaměstnavatele aby nabízeli zaměstnancům lepší
 
@@ -27,7 +27,7 @@ Zároveň se budeme snažit nalézt zdroje financování platů odborníků pot�
 
 ---
 
-![](/assets/img/posts//prog03_bezp.png)## Kdo si hraje, nezlobí, **aneb bezpečné ulice**!##
+![](/assets/img/posts//prog03_bezp.png) ## Kdo si hraje, nezlobí, **aneb bezpečné ulice**!
 
 Dostupné bydlení, dobře placená práce, dostatek sportovního i kulturního vyžití, široké možnosti celoživotního vzdělávání. To jsou základní atributy spokojeného života bez stresu, v klidu a v míru. Přesně proto na ně také myslíme v našem programu 😉.
 
