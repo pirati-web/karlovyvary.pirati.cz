@@ -28,6 +28,14 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 56
     party: nestraník
     description: zastupitelka, ředitelka kanceláře krajského ředitele HZS Karlovarského kraje  
+  - uid: bohdan.vanek
+    age: 44
+    party: nestraník
+    description: ekonomický analytik a manažer rozvojových projektů 
+  - uid: jana.jandova
+    age: 64
+    party: nestraník
+    description: předsedkyně spolku
 # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
