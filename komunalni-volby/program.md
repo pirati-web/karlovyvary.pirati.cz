@@ -3,7 +3,7 @@ layout: page
 title: Program pro komunální volby 2018
 campaignGroupUid: radnice
 ---
-![](/assets/img/posts//prog01_zdroje.png) ## **Zdravé zdroje,** *aneb péče o klenot města*
+![](/assets/img/posts//prog01_zdroje.png) ##Zdravé zdroje, aneb péče o klenot města
 
 Lázeňství v Karlových Varech stojí na jedinečných přírodních zdrojích. Primárními potřebami jsou tedy náležitá péče o tyto zdroje a rozvoj znalostí a způsobů jejich využití.
 
