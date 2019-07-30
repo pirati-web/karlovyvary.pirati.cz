@@ -35,7 +35,23 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: jana.jandova
     age: 64
     party: nestraník
-    description: předsedkyně spolku
+    description: předsedkyně spolku 
+  - uid: martin.hovorka
+    age: 44
+    party: nestraník
+    description: autorizovaný stavební inženýr 
+  - uid: libor.huml
+    age: 36
+    party: nestraník
+    description: svobodný člověk 
+  - uid: renata.andrejskova
+    age: 35
+    party: nestraník
+    description: právní poradce v rodinné a občanské poradně 
+  - uid: helena.vrbicka
+    age: 57
+    party: nestraník
+    description: úřednice
 # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
