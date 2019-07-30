@@ -45,7 +45,7 @@ main:
     name: Kontakt
     match: kontakt
     submenu:
-      - link: kontakt/zajemci.hmtl
+      - link: kontakt/zajemci.html
         name: Přidej se!
         match: zajemci
 bottom:
