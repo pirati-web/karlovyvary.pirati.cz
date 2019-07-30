@@ -26,7 +26,7 @@ main:
     name: Naše posádka
     match: lide
   - link: /komunalni-volby/
-    name: Komunální volby
+    name: Volby 2018
     match: komunalni-volby
     submenu:
       - link: /komunalni-volby/
