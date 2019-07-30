@@ -28,6 +28,7 @@ main:
   - link: /komunalni-volby/
     name: Komunální volby
     match: komunalni-volby
+    submenu:
       - link: /komunalni-volby/
         name: Kandidátka
         match: komunalni-volby
