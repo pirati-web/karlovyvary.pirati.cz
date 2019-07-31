@@ -1,5 +1,5 @@
 ---
-title: Kandidátka
+title: Kandidátka na radnici
 uid: radnice
 leader:
   uid: jindrich.cermak
@@ -35,8 +35,22 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: jana.jandova
     age: 64
     party: nestraník
-    description: předsedkyně spolku 
-
-note: #
-
+    description: předsedkyně spolku
+# tail: # zbytek kandidatky
+      # jedinná povinná položka je name zbytek můžete vynechat
+      # věk se uvádí k poslednímu dni voleb
+ #- name: Mudr. Místní Dkotor
+ #  age: 49
+ #  profession: obvodní lékař
+ #  party: bez politické příslušnosti
+ #- name: Tomáš Šťoural
+ #  age: 19
+ #  profession: student
+ #  party: Piráti
+ #- uid: mistni.predseda
+ #  profession: knihovník
+ #  description: expert na skoky
+ #  party: bez politické příslušnosti
+note: # poznámka pod kanidátku
+   # Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
