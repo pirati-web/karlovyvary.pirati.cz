@@ -36,25 +36,5 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 64
     party: nestraník
     description: předsedkyně spolku 
-  - uid: martin.hovorka
-    age: 44
-    party: nestraník
-    description: autorizovaný stavební inženýr 
-  - uid: libor.huml
-    age: 36
-    party: nestraník
-    description: svobodný člověk 
-  - uid: renata.andrejskova
-    age: 35
-    party: nestraník
-    description: právní poradce v rodinné a občanské poradně 
-  - uid: helena.vrbicka
-    age: 57
-    party: nestraník
-    description: úřednice 
-  - uid: martin.helebrant
-    age: 33
-    party: nestraník
-    description: jednatel Café Piccolo 
   
 ---
