@@ -48,6 +48,13 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 35
     party: nestraník
     description: právní poradce v rodinné a občanské poradně 
-
+  - uid: helena.vrbicka
+    age: 57
+    party: nestraník
+    description: úřednice 
+  - uid: martin.helebrant
+    age: 33
+    party: nestraník
+    description: jednatel Café Piccolo 
   
 ---
