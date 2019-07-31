@@ -36,5 +36,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 64
     party: nestraník
     description: předsedkyně spolku 
-  
+
+note: #
 ---
