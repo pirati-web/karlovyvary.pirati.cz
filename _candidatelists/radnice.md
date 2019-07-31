@@ -1,5 +1,5 @@
 ---
-title: Kandidátka na radnici
+title: Kandidátka
 uid: radnice
 leader:
   uid: jindrich.cermak
@@ -38,4 +38,5 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: předsedkyně spolku 
 
 note: #
+
 ---
