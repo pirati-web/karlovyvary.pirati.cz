@@ -1,6 +1,6 @@
 ---
 uid: martin.helebrant
-name:     Martin Helebrant  	# běžně používáné jméno
+name: Martin Helebrant  	# běžně používáné jméno
 titles:
   before: 
   after: 
