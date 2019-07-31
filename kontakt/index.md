@@ -16,5 +16,5 @@ Nebo si přijďte s námi popovídat k pivu. Otevřená setkání máme každý 
 
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poraďte se přímo s Danielou Bílou. A nebo s Čermákem.
+Pokud chcete darovat přimo naší MS poraďte se přímo s Danielou Bílou.
 
