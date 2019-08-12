@@ -6,7 +6,7 @@ titles:
   after: 
 # category:
 # description: 
-img: people/daniel_farkas.png # zakomentuj radek dokud není fotka
+# img:  # zakomentuj radek dokud není fotka
 
 profiles:
 # facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
