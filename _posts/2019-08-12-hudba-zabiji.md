@@ -35,6 +35,8 @@ Proto ať žijí kompromisní řešení typu letního kina! Ať tady můžeme v�
 
 _Emil Dienelt_
 
+
+
 **Tohle město není pro mladý? Dobře popsaná situace**
 
 Dovolím si malou reakci na článek “Tohle město není pro mladý” v rubrice Hyde park. Autorka Barbora Hradecká velmi dobře popsala situaci v oblasti kultury v Karlových Varech, ale hlavně vztah vedení města ke kultuře a jeho podíl na tomto stavu. Ke kultuře se macešsky chovalo i předchozí vedení města. Když nastoupila Kulhánkova koalice, myslel jsem si, že se situace zlepší.
