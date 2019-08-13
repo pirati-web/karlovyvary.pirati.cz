@@ -6,7 +6,7 @@ titles:
   after: 
 # category:
 # description: 
-# img:  # zakomentuj radek dokud není fotka
+  img: people/jakub-pirat.jpg  # zakomentuj radek dokud není fotka
 
 profiles:
 # facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
