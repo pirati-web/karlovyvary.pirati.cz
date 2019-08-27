@@ -20,13 +20,13 @@ Naopak, některé potřebné opravy vůbec nebyly provedeny, například výměn
 
 Aktuálně (5.8.2018) se čeká na kompetentního revizního technika, aby se vyjádřil k provedeným opravám - CMAS nakonec přesvědčilo KV CITY aby si ho objednala. Následně se uvidí, co bude dál, i vzhledem k nadcházejícím komunálním volbám. CMAS je i nadále připraveno provoz a údržbu skateparku provádět, aby ne, když je to jejich dítě…
 
-![](/assets/img/posts/skp01.jpg)
+![](/assets/img/posts/skp01.JPG)
 
 “Doufejme, že se do vedení města a městských firem po volbách dostanou kompetentnější lidé, než doposud!” dodává Jindřich Fencl, syn Valerie Fenclové, který je spolu se svou přítelkyní Majdou v poslední době za CMAS nejaktivnější a zprostředkoval informace pro tento článek.
 
 Jindřich Fencl, alias “Feňa” je také aktivním skateboardistou, který naše město i republiku mnohokrát závodně reprezentoval, často na stupních vítězů. Ze stejné generace jezdců mají na triku mnohé úspěchy také zdejší Honza Janda nebo Michal Vavro, z mladší generace pak například Jan Kopecký, Jakub Strejc nebo Marek Verebely, z těch nejmladších uveďme Jirku Lafeka. A to jsou jen jezdci na skateboardu, skatepark však v dnešní době hojně využívají i jezdci na kolech či koloběžkách. Adrenalinové sporty provozované v bohatickém skateparku mají v Karlových Varech mnohé příznivce a mnoho jezdců s reprezentačním potenciálem. K tomu všemu mají tito jezdci zajištěno profesionální zázemí a podporu v CMAS (což není v Čechách na lokální úrovni úplně běžné), jen kdyby jim neházelo město polena pod kolena. Jako občasník CMAS funguje jejich facebookový profil (facebookcom/SkateparkVary), kde je do detailu popsána i aktuální situace - doporučuji sledovat.
 
-![](/assets/img/posts/skp02.jpg)
+![](/assets/img/posts/skp02.JPG)
 
 ZA PIRÁTY: Pokud budeme mít po volbách na magistrátu dostatečně silný hlas, zasadíme se o to, aby se aktivním občanům, jako jsou ti v CMAS, dostávalo od městských společností dostatek součinnosti (řídili je kompetentní lidé) a od města dostatek finančních prostředků, spravedlivě rozdělených mezi všechna sportovní odvětví a spolky zajišťující jejich život. Kompetentní zacházení si zcela jistě zaslouží i další strádající areály a činnosti pod správou KV CITY, jako například letní kino, burza nebo farmářské trhy!
 
