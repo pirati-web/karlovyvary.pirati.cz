@@ -30,5 +30,6 @@ Jindřich Fencl, alias “Feňa” je také aktivním skateboardistou, který na
 
 ZA PIRÁTY: Pokud budeme mít po volbách na magistrátu dostatečně silný hlas, zasadíme se o to, aby se aktivním občanům, jako jsou ti v CMAS, dostávalo od městských společností dostatek součinnosti (řídili je kompetentní lidé) a od města dostatek finančních prostředků, spravedlivě rozdělených mezi všechna sportovní odvětví a spolky zajišťující jejich život. Kompetentní zacházení si zcela jistě zaslouží i další strádající areály a činnosti pod správou KV CITY, jako například letní kino, burza nebo farmářské trhy!
 
-*Karel Zemek
+*Karel Zemek,
+
 odchovanec sk8 haly na Rozcestí*
