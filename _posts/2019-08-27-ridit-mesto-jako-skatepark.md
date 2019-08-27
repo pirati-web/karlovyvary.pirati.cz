@@ -5,7 +5,7 @@ layout: post
 tags:
     - Zastupitelstvo
     - Skatepark
-    - Městské firmy
+    - Městské_firmy
 title: Řídit město jako skatepark
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
