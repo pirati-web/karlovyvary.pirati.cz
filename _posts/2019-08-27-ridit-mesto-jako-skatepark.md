@@ -9,7 +9,7 @@ tags:
 title: Řídit město jako skatepark
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
-image: posts/skp000.jpg
+image: posts/skp00.jpg
 ---
 **Situace v karlovarském skateparku tak nějak odráží, jak se obecně v našem městě přistupuje k řešení problémů. Když se už loni prováděla oprava – udělala se mizerně a zfušovaně. Druhým rokem je areál zavřený. To ale nebrání městské firmě KV City Centrum (v jehož čele jsou osoby nejen politicky dosazené, ale přímo politické), aby od města obdržela 550.000 korun za údržbu areálu. Ano, zavřeného areálu, do kterého nikdo oficiálně nesmí.**
 
