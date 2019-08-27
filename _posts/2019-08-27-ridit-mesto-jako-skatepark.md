@@ -47,7 +47,9 @@ S navyšujícím počtem lidí ale paradoxně organizace přestává zvládat sv
 
 **Řídit město jako skatepark**
 
-Po nutné odbočce jsem se vrátil k hlavnímu tématu článku. Od roku 2016 má karlovarský skatepark (do té doby fungující) na starost právě KV City. A je paradoxní, že polovinu z tohoto času je areál bohatického skateparku zavřený. Hlavním kamenem úrazu se stala nepovedená rekonstrukce z loňského roku, o které jsme podrobněji psali v našich volebních novinách (článek si můžete přečíst zde).
+Po nutné odbočce jsem se vrátil k hlavnímu tématu článku. Od roku 2016 má karlovarský skatepark (do té doby fungující) na starost právě KV City. A je paradoxní, že polovinu z tohoto času je areál bohatického skateparku zavřený. Hlavním kamenem úrazu se stala nepovedená rekonstrukce z loňského roku, o které jsme podrobněji psali v našich volebních novinách (článek si můžete přečíst [zde](https://karlovyvary.pirati.cz/aktuality/patalie-olympijskeho-sportu.html))..
+
+![](/assets/img/posts/sk03.jpg)
 
 Městská firma tak naprosto selhává ve správě městského majetku. Porušuje tak hned několik bodů příkazní smlouvy:
 
@@ -77,6 +79,10 @@ Městská firma tak naprosto selhává ve správě městského majetku. Porušuj
 
 I přestože je skatepark zavřený, město posílá každý měsíc KV City Centru 45.833 Kč na správu areálu. Od začátku roku nepodniklo žádné kroky k tomu, aby se neutěšený stav někam posunul. A to i přes vytrvalý tlak ze strany CMAS. Absurdita stavu je dokonána tím, že jediná viditelná aktivita směřuje k vyfoukání prachu. Za půl milionu ročně se to vyplatí, ne?
 
+![](/assets/img/posts/sk02.jpg)
+
 Na červnovém jednání zastupitelstva jsme prosadili usnesení, kterým jsme vedení města chtěli zavázat, aby našlo nový model fungování skateparku. Jaké bylo naše zděšení, když jsme zjistili, že rada města tímto úkolem pověřila právě KV City Centrum. Ten si v nastavení modelu řekl o víc peněz (stálý správce) nebo více peněz (vybudování nového parku). Tedy organizace, která je dva roky neschopná skatepark pořádně opravit. Absurdita na karlovarský způsob.
+
+![](/assets/img/posts/sk01.jpg)
 
 Často všichni brečíme, jak nám utíkají mladí, že tu není co dělat a jak se město zaměřuje jen na určité vrstvy občanů. Správa parku pro alternativněji zaměřené sportovce je evidentně nadlidský úkol. Co chceme nabídnout těm, kteří pro svůj pohyb nepotřebují ledové království? Nejvíc mě mrzí, jaká je neustálá snaha házet klacky pod nohy těm aktivním Karlovarákům, kteří se snaží podpořit místní komunitu a něco budovat. To, co bychom měli nejvíce podporovat a snažit se o to, potlačujeme.
