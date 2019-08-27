@@ -47,9 +47,9 @@ S navyšujícím počtem lidí ale paradoxně organizace přestává zvládat sv
 
 **Řídit město jako skatepark**
 
-Po nutné odbočce jsem se vrátil k hlavnímu tématu článku. Od roku 2016 má karlovarský skatepark (do té doby fungující) na starost právě KV City. A je paradoxní, že polovinu z tohoto času je areál bohatického skateparku zavřený. Hlavním kamenem úrazu se stala nepovedená rekonstrukce z loňského roku, o které jsme podrobněji psali v našich volebních novinách (článek si můžete přečíst [zde](https://karlovyvary.pirati.cz/aktuality/patalie-olympijskeho-sportu.html))..
+Po nutné odbočce jsem se vrátil k hlavnímu tématu článku. Od roku 2016 má karlovarský skatepark (do té doby fungující) na starost právě KV City. A je paradoxní, že polovinu z tohoto času je areál bohatického skateparku zavřený. Hlavním kamenem úrazu se stala nepovedená rekonstrukce z loňského roku, o které jsme podrobněji psali v našich volebních novinách (článek si můžete přečíst [zde](https://karlovyvary.pirati.cz/aktuality/patalie-olympijskeho-sportu.html)).
 
-![](/assets/img/posts/sk03.jpg)
+![](/assets/img/posts/sk03.png)
 
 Městská firma tak naprosto selhává ve správě městského majetku. Porušuje tak hned několik bodů příkazní smlouvy:
 
