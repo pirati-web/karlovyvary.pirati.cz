@@ -1,6 +1,7 @@
 ---
 date: 2019-08-27
 category: blog
+layout: post
 tags:
     - Zastupitelstvo
     - Skatepark
@@ -86,3 +87,6 @@ Na červnovém jednání zastupitelstva jsme prosadili usnesení, kterým jsme v
 ![](/assets/img/posts/sk01.jpg)
 
 Často všichni brečíme, jak nám utíkají mladí, že tu není co dělat a jak se město zaměřuje jen na určité vrstvy občanů. Správa parku pro alternativněji zaměřené sportovce je evidentně nadlidský úkol. Co chceme nabídnout těm, kteří pro svůj pohyb nepotřebují ledové království? Nejvíc mě mrzí, jaká je neustálá snaha házet klacky pod nohy těm aktivním Karlovarákům, kteří se snaží podpořit místní komunitu a něco budovat. To, co bychom měli nejvíce podporovat a snažit se o to, potlačujeme.
+
+- - -
+
