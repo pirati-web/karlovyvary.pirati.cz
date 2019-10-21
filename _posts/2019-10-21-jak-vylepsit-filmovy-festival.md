@@ -78,4 +78,4 @@ _Konkrétně:_
 - Větší pohyb Městské policie přímo v ulicích města během festivalu (obecně by centru slušela vyšší míra pochůzkové činnosti).
 
 - Nepodporovat a nedělat reklamu tabákovým firmám – zejména ve spojení s kampaněmi konkrétních značek. Město vypadá jak vazal, který podporuje kouření (i když se skrývá za kampaň proti kouření).
-- - - 
+
