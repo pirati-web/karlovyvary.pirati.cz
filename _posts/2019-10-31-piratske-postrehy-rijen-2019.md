@@ -1,5 +1,5 @@
 ---
-date: 2018-06-10
+date: 2018-10-31
 category: blog
 tags:
     - Zastupitelstvo
