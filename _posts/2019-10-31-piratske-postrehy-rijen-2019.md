@@ -1,5 +1,5 @@
 ---
-date: 2018-10-31
+date: 2019-10-31
 category: blog
 tags:
     - Zastupitelstvo
@@ -16,7 +16,6 @@ Co jsme podpořili a co naopak ne?
 To nejdůležitější v necelých pěti minutách!**
 
 
-{% raw %}{% include youtube.html id='I6HM-Y9BahM&' %}{% endraw %}
-
+<iframe width="600" height="338" src="https://www.youtube.com/watch?v=I6HM-Y9BahM&" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - - - 
