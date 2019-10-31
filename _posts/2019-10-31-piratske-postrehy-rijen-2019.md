@@ -16,7 +16,7 @@ Co jsme podpořili a co naopak ne?
 To nejdůležitější v necelých pěti minutách!**
 
 
-```{% raw %}{% include youtube.html id='I6HM-Y9BahM&' %}{% endraw %}```
+{% raw %}{% include youtube.html id='I6HM-Y9BahM&' %}{% endraw %}
 
 
 - - - 
