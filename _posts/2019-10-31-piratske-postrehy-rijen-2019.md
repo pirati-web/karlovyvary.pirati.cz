@@ -15,6 +15,8 @@ Na co jsme se ptali?
 Co jsme podpořili a co naopak ne? 
 To nejdůležitější v necelých pěti minutách!**
 
-{% include youtube.html id='I6HM-Y9BahM&' %}
+
+```{% raw %}{% include youtube.html id='I6HM-Y9BahM&' %}{% endraw %}```
+
 
 - - - 
