@@ -16,6 +16,6 @@ Co jsme podpořili a co naopak ne?
 To nejdůležitější v necelých pěti minutách!**
 
 
-<iframe width="600" height="338" src="https://www.youtube.com/watch?v=I6HM-Y9BahM&" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="338" src="https://www.youtube.com/embed/I6HM-Y9BahM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - - - 
