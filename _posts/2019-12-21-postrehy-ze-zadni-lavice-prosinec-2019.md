@@ -4,7 +4,7 @@ category: blog
 tags:
     - Zastupitelstvo
     - Postřehy
-title: Postřehy ze zadní lavice - Koalice škrtů a zdražováí
+title: Postřehy ze zadní lavice - Koalice škrtů a zdražování
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
 image: posts/zmkv.jpg
