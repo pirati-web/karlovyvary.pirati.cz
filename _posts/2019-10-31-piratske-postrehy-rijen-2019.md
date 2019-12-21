@@ -3,7 +3,7 @@ date: 2019-10-31
 category: blog
 tags:
     - Zastupitelstvo
-    - Vyjádření
+    - Postřehy
     - Video 
 title: Pirátské postřehy ze zastupitelstva - říjen 2019
 author: MS Karlovy Vary
