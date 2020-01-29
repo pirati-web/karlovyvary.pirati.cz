@@ -9,7 +9,7 @@ tags:
 title: Na smart město se musí chytře
 author: Jindřich Čermák
 authorId: jindrich.cermak   # uid nekoho z _people (nepoviné)
-image: posts/cermak_zast.jpg
+image: posts/popostrcit_titulka.jpg
 ---
 
 *V poslední době se ve městech a obcích skloňuje termín smart city. Jeho nadužívání může starším generacím připomínat dobu, kdy se omílala slova jako glasnosť a perestrojka. Co si ale vlastně představit, když o smart city slyšíte a jaký přínos z toho může mít běžný občan?*
