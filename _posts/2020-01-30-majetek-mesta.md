@@ -9,7 +9,7 @@ tags:
 title: Majetek města
 author: Pavel Sušanin
 authorId: pavel.susanin   # uid nekoho z _people (nepoviné)
-image: posts/susanin.jpg
+image: posts/pavel_cl.jpg
 ---
 **Do veřejné diskuse se s pravidelností vrací téma nakládání s městským majetkem a nezřídka dochází k velmi emotivním reakcím ze všech stran. Není se čemu divit. Při pohledu na stav některých objektů ve vlastnictví města si mnozí pokládají otázku, jestli by nebylo lepší jejich provoz nebo dokonce vlastnictví svěřit do rukou soukromých subjektů. V protikladu k tomu stojí názorová linie, která vnímá pronájmy a prodeje majetku města jako něco nekalého. Oba tyto pohledy stojí na reálných zkušenostech, přesto ale není dobré je zobecňovat a používat jako univerzální řešení.**
 
