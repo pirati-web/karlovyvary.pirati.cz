@@ -1,14 +1,15 @@
 ---
-date: 2020-02-03
+date: 2020-02-02
 category: blog
 layout: post
 tags:
     - Zastupitelstvo
     - Vyjádření
-    - Majetek
+    - DPKV
 title: Vždyť to jede jinak
 author: MS Karlovy Vary
 image: posts/437.jpg
+
 ---
 **Největší změnu v karlovarské hromadné dopravě za posledních více než dvacet let doprovází trapné ticho ze všech směrů. I když k „optimalizaci“ (rozumějme škrtům) dojde již za necelý měsíc, informační kampaň ze strany města nebo dopravního podniku je nulová. Jako tradičně, diskuse ke změnám byla veřejnosti zcela uzavřena.**
 
