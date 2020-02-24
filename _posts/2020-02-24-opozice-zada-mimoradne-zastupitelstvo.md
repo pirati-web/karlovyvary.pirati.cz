@@ -27,9 +27,9 @@ Karlovy Vary, 21. února 2020
 
 My, níže podepsaní zastupitelé města Karlovy Vary, v souladu s ustanovením § 92, odst. 1 zákona o obcích č. 128/2000 Sb. , ve znění pozdějších předpisů, tímto žádáme o svolání mimořádného zasedání zastupitelstva města Karlovy Vary, na jehož program budou zařazeny body:
 
-1) Odvolání ředitelů příspěvkových organizací města
-2) Personální změny ve složení Odborné rady Kanceláře architektury města, p.o.
-3) Optimalizace MHD v Karlových Varech
+ 1. Odvolání ředitelů příspěvkových organizací města
+ 2. Personální změny ve složení Odborné rady Kanceláře architektury města, p.o.
+ 3. Optimalizace MHD v Karlových Varech
 
 Na radě města 18. února 2020 došlo k bezprecedentnímu kroku, kdy byli náhle, bez konzultace, v bodě “Různé”, odvoláni ředitelé čtyř příspěvkových organizací města. Zejména způsob jednání a odvolání je lidsky naprosto nepochopitelné, jakkoli možná manažersky obhajitelné. Náhlý krok působí jako výkřik bez vize a samotné překotné vyhlašování nových výběrových řízení může způsobit velmi výrazné škody. V okamžiku, kdy je Vřídelní kolonáda v havarijním stavu, je výměna ředitele hazardem.
 
