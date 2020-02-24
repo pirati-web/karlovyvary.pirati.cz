@@ -37,4 +37,4 @@ Také na radě 18. února 2020 došlo k personálním změnám v odborné radě 
 
 Po zveřejnění jízdních řádů je zřejmé, že dojde k výraznému zhoršení dopravní dostupnosti pro většinu obyvatel Karlových Varů. Nové jízdní řády nemají vazbu na připravovaný Plán udržitelné městské mobility a Generel dopravy města Karlovy Vary. Zhorší se dopravní dostupnost okrajových částí i lázeňského centra města; lidé např. ze sídliště Čankovská přijdou o komfortní spojení s Rybářemi. Omezení spojů rovněž výrazně ztíží dostupnost Krajské knihovny Karlovy Vary a dalších institucí v areálu krajského úřadu. Velká část obyvatel města se za svými zájmy, vzděláváním a kulturou dostane jen s velkými komplikacemi. Vzhledem k tomu, že při projednávání v únoru neměli zastupitelé relevantní a kompletní informace, považujeme za důležité opětovně tento bod projednat.
 
-Zastupitelé klubů KOA, Pirátů a KSČM
+Zastupitelé klubů KOA, Pirátů a KSČM.
