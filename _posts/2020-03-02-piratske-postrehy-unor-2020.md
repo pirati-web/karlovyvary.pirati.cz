@@ -5,7 +5,7 @@ tags:
     - Zastupitelstvo
     - Postřehy
     - Video 
-title: Pirátské postřehy ze zastupitelstva - únor 2020 2019
+title: Pirátské postřehy ze zastupitelstva - únor 2020
 author: MS Karlovy Vary
 image: posts/postrehy-0220.jpg
 ---
