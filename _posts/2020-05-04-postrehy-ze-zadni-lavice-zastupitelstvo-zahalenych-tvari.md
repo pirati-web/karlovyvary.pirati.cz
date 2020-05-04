@@ -132,7 +132,7 @@ Letošní ocenění (které ovšem bude předávané v doposud neznámém termí
   
 Na čestné občanství jsme navrhli **George Karbuse**, karlovarského rodáka a předního světového fotografa přírody.
 
-V interním hlasování mezi zastupitelskými kluby naše návrhy podporu nezískali, nutno ovšem říci, že finální výsledky nám nikdy poskytnuty nebyly. Tak věříme, že opět nedochází k one woman show.
+V interním hlasování mezi zastupitelskými kluby naše návrhy podporu nezískaly, nutno ovšem říci, že finální výsledky nám nikdy poskytnuty nebyly. Tak věříme, že opět nedochází k one woman show.
 
 ## **Noví ředitelé organizací**
 
