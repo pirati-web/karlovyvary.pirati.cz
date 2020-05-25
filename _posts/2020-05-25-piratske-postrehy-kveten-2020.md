@@ -14,9 +14,8 @@ image: posts/zast05.jpg
 Krátký celý záznam najdete jako obvykle na [magistrátních stránkách](http://live.publicstream.cz/vary/4-jednani-zastupitelstva-mesta-karlovy-vary-dne-7-5-2020-598).
 
 Nechce se vám číst článek? Pusťte si video (a omluvte sníženou kvalitu obrazu).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OXpBYEmcNJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="600" height="338" src="https://www.youtube.com/watch?v=OXpBYEmcNJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture">
-</iframe>
 
 ## Vouchery
 
