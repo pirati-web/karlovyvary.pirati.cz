@@ -11,7 +11,7 @@ category:
 ordz: 4
 ordvy: 2
 ordkr: 1
-description: zastupitel, člen Výboru strategického rozvoje, radní Karlovarského kraje
+description: zastupitel, člen Výboru strategického rozvoje, zastupitel Karlovarského kraje
 img: people/josef_janu.png # zakomentuj radek dokud není fotka
 mail:
   - josef.janu@pirati.cz
