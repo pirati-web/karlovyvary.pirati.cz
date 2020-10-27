@@ -9,10 +9,12 @@ category:
   - komis
   - predsednictvo
   - kontaktni_osoba
+  - kraj
 ordz: 1
 ordko: 1
 ordpms: 3
-description: předseda zastupitelského klubu, člen Komise kulturní, památkové péče a architektury města, 2.místopředseda Pirátů Karlovy Vary
+ordkr: 2
+description: předseda zastupitelského klubu, člen Komise kulturní, památkové péče a architektury města, zastupitel Karlovarského kraje, 2.místopředseda Pirátů Karlovy Vary
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
