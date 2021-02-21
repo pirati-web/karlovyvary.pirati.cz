@@ -39,3 +39,6 @@ Vedení města má evidentně hudebníky a architekty za dřeva, se kterými mů
  **Karel Špecián** za přispění Jindřicha Čermáka
 
 Ještě jednou připomínáme petici na podporu obou ředitelů: [https://www.petice.com/signatures/poadujeme_setrvani_editel_kso_a_kam_kv_na_svych_pozicich/](https://www.petice.com/signatures/poadujeme_setrvani_editel_kso_a_kam_kv_na_svych_pozicich/)
+
+
+![](/assets/img/posts/odvolani_02.jpg)
