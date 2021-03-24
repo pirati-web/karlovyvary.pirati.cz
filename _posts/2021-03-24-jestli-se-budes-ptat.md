@@ -6,7 +6,7 @@ tags:
     - Kultura
     - KSO
     - KAM
-title: Jestli se budes ptát, dostaneš flákanec
+title: Jestli se budeš ptát, dostaneš flákanec
 author: Tisková zpráva
 image: posts/KAMKSO_02.png
 ---
