@@ -4,8 +4,6 @@ category: blog
 tags:
     - Zastupitelstvo
     - Postřehy
-    - Letní_kino
-    - Rolava
 title: Nové dno karlovarské koalice
 author: Piráti Karlovy Vary
 image: posts/
