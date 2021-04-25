@@ -8,8 +8,7 @@ tags:
     - Rolava
 title: Nové dno karlovarské koalice
 author: Piráti Karlovy Vary
-image: posts/LK_ROL.jpg
----
+image: posts/
 
 
 **20. dubna proběhlo zasedání karlovarského zastupitelstva. To bylo výjimečné nejen svoji délkou (zastupitelé se rozešli až po deseti hodinách), ale také kontroverzními body, jimiž se jen hemžilo. Ty nejdůležitější vám přinášíme v dnešním shrnutí.**
