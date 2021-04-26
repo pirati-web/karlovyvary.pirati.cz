@@ -25,7 +25,7 @@ Celou situaci pak taktně shrnul když podotknul, že KSO, který existuje už 1
 
 Jako opozice jsme reagovali nejdříve návrhem na odvolání primátorky a příslušného náměstka Josefa Kopfsteina (návrh KOA), pak i celého vedení města (Piráti). Pokud nejsou primátorka a rada města schopni své kroky před zastupitelstvem obhájit, měli by za ně nést odpovědnost. Koaliční většina však ukázala, že jim tyto kroky nevadí.
 
-> „Nevěřím vám, že se chcete podílet na rozvoji města. Pozbyli jste u mě poslední zbytek důvěry,“ kritizoval vedení města Jindřich Čermák
+„Nevěřím vám, že se chcete podílet na rozvoji města. Pozbyli jste u mě poslední zbytek důvěry,“ kritizoval vedení města Jindřich Čermák
 
 Návrh na odvolání nebyl hnán jen tímto krokem. Byla to poslední kapka v celé řadě kauz, které vyvrcholily nejen v případě odvolání ředitelů, ale také celá řada podezřelých prodejů. Ve své řeči to skvěle shrnul bývalý zastupitel Milan Rusev.
 
