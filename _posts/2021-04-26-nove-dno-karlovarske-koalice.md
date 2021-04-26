@@ -29,14 +29,18 @@ Jako opozice jsme reagovali nejdříve návrhem na odvolání primátorky a př�
 
 Návrh na odvolání nebyl hnán jen tímto krokem. Byla to poslední kapka v celé řadě kauz, které vyvrcholily nejen v případě odvolání ředitelů, ale také celá řada podezřelých prodejů. Ve své řeči to skvěle shrnul bývalý zastupitel Milan Rusev.
 
-Nakonec se podařilo protlačit usnesení, které garantuje KSO finance pro daný počet úvazků, který je uveden v organizačním řádu. Zároveň se nám podařilo odsouhlasit usnesením, kterým zastupitelstvo děkuje bývalým ředitelům KSO a KAM KV za odvedenou práci.
-## Regulační plán vyhlídka
+Nakonec se podařilo protlačit usnesení, které garantuje KSO finance pro daný počet úvazků, který je uveden v organizačním řádu. Což je ovšem zároveň i past - vedení města může na sílu protlačit snížení hudebníků přímo v tomto řádu. Budoucnost orchestru tak zdaleka není garantována.
+
+Jsme ale velmi rádi, že se odsouhlasil náš návrh usnesení, kterým zastupitelstvo děkuje bývalým ředitelům KSO a KAM KV za odvedenou práci pro naše město.
+
+## Regulační plán Vyhlídka
 
 Další bod, který se velmi protáhl byla změna regulačního plánu na území bývalého zahradnictví Na Vyhlídce, pro umožnění dalších staveb. Tento bod byl velmi kontroverzní a za bedlivého dozoru veřejnosti, zejména pak zástupci sdružení Chraňme Vary, které se kauze aktivně věnuje. Asi nepřekvapí, že reakce byla více než nesouhlasná.
 
 *"V postupu jsme spatřili dvě zásadní pochybení. Nejen, že nebylo dodrženo usnesení zastupitelstva města K.Vary z dubna 2019, kde schválilo Zadání a zpracování Změny RP Na Vyhlídce, ale také od prvního veřejného projednání návrhu Změny RP z léta r.2020 došlo k takovým změnám v návrhu Změny RP, že v souladu se stavebním zákonem by mělo dojít k novému veřejnému projednání. Proto se domníváme, že předmětný návrh Změny RP by nemělo zastupitelstvo města K.Vary v této podobě schvalovat,"* uvedl za spolek Chraňme Vary Viktor Florián.
 
 Na návrh nás i celé opozice, ať se hlasování o tomto bodu alespoň odloží a získaný čas se využije pro přepracování regulačního plánu bohužel koalice nebrala ohled a záměr po opět hanebném odhlasování ukončení diskuse schválila.
+
 ## Kulturní koncepce
 Na přetřes přišel také návrh kulturní koncepce pro budoucí léta. Náš klub ji prosadil v roce 2019. Předložený materiál je velmi bohatý, poskytuje hutnou analytickou část. Pro současné vedení musí být poměrně nepříjemný popis stávajícího, nepříliš pozitivního stavu, který potvrzují i respondenti z řad představitelů kulturních institucí ve městě.
 
