@@ -6,7 +6,7 @@ tags:
     - Postřehy
 title: Nové dno karlovarské koalice
 author: Piráti Karlovy Vary
-image: posts/zast05.jpg
+image: posts/IMG_0483_1.jpg
 ---
 
 **20. dubna proběhlo zasedání karlovarského zastupitelstva. To bylo výjimečné nejen svoji délkou (zastupitelé se rozešli až po deseti hodinách), ale také kontroverzními body, jimiž se jen hemžilo. Ty nejdůležitější vám přinášíme v dnešním shrnutí.**
