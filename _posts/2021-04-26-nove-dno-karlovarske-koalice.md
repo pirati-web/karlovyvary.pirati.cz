@@ -11,7 +11,7 @@ image: posts/zast05.jpg
 
 **20. dubna proběhlo zasedání karlovarského zastupitelstva. To bylo výjimečné nejen svoji délkou (zastupitelé se rozešli až po deseti hodinách), ale také kontroverzními body, jimiž se jen hemžilo. Ty nejdůležitější vám přinášíme v dnešním shrnutí.**
 
-## Odvolání ředitelů kso a kam
+## Odvolání ředitelů KSO a KAM
 
 V rámci šestého bodu, kontroly usnesení rady města, se řešilo velmi kontroverzní odvolání ředitelů KSO a KAM KV. Tento samotný bod se řešil skoro tři hodiny. Ptali jsme se my, jako opozice, ptali se občané, nejen na důvody odvolání, ale také na 350 000,- Kč z městského rozpočtu, investovaných do personální kampaně, aby město vůbec nějaké zájemce našlo. 
 
