@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2021-05-04
 category: blog
 layout: post
 tags:
@@ -9,7 +9,7 @@ tags:
     - KSO
 title: KSO - Spousta otázek a žádné odpovědi
 author: Piráti Karlovy Vary
-image: posts/kulturni_revoluce_01.jpg
+image: posts/miniatura.jpg
 ---
 Od začátku kauzy odvolání ředitelů KSO a KAM KV jsme informovali a upozorňovali na nejasnosti okolo tohoto kroku. Proto jsme se na posledním zastupitelstvu společně s vámi a ostatními zastupiteli ptali primátorky a Rady na důvody odvolání.
 Žádné jsme se však nedozvěděli. Více se dozvíte v našem sestřihu, kde jsou ty nejdůležitější momenty tohoto bodu.
