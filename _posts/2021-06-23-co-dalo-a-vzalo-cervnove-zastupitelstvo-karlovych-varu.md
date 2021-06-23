@@ -15,4 +15,4 @@ image: posts/Miniatura.jpg
 Jako obvykle dáváme k dispozici náš souhrn posledního jednání městského zastupitelstva.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xcxFXv3mv0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-*Co děláme v magistrátních temnotách - červen*
+*Co děláme v magistrátních temnotách - červen 2021*
