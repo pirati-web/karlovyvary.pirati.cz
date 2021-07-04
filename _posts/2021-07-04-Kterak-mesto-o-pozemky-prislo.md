@@ -4,7 +4,7 @@ category: blog
 layout: post
 tags:
     - Prodeje_pozemků
-title: Kteraj město o pozemky přišlo
+title: Kterak město o pozemky přišlo
 author: Piráti Karlovy Vary
 image: posts/prodano.jpg
 ---
