@@ -2,8 +2,7 @@
 date: 2021-07-04
 category: blog
 layout: post
-tags: -Prodeje_pozemků 
-      -Josef_Kopfstein
+tags: Prodeje_pozemků
 title: Kterak město o pozemky přichází
 author: Josef Janů
 image: posts/prodano.jpg
