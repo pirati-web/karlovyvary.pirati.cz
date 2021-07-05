@@ -5,20 +5,19 @@ layout: post
 tags:
     - Prodeje_pozemků
     - Josef_Kopfstein
-title: Kterak město o pozemky přišlo
+title: Kterak město o pozemky přichází
 author: Josef Janů
 image: posts/prodano.jpg
 ---
 **Zastupitelstvo města na svém posledním zasedání posvětilo prodej pozemků v Rybářích u čerpací stanice OMV. Na první pohled se zdá být postup naprosto v pořádku, nicméně při detailnějším zkoumání najdeme hned několik problémů.**
 
-Celá situace probíhala na samém začátku zcela standardně. Zájemce napsal městu dopis, že by rád od města koupil daný pozemek To se rozhodlo, že pozemek prodat chce a po vypršení nájemní smlouvy s HC Energií (která byla pro město velmi nevýhodná) tak učiní.
+Celá situace probíhala na samém začátku zcela standardně. Zájemce napsal městu dopis, že by rád od města koupil daný pozemek To se rozhodlo, že pozemek prodat chce a ještě před vypršením dlouholeté nájemní smlouvy se společnostmi personálně propojenými s HC Energií (která byla pro město velmi nevýhodná) tak učiní.
 
 Zde však začínají problémy:
 
-**-Proč prodávat pozemek, který bychom mohli dále pronajímat?** 5 milionů, za které chce vedení města pozemek prodat mohlo mít za 5 let zpátky na pronájmu a pozemek by mu dál zůstal.
+**-Proč prodávat pozemek, který bychom mohli dále pronajímat?** Příští rok končí nevýhodná smlouva (pronájem za cenu, kterou platíte pokud si k domu zřídíte nájezd pro invalidu) a 5 milionů, za které chce vedení města pozemek prodat mohlo mít v rámci rovného komerčního pronájmu do několika let zpátky a tento strategicky dobře  umístěný pozemek by mu dál zůstal.
 
-**-Proč prodávat pozemek někomu, kdo si o něj jen napsal dopisem?** Máme za to, že město mělo veřejně vyhlásit prodej majetku a udělat jeho dražbu. Celý proces by tak byl mnohem transparentnější a podle nás správný.
-
+**-Proč prodávat pozemek někomu, kdo si o něj jen napsal dopisem?** Pokud i přes tuto nevýhodnost se vedení města rozhodlo pro prodej, tak mělo následovat veřejné vyhlásit prodej majetku a udělat jeho dražbu. Celý proces by tak byl mnohem transparentnější a podle nás správný.
 To jsou však jen procesní chyby.
 
 V momentě, kdy náměstek Kopfstein lobboval za prodej pozemku a vysvětloval zastupitelům, proč ho město nemá dál vlastnit, argumentoval mmj. tím, že až skončí nájemní smlouva, bude na pozemku ekologická zátěž a další problémy, které, když přejdou na město, nás budou stát další peníze. V zastupitelích tak vyvolal strach o to, jakým způsobem by si vlastně město mělo se situací poradit. To je ostatně napsáno i v důvodové zprávě. 
