@@ -5,7 +5,8 @@ layout: post
 tags:
     - Prodeje_pozemků
 title: Kterak město o pozemky přišlo
-author: Piráti Karlovy Vary
+author: Josef Janů
+authorId: josef.janu
 image: posts/prodano.jpg
 ---
 **Zastupitelstvo města na svém posledním zasedání posvětilo prodej pozemků v Rybářích u čerpací stanice OMV. Na první pohled se zdá být postup naprosto v pořádku, nicméně při detailnějším zkoumání najdeme hned několik problémů.**
