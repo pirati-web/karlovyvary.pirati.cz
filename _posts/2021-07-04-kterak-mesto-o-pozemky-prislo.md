@@ -4,6 +4,7 @@ category: blog
 layout: post
 tags:
     - Prodeje_pozemků
+    - Josef_Kopfstein
 title: Kterak město o pozemky přišlo
 author: Josef Janů
 authorId: josef.janu
