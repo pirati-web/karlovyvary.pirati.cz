@@ -1,7 +1,7 @@
 ---
-date: 2021-07-04
+date: 2021-07-06
 category: blog
-tags: Prodeje_pozemků
+tags: Majetek
 title: Kterak město o pozemky přichází
 author: Josef Janů
 image: posts/prodano.jpg
