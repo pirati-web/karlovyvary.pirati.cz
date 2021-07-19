@@ -1,5 +1,5 @@
 ---
-date: 2021-07-18
+date: 2021-07-19
 category: blog
 tags: KKL
 title: Každý trochu staví sochu
