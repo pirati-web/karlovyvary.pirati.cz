@@ -3,7 +3,7 @@ date: 2021-07-19
 category: blog
 tags: 
      - KKL
-     - kultura
+     - Kultura
 title: Každý trochu staví sochu
 author: Barbora Hradečná
 authorId: barbora.hradecna
