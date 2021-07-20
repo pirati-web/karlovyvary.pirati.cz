@@ -124,7 +124,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 46
     party: nestraník
     description: provokatér, aktivista, busker, písničkář, poeta, grafik, rytec skla a snílek
-  - uid: esther.hyhlikova
+  #- uid: esther.hyhlikova
     age: 18
     party: nestraník
     description: studentka, dobrovolnice
