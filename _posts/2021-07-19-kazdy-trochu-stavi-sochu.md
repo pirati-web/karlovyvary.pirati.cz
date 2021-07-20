@@ -1,9 +1,12 @@
 ---
 date: 2021-07-19
 category: blog
-tags: KKL
+tags: 
+     - KKL
+     - kultura
 title: Každý trochu staví sochu
-author: Barbora hradečná
+author: Barbora Hradečná
+authorId: barbora.hradecna
 image: posts/socha-karla-iv.jpg
 ---
 **Co dělat v létě ve Varech? Už máte program jak využít volný čas? Karlovy Vary nabízejí tradičně netradiční zábavu. Třeba můžete vyrazit za kulturou a zároveň postavit sochu!**
