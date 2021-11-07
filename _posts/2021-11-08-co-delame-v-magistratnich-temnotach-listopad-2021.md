@@ -4,9 +4,9 @@ category: blog
 layout: post
 tags:
     - Zastupitelstvo_města
-title: Co děláme v magistrátních temnotách
-author: Karel Špecián 
-image: posts/FB_IMG_1627132042681.jpg
+title: Co děláme v magistrátních temnotách | listopad 2021
+author: Piráti Karlovy Vary
+image: posts/thmbnl.jpg
 ---
 
 **Co děláme v magistrátních temnotách? Přinášíme horké novinky z posledního jednání zastupitelstva města Karlovy Vary!**
