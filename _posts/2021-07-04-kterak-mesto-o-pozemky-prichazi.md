@@ -3,7 +3,7 @@ date: 2021-07-06
 category: blog
 tags: Majetek
 title: Kterak město o pozemky přichází
-author: Josef Janů
+author: Piráti Karlovy Vary
 image: posts/prodano.jpg
 ---
 **Zastupitelstvo města na svém posledním zasedání posvětilo prodej pozemků v Rybářích u čerpací stanice OMV. Na první pohled se zdá být postup naprosto v pořádku, nicméně při detailnějším zkoumání najdeme hned několik problémů.**
@@ -27,5 +27,3 @@ Obsahem smlouvy byl mmj. bod “Povinnost nájemce při předání”, který ř
 **V moment, kdy smlouva končí, tedy musí nájemce  na své náklady dát vše do pořádku.** Neradi bychom spekulovali zda náměstek Kopfstein nevěděl o tomto bodě smlouvy a svou nekompetentností uvedl zastupitelstvo v omyl, anebo tuto skutečnost znal a zastupitele obelhal, aby zalobboval za prodej tohoto pozemku.
 
 Za nás je v tuto chvíli jedinou správnou cestou bod znovu předložit na zastupitelstvu a rozhodnutí z 22. 6. revokovat.
-
-***Josef Janů***
