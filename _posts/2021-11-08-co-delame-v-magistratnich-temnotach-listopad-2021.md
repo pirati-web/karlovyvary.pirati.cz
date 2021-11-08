@@ -43,4 +43,4 @@ Stále však nesouhlasíme s tím, jakým způsobem byly na sochu vybírány fin
 
 Samotná socha je již zadána k výrobě a měla by být v tomto prostoru umístěna během příštího roku.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/q5kpYGgBAno](https://www.youtube.com/embed/q5kpYGgBAno)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> *Co děláme v magistrátních temnotách | listopad 2021*
+{% include youtube.html id='q5kpYGgBAno' %} *Co děláme v magistrátních temnotách | listopad 2021*
