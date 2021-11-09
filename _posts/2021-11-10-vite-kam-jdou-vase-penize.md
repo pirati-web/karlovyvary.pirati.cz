@@ -19,6 +19,6 @@ A za co tak nejvíce utrácíme? 6.671 korun dáváme na takzvané kapitálové 
 
 Člověk potřebuje také nějakou zábavu. Na provoz komplexu KV Areny vynaložíme 490 korun (k tomu ale nutné připočíst dalších 250 korun na údržbu a 785 korun na splátku dluhu). Pokud mluvíme o hale, nelze se nezmínit o hokejovém klubu HC Energie, který dostává 255 korun přímo a dalších 206 korun přes Nadaci města (zkrátka nejdřív dáte peníze do jiného hrníčku, abyste si je předali zpátky. Z kulturní oblasti si za KSO zaplatíme 757 korun a za provoz městského divadla 275 korun. Mimochodem, na všechny naše základní školy dáme 1.037 korun. To je méně než za KV Arenu…
 
-33Cílem dnešní glosy nebylo plnohodnotně pokrýt celý rozpočet ale snaha o zamyšlení se nad ním. Na první pohled se člověk v milionech orientovat nemusí. Přiblížit si to k tomu, co zná z každoměsíční praxe, třeba pomůže v otázkách mířených nejen na nás, odpovědné zastupitele, ale zejména na ty, kteří rozpočet připravují.
+Cílem dnešní glosy nebylo plnohodnotně pokrýt celý rozpočet ale snaha o zamyšlení se nad ním. Na první pohled se člověk v milionech orientovat nemusí. Přiblížit si to k tomu, co zná z každoměsíční praxe, třeba pomůže v otázkách mířených nejen na nás, odpovědné zastupitele, ale zejména na ty, kteří rozpočet připravují.
 
 ***Jindřich Čermák***
