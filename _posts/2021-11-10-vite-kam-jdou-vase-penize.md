@@ -11,7 +11,7 @@ image: posts/cermak2021.png
 ---
 Víte, kam jdou vaše peníze?
 
-Již brzy bude zastupitelstvo projednávat rozpočet na příští rok. I když je to klíčový materiál pro fungování našeho města, věnuje se mu ze strany veřejnosti relativně malá pozornost. Stejně tak jemu vysvětlení občanovi, které se většinou smrskne na několik abstraktních čísel na stránkách radničního zpravodaje.
+**Již brzy bude zastupitelstvo projednávat rozpočet na příští rok. I když je to klíčový materiál pro fungování našeho města, věnuje se mu ze strany veřejnosti relativně malá pozornost. Stejně tak jemu vysvětlení občanovi, které se většinou smrskne na několik abstraktních čísel na stránkách radničního zpravodaje.**
 
 Představte si, že by se městský rozpočet pro letošní rok smrskl do mediánové měsíční mzdy (polovina lidí v republice bere méně, polovina více). Ta dělá 26.287 korun čistého (počítáno pro bezdětného). Pomůže nám lépe pochopit příjmy a výdaje našeho město. Nicméně abychom takového příjmu dosáhli, musíme si nejdříve tento rok 5.241 korun půjčit. Protože výběr daní, ani vlastní příjmy, nepokryjí všechny výdaje. Největším zdrojem našeho mediánového rozpočtu je pak přerozdělení z celostátních daní a výběr daní z nemovitostí – celkem 15.277 korun. Z vlastní činnosti si vyděláme 2.700 korun a to včetně problematických výherních automatů.
 
