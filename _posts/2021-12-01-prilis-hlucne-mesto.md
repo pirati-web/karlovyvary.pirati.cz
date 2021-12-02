@@ -25,6 +25,8 @@ Nutno poznamenat, že si někteří občané na hluk stěžují. Paradoxně jde 
 
 Na prosincové jednání zastupitelstva pak míří originální městská vyhláška, která výrazně omezuje hostinské provozovny v obchodně-správním centru města. O jejím vyhlášení se nějaký ten měsíc šušká, reálný den platnosti má začít 1. ledna 2022.
 
+![Ve vyznačené oblasti budou muset podniky omezit otevírací dobu](https://mrak.pirati.cz/apps/files/?dir=/Assets/karlovarsky/img/ms&openfile=3033833)
+
 Na červeně označeném území budou mít omezenou otevírací dobu “restaurace, pivnice, hostince, vinárny, bary, noční kluby, bufety a provozovny rychlého občerstvení“ a to ve všední den do 23 hodin a v pátek a v sobotu do 1 hodiny s tím, že omezení se nevztahuje na silvestrovskou noc a na konání mezinárodního filmového festivalu.
 
 Koncentrace městského nočního života do relativně malého prostoru může být pro občany žijící v dotčené oblasti velmi nepříjemná. Nicméně omezení provozu nemusí vyřešit problém ani v této oblasti a navíc ho přemístí jinam. Zároveň je také nutno si uvědomit, že zkrátka podniky nejsou odpovědné za to, co člověk vyvádí mimo jejich zdi. Pokud se výrazně posilníte doma a pak budete venku dělat bordel, hospoda přes ulici za to fakt nemůže (jasně, beru, že takových jsou oproti té hospodě zlomky). Je ale také potřeba si uvědomit, že městská policie má celou řadu pák, včetně vyhlášky zakazující pití alkoholu na veřejnosti. Že nejsou příliš využívány, to je věc další
