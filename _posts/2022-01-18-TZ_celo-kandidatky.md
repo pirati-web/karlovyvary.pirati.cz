@@ -50,12 +50,10 @@ uvedl **Lukáš Vojtěch Vodenka**.
 
 Výsledné pořadí kandidátky
 
-1.  Barbora Hradečná - 36 let, specialistka na Public relations, zastupitelka Karlových Varů
-    
-2.  Bohdan Vaněk - 48 let, projektový manažer, člen Finančního výboru v Karlových Varech a Karlovarském kraji
-    
-3.  Jindřich Čermák - 39 let, radní Karlovarského kraje pro školství a zastupitel Karlových Varů, politický analytik
-    
-4.  Lukáš Vojtěch Vodenka - 30 let, sociální pracovník a sociální antropolog
+Výsledné pořadí kandidátky
 
-5. Karel Špecián - 18 let, student, člen krajské Komise pro přeshraniční spolupráci
+1.  [Barbora Hradečná](https://karlovarsky.pirati.cz/lide/barbora-hradecna/) - 36 let, specialistka na Public relations, zastupitelka Karlových Varů    
+2.  [Bohdan Vaněk](https://karlovarsky.pirati.cz/lide/bohdan-vanek/) - 48 let, projektový manažer, člen Finančního výboru v Karlových Varech a Karlovarském kraji    
+3.  [Jindřich Čermák](https://karlovarsky.pirati.cz/lide/jindrich-cermak/) - 39 let, radní Karlovarského kraje pro školství a zastupitel Karlových Varů, politický analytik
+4.  [Lukáš Vojtěch Vodenka](https://lide.pirati.cz/profil/3135/) - 30 let, sociální pracovník a sociální antropolog
+5.  [Karel Špecián](https://karlovarsky.pirati.cz/lide/karel-specian/) - 18 let, student, člen krajské Komise pro přeshraniční spolupráci
