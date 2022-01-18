@@ -1,10 +1,10 @@
 ---
-date: 2021-01-18
+date: 2022-01-18
 category: blog
 layout: post
 tags:
-    - Noční_podniky
-    - Otevírací_doba
+    - Tiskova_zprava
+    - Komunalni_volby
 title: Karlovarští Piráti zvolili čelo kandidátky do komunálních voleb
 author: Tisková zpráva
 image: posts/TZ.jpg
