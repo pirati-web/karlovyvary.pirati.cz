@@ -47,9 +47,7 @@ uvedl **Lukáš Vojtěch Vodenka**.
   
   
   ---
-
-Výsledné pořadí kandidátky
-
+  
 Výsledné pořadí kandidátky
 
 1.  [Barbora Hradečná](https://karlovarsky.pirati.cz/lide/barbora-hradecna/) - 36 let, specialistka na Public relations, zastupitelka Karlových Varů    
