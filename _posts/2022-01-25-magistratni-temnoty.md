@@ -10,7 +10,7 @@ image: posts/magtem0122.jpg
 ---
 
 **25. ledna proběhlo 1. jednání zastupitelstva Karlových Varů v tomto roce. Jaké novinky a úskalí zastupitelstvo přineslo se dozvíte v našem dnešním shrnutí.
-Program jednání měl 33 bodů a zastupitelstvo proběhlo velmi rychle. Velkou diskusi však vzbudil bod 8, který se týkal územního plánu a následně bod č. 9, který se týkal zrušení regulačního plánu na Vyhlídce.**
+Program jednání měl 33 bodů a zastupitelstvo proběhlo velmi rychle. Velkou diskusi však vzbudil bod 8, který se týkal územního plánu a následně bod č. 9, týkající se zrušení regulačního plánu na Vyhlídce.**
 
 *Pusťte si Magistrátní temnoty i v podobě [podcastu](https://anchor.fm/pirati-kvk/episodes/Co-dlme-v-magistrtnch-temnotch--leden-2022-e1deuvt)*
 
