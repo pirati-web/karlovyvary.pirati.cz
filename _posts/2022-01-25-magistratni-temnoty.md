@@ -38,7 +38,7 @@ Problém však nastal v kontextu zahradnictví Na Vyhlídce a rušení regulačn
 
   
 
-## Vyhláška o zavírání nočních podniků
+## Vyhláška o omezení provozní doby nočních podniků
 
 Stále se řeší problematika nové kontroverzní vyhlášky o posunutí zavírací doby nočních podniků. Naposledy k tomuto tématu byl svolán kulatý stůl za přítomnosti primátorky, provozovatelů a zástupců městské i státní policie. Výstupem je v tuto chvíli návrh memoranda o následné spolupráci.
 
