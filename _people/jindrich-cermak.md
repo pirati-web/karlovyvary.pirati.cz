@@ -12,7 +12,7 @@ category:
 ordz: 1
 ordko: 1
 ordkr: 2
-description: předseda zastupitelského klubu, člen Komise kulturní, památkové péče a architektury města, zastupitel Karlovarského kraje, Radní Karlovarského kraje pro školství
+description: předseda zastupitelského klubu, zastupitel Karlovarského kraje, Radní Karlovarského kraje pro školství
 img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
