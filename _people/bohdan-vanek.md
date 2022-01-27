@@ -6,8 +6,10 @@ titles:
   after: M.A.
 category:
   - vybor
+  - predsednictvo
+ordpms: 3
 ordvy: 5
-description: člen Finančního výboru
+description: člen Finančního výboru, 2. místopředseda MS Karlovy Vary
 img: people/bohdan_vanek.png # zakomentuj radek dokud není fotka
 mail:
   - bohdan.vanek@seznam.cz
