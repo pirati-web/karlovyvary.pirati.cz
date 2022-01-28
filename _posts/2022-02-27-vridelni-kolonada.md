@@ -7,7 +7,7 @@ title: Budoucnost Vřídelní kolonády
 author: Pavel Sušanin
 image: posts/vridlo.jpg
 ---
-**Oprava technologické části se po mnoha komplikacích pomalu blíží ke svému zdárnému dokončení. Výtrysková hala dostane novou podlahu, podhled i novou zasklenou fasádu a Vřídlo bude tryskat z nové výtryskové mísy. Tímto bude odstraněn dlouhotrvající havarijní stav.**
+**Oprava technologické části kolonády se po mnoha komplikacích pomalu blíží ke svému zdárnému dokončení. Výtrysková hala dostane novou podlahu, podhled i novou zasklenou fasádu a Vřídlo bude tryskat z nové výtryskové mísy. Tímto bude odstraněn dlouhotrvající havarijní stav.**
 
 Tím ale problémy zdaleka nekončí, u ostatních částí objektu je havarijní stav blízkou budoucností, v případě přemostění Teplé už realitou. Původní myšlenka, že město bude do Vřídelní kolonády investovat jen nejnutnější minimum, aby byla provozuschopná do doby, než bude architektonickou soutěží vybrána nová kolonáda, bude ve světle aktuálního ekonomického vývoje jistě vyžadovat úplně nový pohled na věc.
 
