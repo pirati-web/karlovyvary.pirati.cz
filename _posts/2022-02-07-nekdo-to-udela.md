@@ -3,9 +3,10 @@ date: 2022-02-07
 category: blog
 layout: post
 tags: 
-title: Vždyť to někdo udělá. Proč to tady někdo neposeká?
+title: Město by mělo teď, více než kdy dříve, 
+naslouchat svým občanům
 author: Barbora Hradečná
-image: posts/diskuse.jpg
+image: posts/diskuze.jpg
 ---
 **Tady je tak krásné místo, proč tady není park? Proč ta lavička vypadá tak blbě? Už jste si někdy položili podobnou otázku? Proč je role nás, tedy občanů, tak důležitá? Protože to za nás nikdo jiný neudělá. Participace, česky podíl občana, na činnosti veřejné správy bude pro další rozvoj města a jeho oživení nesmírně důležitá. Vedení města by mělo teď, více než kdy dříve, naslouchat svým občanům, věnovat větší pozornost jejich nápadům, komunikovat s místními obyvateli, podnikateli, a zapojit je do procesu rozhodování.**
 
