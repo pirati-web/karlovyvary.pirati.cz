@@ -2,7 +2,6 @@
 date: 2022-02-06
 category: blog
 layout: post
-tags:
 title: Prodej Trocnova - čím dál tajemnější
 author: Barbora Hradečná
 image: posts/trocnov.jpg
