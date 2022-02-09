@@ -4,7 +4,7 @@ category: blog
 layout: post
 tags:
     - Sanatorium_Trocnov
-title: Podepište petici - zachraňte sanatorium Trocnov
+title: Podepište petici a zachraňte sanatorium Trocnov
 author: Piráti Karlovy Vary
 image: posts/petice_post.jpg
 ---
