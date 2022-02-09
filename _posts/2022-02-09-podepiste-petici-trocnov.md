@@ -1,12 +1,12 @@
 ---
-date: 2022-02-08
+date: 2022-02-09
 category: blog
 layout: post
 tags:
     - Sanatorium_Trocnov
 title: Podepište petici a zachraňte sanatorium Trocnov
 author: Piráti Karlovy Vary
-image: posts/petice_post.jpg
+image: posts/plaintrocnov.jpg
 ---
 **Od posledního jednání zastupitelstva upozorňujeme na další díl rozprodeje městského majetku současným vedením Karlových Varů - prodej budovy Sanatoria Trocnov. Odprodej této chráněné kulturní památky je o to překvapivější, neboť ještě před rokem tento krok primátorka Ferklová vylučovala. Teprve nyní, na začátku roku 2022 jsme se dozvěděli, že Trocnov se prý městu nevyplatí provozovat a bylo by potřeba nainvestovat velké finanční prostředky. Proto je tedy nejlepší se ho zbavit.**
 
