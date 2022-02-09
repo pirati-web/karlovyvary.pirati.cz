@@ -1,5 +1,5 @@
 ---
-date: 2022-02-09
+date: 2022-02-08
 category: blog
 layout: post
 tags:
@@ -14,5 +14,7 @@ Trocnov jsme se tedy rozhodli sami navštívit a na vlastní oči se přesvědč
 Ačkoliv stavba rozhodně nezáří novotou a rekonstrukce bude potřeba, máme zato, že prodej by byl pro město stále nevýhodný.
 
 Naopak máme za to, že peníze z prodeje objektu se z už tak téměř vyprázdněné obecní kasy vypaří během mrknutí oka. Z něčeho přeci město své neudržitelné hospodaření financovat musí.
+
 [Proti prodeji jsme iniciovali petici, kterou můžete podepsat i vy](https://www.petice.com/podepite_petici_-_zachrate_sanatorium_trocnov)
+
 **Zastavme společně rozprodávání historických památek Karlových Varů!**
