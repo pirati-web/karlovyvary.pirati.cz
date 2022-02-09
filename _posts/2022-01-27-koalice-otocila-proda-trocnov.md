@@ -7,7 +7,7 @@ tags:
     - Sanatorium_Trocnov
 title: Koalice otočila - Město prodá sanatorium Trocnov
 author: Piráti Karlovy Vary
-image: posts/trocnov_3.png
+image: posts/plaintrocnov.jpg
 ---
 
 **Koalice otočila - Město prodá sanatorium Trocnov.
