@@ -3,8 +3,7 @@ date: 2022-02-07
 category: blog
 layout: post
 tags: 
-title: Město by mělo teď, více než kdy dříve, 
-naslouchat svým občanům
+title: Město by mělo teď, více než kdy dříve naslouchat svým občanům
 author: Barbora Hradečná
 image: posts/diskuze.jpg
 ---
