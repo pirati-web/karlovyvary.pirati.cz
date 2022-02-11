@@ -11,6 +11,4 @@ image: posts/dohoda.jpg
 
 Nicméně zájmem toho, kdo řídí město (kraj, stát, doplňte si) by mělo být občanům všechno jasně vysvětlit. Předložit jim varianty, dopady a důvody. Nechat o nich diskutovat. Zkrátka z nich udělat partnera. A to nejen, když se musí, ale pokaždé, když se může. Není to jednoduchá cesta. Je lemována nezájmem, instantními řešení a celou řadou tzv. hejtů. Ale jen tak můžeme změnit naše krásné město. Aktivní občané, co se zajímají a starají o své okolí, ptají se volených politiků a nenechají se odbít prázdnými frázemi nebo PR fotkami. Politik je správcem města a partnerem pro jeho obyvatele, nikoliv jejich vůdcem.
 
-V současné době se rozbíhá debata o úvěru, který máme splácet až do roku 2035. Tedy něco, co překonává hranice několika volebních období. Otevřme racionální debatu o jeho využití. A nebojte se být součástí této debaty!
-
 ***Jindřich Čermák, zastupitel za Piráty***
