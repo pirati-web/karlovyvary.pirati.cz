@@ -2,7 +2,6 @@
 date: 2022-02-13
 category: blog
 layout: post
-tags:
 title: Je to jen na nás
 author: Jindřich Čermák
 image: posts/dohoda.jpg
