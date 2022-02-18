@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Je to jen na nás
 author: Jindřich Čermák
-image: posts/dohoda.jpg
+image: posts/cermak2021.png
 ---
 **Oblíbeným přístupem některých politiků je, že volič se má zajímat jen jednou za čtyři roky u voleních uren. Vševědoucí zvolený zástupce pak rozhodne i ve jménu jeho dobra, protože občan vlastně neví, co je pro něj dobré. Pravda, setkáváme se s tím zejména na úrovni celostátní. Ale i v některých lokálních tématech nám tento přístup zůstává. Na jeho obhajobu však musím podotknout, že míra složitosti je i ve většině komunálních témat značná. Vstupuje celá řada vazeb a aktérů a dopady nejsou většinou na první pohled vždy patrné. Zkrátka jednoduchá řešení neexistují (v drtivé většině případů).**
 
