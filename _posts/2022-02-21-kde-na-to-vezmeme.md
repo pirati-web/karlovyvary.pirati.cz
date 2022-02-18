@@ -6,7 +6,7 @@ tags:
     - Zastupitelstvo_města
 title: Kde na to všechno vezmeme?
 author: Barbora Hradečná
-image: posts/money.jpg
+image: posts/bara_kolonada.jpg
 ---
 **Jaká bude doba post-covidová? Zastaví se život ve městě? Budou se opravovat silnice, investovat do rozvoje? Na tyto otázky musí hledat odpověď vedení města. A úkol to nebude jednoduchý. Jak už jste si mohli přečíst, městská pokladna byla ještě před krizí prázdná a prázdnotou zeje i nyní.**
 
