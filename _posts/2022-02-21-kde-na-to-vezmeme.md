@@ -8,7 +8,7 @@ title: Kde na to všechno vezmeme?
 author: Barbora Hradečná
 image: posts/money.jpg
 ---
-**Ať už jste volit byli či nebyli, volby máme za sebou. S Covidem se budeme muset chtě nechtě ještě nějaký ten čas potýkat, ale co bude dál? Jaká bude doba post-covidová? Zastaví se život ve městě? Budou se opravovat silnice, investovat do rozvoje? Na tyto otázky musí hledat odpověď vedení města. A úkol to nebude jednoduchý. Jak už jste si mohli přečíst, městská pokladna byla ještě před krizí prázdná a prázdnotou zeje i nyní.**
+**Jaká bude doba post-covidová? Zastaví se život ve městě? Budou se opravovat silnice, investovat do rozvoje? Na tyto otázky musí hledat odpověď vedení města. A úkol to nebude jednoduchý. Jak už jste si mohli přečíst, městská pokladna byla ještě před krizí prázdná a prázdnotou zeje i nyní.**
 
 Pro mnoho lidí je představa městského rozpočtu něco éterického, neuchopitelného. Ale je to veskrze jednoduché. Pro základní představu - rozpočet sestává na příjmové straně z příjmů daňových (peníze náš všech) a nedaňových (příjmy z vlastní činnosti), a dále z příjmů kapitálových (prodej městských nemovitostí). Na straně výdajů jsou to pak zejména výdaje jednotlivých odborů a výdaje na činnost příspěvkových organizací města.
 
