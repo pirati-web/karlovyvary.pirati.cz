@@ -2,7 +2,7 @@
 date: 2022-04-29
 category: blog
 layout: post
-title: Kultura 2.0
+title: Kultura 21. století
 author: Barbora Hradečná
 image: posts/kkodvetvi.jpg
 ---
