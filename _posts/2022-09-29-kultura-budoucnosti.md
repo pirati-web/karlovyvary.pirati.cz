@@ -2,6 +2,9 @@
 date: 2022-04-29
 category: blog
 layout: post
+tags:
+    - Kultura
+    - Kulturně_kreativní_odvětví
 title: Kultura 21. století
 author: Barbora Hradečná
 image: posts/kkodvetvi.jpg
