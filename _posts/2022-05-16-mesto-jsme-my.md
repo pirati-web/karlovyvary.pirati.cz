@@ -3,6 +3,7 @@ date:
 category: blog
 layout: post
 tags: 
+    - Participace
 title: Město jsme my
 author: Bohdan Vaněk
 image: posts/mestojsmemy.jpg
