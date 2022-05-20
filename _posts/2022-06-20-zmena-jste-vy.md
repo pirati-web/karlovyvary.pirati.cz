@@ -8,7 +8,7 @@ author: Karel Špecián
 image: posts/topic_youth.jpg
 ---
 ***"Mladí lidé se o politiku nezajímají. Je to nuda. Žvanírna. Nikdy to k ničemu dobrému nebylo."*
-Takovýto pohled je mezi mladými lidmi naprosto běžný. Není proto divu, že je mezi námi dlouhodobě nejvíce nevoličů. A tento fenomén má své následky.*
+Takovýto pohled je mezi mladými lidmi naprosto běžný. Není proto divu, že je mezi námi dlouhodobě nejvíce nevoličů. A tento fenomén má své následky.**
 
 Komu se podle vás bude chtít politik spíše zavděčit? Skupině, která je ještě z dob totality zvyklá účastnit se voleb s takřka bezchybnou docházkou, nebo skupině, které může slíbit modré z nebe, ale k volbám stejně nepřijde?
 
