@@ -1,5 +1,5 @@
 ---
-date: 2022-05-16
+date: 2022-05-23
 category: blog
 layout: post
 tags: 
@@ -8,7 +8,7 @@ title: Město jsme my
 author: Bohdan Vaněk
 image: posts/mestojsmemy.jpg
 ---
-***Taky občas přijedete na venkov a překvapí vás, jaké pěkné hřiště tam na plácku na návsi mají? Jak se všichni dobře baví, když je den dětí nebo hasičů? A divíte se, že u nás je to takové nedotažené? Taky vám na Meandru něco chybí? A ptáte se, proč zmizela „pergola“ na Rolavě, aby se tam zase objevilo něco podobného? A je to lepší?***
+**Taky občas přijedete na venkov a překvapí vás, jaké pěkné hřiště tam na plácku na návsi mají? Jak se všichni dobře baví, když je den dětí nebo hasičů? A divíte se, že u nás je to takové nedotažené? Taky vám na Meandru něco chybí? A ptáte se, proč zmizela „pergola“ na Rolavě, aby se tam zase objevilo něco podobného? A je to lepší?**
 
 Pravda, poslední rok není úplně reprezentativní ohledně společenských akcí, ale když odhlédneme od posledních 15 měsíců strávených doma, tak co jste osobně zažili v našem prvotřídním Výstavním, sportovně kulturním a kongresovém centru? (KV arena, komu uvedený oficiální název nic neříká) Máme ho tu právě 12 let od otevření, to nám to uteklo. Těch výstav, koncertů a kongresů, co se tam odehrálo, že? A ty multimediální projekce, úžasné. Že si vzpomínáte jen na Tobruk? Nooo…já taky. To bylo po otevření v roce 2009. Takže tak to u nás žije.
 
