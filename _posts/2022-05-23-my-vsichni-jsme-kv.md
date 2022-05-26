@@ -3,7 +3,7 @@ date: 2022-05-23
 category: blog
 layout: post
 tags:
-title: My všichni jsme Karlovy Vary
+title: Komunitním životem za společnou identitu
 author: Jindřich Čermák
 image: posts/myvsichnijsme.jpg
 ---
