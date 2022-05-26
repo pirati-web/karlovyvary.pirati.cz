@@ -6,7 +6,7 @@ tags:
     - Participace
 title: Město jsme my
 author: Bohdan Vaněk
-image: posts/mestojsmemy.jpg
+image: posts/myvsichnijsme.jpg
 ---
 **Taky občas přijedete na venkov a překvapí vás, jaké pěkné hřiště tam na plácku na návsi mají? Jak se všichni dobře baví, když je den dětí nebo hasičů? A divíte se, že u nás je to takové nedotažené? Taky vám na Meandru něco chybí? A ptáte se, proč zmizela „pergola“ na Rolavě, aby se tam zase objevilo něco podobného? A je to lepší?**
 
