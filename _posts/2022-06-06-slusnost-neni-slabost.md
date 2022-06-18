@@ -1,11 +1,11 @@
 ---
-date: 2022-06-06
+date: 2022-06-
 category: blog
 layout: post
 tags:
 title: Slušnost není slabost
 author: Jindřich Čermák
-image: posts/polarizace.jpg
+image: posts/cermak2021.png
 ---
 **Zní to jako klišé, které slýcháváte ze všech stran, nicméně je pravdivé. Společnost je rozdělena. A je v podstatě jedno, jakého tématu se týká, ale takřka u všeho najdete nesmiřitelné Názory (ano, vždy mají velké en).**
 
