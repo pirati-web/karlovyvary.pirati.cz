@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Změna jste vy
 author: Karel Špecián
-image: posts/topic_youth.jpg
+image: posts/kaja_cut.jpg
 ---
 ***"Mladí lidé se o politiku nezajímají. Je to nuda. Žvanírna. Nikdy to k ničemu dobrému nebylo."*
 Takovýto pohled je mezi mladými lidmi naprosto běžný. Není proto divu, že je mezi námi dlouhodobě nejvíce nevoličů. A tento fenomén má své následky.**
