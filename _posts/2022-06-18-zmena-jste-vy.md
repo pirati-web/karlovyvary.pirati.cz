@@ -2,7 +2,6 @@
 date: 2022-06-18
 category: blog
 layout: post
-tags: -participace
 title: Změna jste vy
 author: Karel Špecián
 image: posts/topic_youth.jpg
