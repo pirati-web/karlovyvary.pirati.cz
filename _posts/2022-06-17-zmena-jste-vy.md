@@ -1,5 +1,5 @@
 ---
-date: 2022-06-17
+date: 2022-06-10
 category: blog
 layout: post
 title: Změna jste vy
