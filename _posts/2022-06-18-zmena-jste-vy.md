@@ -21,7 +21,8 @@ Prvním krokem je samozřejmě chodit volit. Že jeden hlas nic nezmění? Na to
 
 Pokud chcete skutečně měnit věci k lepšímu, zapojte se. Najděte si stranu, která je vám nejbližší a vstupte. Ti, kteří ještě čekají na své první legální pivo, se mohou stát registrovanými příznivci, nebo členy mládežnických organizací. A když se blíží svátek demokracie – volby – kandidujte. Kdo jiný, než naše generace, může do politiky přinést potřebnou energii a tah na branku? Chceme-li se dostat ze začarovaného kruhu, kdy budeme navždy mimo zájem vládnoucích politiků, musíme vystoupit z komfortní zóny. Nikdo jiný to za nás totiž neudělá.
 
-Na závěr si dovolím krátký, ale velmi výstižný citát od polské političky Anny Radziwiłłové: *"Pojmy 'politika' a 'politický' by neměly být urážkou. Nakonec, politika je starost o věci veřejné,"*
+Na závěr si dovolím krátký, ale velmi výstižný citát od polské političky Anny Radziwiłłové: 
+> *"Pojmy 'politika' a 'politický' by neměly být urážkou. Nakonec, politika je starost o věci veřejné,"*
 
 Tak se politiky nebojte. Je to totiž jediný prostředek, kterým můžete reálně změnit svět okolo sebe. A to se vyplatí!
 
