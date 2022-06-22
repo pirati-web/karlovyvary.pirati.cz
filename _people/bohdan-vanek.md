@@ -12,7 +12,7 @@ ordvy: 5
 description: člen Finančního výboru, 2. místopředseda Pirátů Karlovy Vary
 img: people/bohdan_vanek.jpg # zakomentuj radek dokud není fotka
 mail:
-  - bohdan.vanek@seznam.cz
+  - Bohdan.Vanek@pirati.cz
 profiles:
 # facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
 # googleplus: https://plus.google.com/+uzivatel.na.googleplus
