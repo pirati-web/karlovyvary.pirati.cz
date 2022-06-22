@@ -10,7 +10,7 @@ category:
 ordpms: 3
 ordvy: 5
 description: člen Finančního výboru, 2. místopředseda Pirátů Karlovy Vary
-img: people/bohdan_vanek.png # zakomentuj radek dokud není fotka
+img: people/bohdan_vanek.jpg # zakomentuj radek dokud není fotka
 mail:
   - bohdan.vanek@seznam.cz
 profiles:
