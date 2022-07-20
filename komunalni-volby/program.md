@@ -2,6 +2,7 @@
 layout: page
 title: Program pro komunální volby 2022
 campaignGroupUid: radnice
+---
 
 ![](/assets/img/posts//prog01_transparentnost.png) 
 ## Město ekonomicky prosperující a otevřené
