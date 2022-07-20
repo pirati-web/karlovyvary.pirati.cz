@@ -35,9 +35,6 @@ main:
       - link: /komunalni-volby/program.html
         name: Program
         match: program
-      - #link: /komunalni-volby/kauzy.html
-        #name: Kauzy
-        #match: kauzy
       - link: /komunalni-volby/povolebni-strategie.html
         name: Povolební strategie
         match: povolebni-strategie
