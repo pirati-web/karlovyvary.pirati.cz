@@ -13,7 +13,7 @@ Pokud dostaneme důvěru občanů a získáme silné zastoupení, budeme se úč
 
 V den, kdy budou ukončeny volby, nepovedeme žádná vyjednávání s ostatními stranami. Lídr kandidátky může nezávazně komunikovat s ostatními stranami nebo s médii adekvátně k situaci.
 
-Širší volební tým ve složení ze zvolených zastupitelů a dalších aktivních členů a sympatizantů se sejde po volbách v neděli **25. 9. ve 14 hodin**. Zastupitelé založí klub a zvolí jeho předsedu.
+Širší volební tým ve složení ze zvolených zastupitelů a dalších aktivních členů a sympatizantů se sejde po volbách v neděli **25. 9. 2022 ve 14 hodin**. Zastupitelé založí klub a zvolí jeho předsedu.
 
 Přímým vyjednáváním pak budou pověřeni všichni zvolení zastupitelé, kteří mohou vyjednávací tým na jednotlivá jednání doplnit i o další zástupce, s tím, že vyjednávat budou vždy minimálně ve dvou. Vyjednávání vede lídr kandidátky. Lídr má na starosti také hlavní mediální výstupy.
 
