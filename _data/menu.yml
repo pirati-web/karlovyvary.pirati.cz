@@ -1,6 +1,6 @@
 top:
   - link: "Krajský web"
-    url:  "http://www.piratikvk.cz"
+    url:  "http://www.karlovarsky.pirati.cz"
     icon: "fa fa-home"
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
@@ -26,7 +26,7 @@ main:
     name: Naše posádka
     match: lide
   - link: /komunalni-volby/
-    name: Volby
+    name: Volby 2022
     match: komunalni-volby
     submenu:
       - link: /komunalni-volby/
