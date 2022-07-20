@@ -15,6 +15,7 @@ campaignGroupUid: radnice
  - **Prosadíme transparentní společnosti** – Do řídících a kontrolních orgánů společností budeme nominovat zástupce města s potřebným mixem odbornosti. Podporujeme širší využití výběrových řízení, aby se rozhodování účastnili i odborníci z řad veřejnosti. Znemožníme neprůhledné hospodaření i vyvádění majetku. Všude tam, kde to bude možné, budeme uplatňovat pravidla pro transparentní organizace.  
  
  - **I ty jsi tohle město** - umožníme větší zapojení občanů do rozhodovacích procesů. Zavedeme moderní komunikační kanály pro informování. Vytvoříme místní výbory pro jednotlivé městské čtvrti. Zároveň dáme občanům možnost rozhodovat o tom, jak bude využíván veřejný prostor.
+
 ---
 
 ![](/assets/img/posts//prog02_kultura.png) 
@@ -32,7 +33,7 @@ campaignGroupUid: radnice
 
 ![](/assets/img/posts//prog03_turismus.png) 
 ## **Město s turisty**
-**Zaměříme se na to, aby byl turistický ruch pro město opravdu přínosný a nezpůsoboval nepříjemnosti místním ani turistům. Velkou příležitost vidíme v zakládání a rozvoji organizací destinačního managementu, které budou poskytovat efektivní strukturu pro řízení cestovního ruchu. ** 
+**Zaměříme se na to, aby byl turistický ruch pro město opravdu přínosný a nezpůsoboval nepříjemnosti místním ani turistům. Velkou příležitost vidíme v zakládání a rozvoji organizací destinačního managementu, které budou poskytovat efektivní strukturu pro řízení cestovního ruchu.** 
 
  -  **Připravíme zázemí pro turisty** – budeme budovat naučné stezky a cyklostezky, protože samotné památky bez vhodného přístupu nestačí. Dohlédneme na dostupnost veřejných toalet. Budeme budovat kvalitní, navazující a estetické orientační systémy ve veřejném prostoru, informační tabule, mapy a turistické aplikace. Vytvoříme nezbytnou turistickou infrastrukturu v podobě záchytných a P+R parkovišť s návazným pokrytím hromadnou dopravou  
 
