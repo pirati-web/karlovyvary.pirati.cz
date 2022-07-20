@@ -94,23 +94,23 @@ campaignGroupUid: radnice
 ## **Město moderní dopravy**
 **Efektivní mobilita je zásadní pro ekonomiku města i komfort občanů. Proto budeme klást důraz na opravu stávající infrastruktury a vytváření moderních možností individuální dopravy.**
 
- - Kvalitní infrastruktura hraje prim - budeme nadále pokračovat v rekonstrukci silnic a chodníků, přehled oprav bude jednoduše a včas dohledatelný na mapové aplikaci města. V souladu s rozvojovými projekty města budeme podporovat nový most přes Ohři a obchvat města
+ - **Kvalitní infrastruktura hraje prim** - budeme nadále pokračovat v rekonstrukci silnic a chodníků, přehled oprav bude jednoduše a včas dohledatelný na mapové aplikaci města. V souladu s rozvojovými projekty města budeme podporovat nový most přes Ohři a obchvat města
     
 
   
 
--   Dostupné parkovací kapacity - u hlavních tahů a v okrajových částech města podpoříme výstavbu parkovacích domů s cenově výhodným parkováním.  
+-   **Dostupné parkovací kapacity** - u hlavních tahů a v okrajových částech města podpoříme výstavbu parkovacích domů s cenově výhodným parkováním.  
       
     
--   Trváme na kvalitní a moderní MHD – trasy autobusů musí být rychlé, křižující se a navazující. Jízdní řády musejí odpovídat potřebám a požadavkům všech skupin obyvatel a kopírovat dopravní špičky. Optimalizujeme síť MHD, aby odpovídala současným dopravním proudům. Zavedeme elektrobusy do lázeňské části a zajistíme možnosti jejich zapojení i do dalších linek. Ve spolupráci s KAM KV budeme iniciovat novou podobu městských autobusových zastávek.  
+-   **Trváme na kvalitní a moderní MHD** – trasy autobusů musí být rychlé, křižující se a navazující. Jízdní řády musejí odpovídat potřebám a požadavkům všech skupin obyvatel a kopírovat dopravní špičky. Optimalizujeme síť MHD, aby odpovídala současným dopravním proudům. Zavedeme elektrobusy do lázeňské části a zajistíme možnosti jejich zapojení i do dalších linek. Ve spolupráci s KAM KV budeme iniciovat novou podobu městských autobusových zastávek.  
       
     
--   Počítáme se všemi – nové a rekonstruované komunikace přizpůsobíme potřebám cyklistů, chodců, kočárků a vozíčkářů.
+-   **Počítáme se všemi** – nové a rekonstruované komunikace přizpůsobíme potřebám cyklistů, chodců, kočárků a vozíčkářů.
     
 
   
 
--   Zajistíme návaznost – městská doprava musí i navazovat na meziměstské spoje a vlaky a to i v pozdních nočních nebo brzkých ranních hodinách. Zapojíme městskou dopravu do integrované dopravy kraje. Podpoříme systém sdílených kol a koloběžek v obci.
+-   **Zajistíme návaznost** – městská doprava musí i navazovat na meziměstské spoje a vlaky a to i v pozdních nočních nebo brzkých ranních hodinách. Zapojíme městskou dopravu do integrované dopravy kraje. Podpoříme systém sdílených kol a koloběžek v obci.
 
 ---
 
@@ -118,14 +118,14 @@ campaignGroupUid: radnice
 ## **Město plné kvalitních škol**
 **V roce 2022 nestačí mít jen opravené budovy. Je potřeba dát ředitelům a učitelům prostor k zavádění moderních pedagogických trendů, podporovat jejich dalších vzdělávání. Hlavním úkolem škol by mělo být: naučit děti učit se.**
 
--   Zlepšíme kvalitu výuky – vytvoříme podmínky pro vzdělávání učitelů, sdílení učebních materiálů a aktivní využívání digitálních technologií, setkávání a sdílení nápadů a dobré praxe napříč regiony. Pro mladé učitele zavedme náborové příspěvky a podporu ubytování. Podpoříme alternativní výuku. Do školních jídelen vpustíme lokální produkty a zdravé stravování.  
+-   **Zlepšíme kvalitu výuky** – vytvoříme podmínky pro vzdělávání učitelů, sdílení učebních materiálů a aktivní využívání digitálních technologií, setkávání a sdílení nápadů a dobré praxe napříč regiony. Pro mladé učitele zavedme náborové příspěvky a podporu ubytování. Podpoříme alternativní výuku. Do školních jídelen vpustíme lokální produkty a zdravé stravování.  
       
     
--   Zaměříme se na výběr kvalitních ředitelů – zároveň najdeme možnosti snižování administrativy a usnadnění orientace v legislativě a projektech podporujících rozvoj škol. Ředitelům pomůžeme nést administrativní břemeno.
+-   **Zaměříme se na výběr kvalitních ředitelů** – zároveň najdeme možnosti snižování administrativy a usnadnění orientace v legislativě a projektech podporujících rozvoj škol. Ředitelům pomůžeme nést administrativní břemeno.
     
 
   
-- Pomůžeme slabším – podpoříme kvalitní pedagogické poradenství, prevenci šikany a závislostí, přátelské prostředí pro žáky se zvláštními potřebami, sociálním
+- **Pomůžeme slabším** – podpoříme kvalitní pedagogické poradenství, prevenci šikany a závislostí, přátelské prostředí pro žáky se zvláštními potřebami, sociálním
 
 ---
 
