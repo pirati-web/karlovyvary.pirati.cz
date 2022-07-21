@@ -29,7 +29,7 @@ main:
     name: Volby 2022
     match: komunalni-volby
     submenu:
-      - link: /komunalni-volby/kandidátka.md
+      - link: /komunalni-volby/kandidatka.md
         name: Kandidátka
         match: komunalni-volby
       - link: /komunalni-volby/program.html
