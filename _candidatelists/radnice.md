@@ -2,149 +2,60 @@
 title: Kandidátka na radnici
 uid: radnice
 leader:
-  uid: jindrich.cermak
-  age: 35
+  uid: barbora.hradecna
+  age: 37
   party: Piráti
-  description: politický analytik, koordinátor komunikace o EU Úřadu vlády ČR # zobrazuje se v komunalni-volby
+  description: zastupitelka města, organizatorka sousedských slavností ČR, promoterka kulturních akci, kreativec # zobrazuje se v komunalni-volby
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: barbora.hradecna
-    age: 33
-    party: Piráti
-    description: pracovní a finanční poradce v neziskovém sektoru, freelancer 
-  - uid: pavel.susanin
-    age: 34
-    party: nestraník
-    description: projektant 
-  - uid: daniela.bila
+  - uid: bohdan.vanek
     age: 48
+    party: Piráti
+    description: ekonomický analytik, manažer rozvojových projektů, člen Finančního výboru kraje a města 
+  - uid: jindrich.cermak
+    age: 40
+    party: nestraník
+    description: krajský radní pro školství a sport, zastupitel města, politický analytik
+  - uid: daniela.bila
+    age: 52
     party: Piráti 
     description: obchodní referentka, aktivistka, alchymistka
-  - uid: josef.janu
-    age: 49
-    party: Piráti 
-    description: krajský radní, autorizovaný stavební inženýr, mládežnický trenér míčových sportů
-  - uid: renata.kozakova
-    age: 56
-    party: nestraník
-    description: zastupitelka, ředitelka kanceláře krajského ředitele HZS Karlovarského kraje  
-  - uid: bohdan.vanek
-    age: 44
-    party: nestraník
-    description: ekonomický analytik a manažer rozvojových projektů 
-  - uid: jana.jandova
-    age: 64
-    party: nestraník
-    description: předsedkyně spolku
-  - uid: martin.hovorka
-    age: 44
-    party: nestraník
-    description: autorizovaný stavební inženýr 
-  - uid: libor.huml
-    age: 36
-    party: nestraník
-    description: svobodný člověk 
-  - uid: renata.andrejskova
-    age: 35
-    party: nestraník
-    description: právní poradce v rodinné a občanské poradně 
-  - uid: helena.vrbicka
-    age: 57
-    party: nestraník
-    description: úřednice 
-  - uid: martin.helebrant
-    age: 33
-    party: nestraník
-    description: jednatel Café Piccolo
-  - uid: richard.kubicek
-    age: 41
-    party: nestraník
-    description: terénní sociální pracovník
-  - uid: daniel.vasicek
-    age: 37
-    party: nestraník
-    description: manažer hotelu
-  - uid: michaela.kleslova
-    age: 19
-    party: Piráti
-    description: koordinátorka krajského sdružení Pirátů 
-  - uid: ondrej.damborsky
-    age: 26
-    party: nestraník
-    description: lékárník 
-  - uid: karel.zemek
-    age: 31
-    party: nestraník
-    description: elektrotechnik 
-  - uid: jan.nedved
-    age: 42
-    party: nestraník
-    description: historik Muzea Karlovy Vary
-  - uid: olga.bischofova
-    age: 48
-    party: nestraník
-    description: vedoucí provozu, litinová lady 
-  - uid: ondrej.skorka
-    age: 27
-    party: Piráti
-    description: nájemný pozounista, údržbář ohněě
-  - uid: ricardo.delfino
-    age: 30
-    party: nestraník
-    description: band manager, zpěvák, pořadatel kulturních akcí
-  - uid: jiri.slach
-    age: 53
-    party: nestraník
-    description: ekonom, promotér Jožina
-  - uid: lenka.cermakova
-    age: 41
-    party: Piráti
-    description: barmanka
-  - uid: josef.stanek
-    age: 50
-    party: nestraník
-    description: masér
-  - uid: daniel.farkas
-    age: 22
-    party: Piráti
-    description: IT administrátor
-  - uid: jiri.mertin
-    age: 28
-    party: nestraník
-    description: plachý ajťák
-  - uid: erika.karraova
-    age: 53
-    party: nestraník
-    description: pracovnice v sociálních službách
-  - uid: matej.bulant
-    age: 20
-    party: nestraník
-    description: student VOŠ cestovního ruchu
-  - uid: michal.sadilek
-    age: 46
-    party: nestraník
-    description: provokatér, aktivista, busker, písničkář, poeta, grafik, rytec skla a snílek
-  #- uid: esther.hyhlikova
+  - uid: karel.specian
     age: 18
-    party: nestraník
-    description: studentka, dobrovolnice
-  - uid: zdenek.kops
-    age: 26
-    party: nestraník
-    description: programátor 
-  - uid: martina.appeltauerova
-    age: 44
-    party: nestraník
-    description: učitelka a lektorka anglického jazyka, koordinátorka eventů
-  - uid: ivana.peerova
-    age: 44
-    party: nestraník
-    description: holka z porcelánky G.Benedikt
-  - uid: michaela.cerna
-    age: 29
-    party: nestraník
-    description: tvůrce vegetariánského kulinaření, ochránce slabších
-
+    party: Piráti 
+    description: student, marketér, první předseda krajského parlamentu dětí a mládeže
+    
+ # tail: # zbytek kandidatky
+  | 6 | Bc. Jana Jandová Dis.
+| 7 | Antonín Šimkanin
+| 8 | Olga Bischofová
+| 9 | Ing. Helena Vrbická
+| 10 | Ing. Jana Michková
+| 11 | Mgr. et. Bc. Ondřej Bednář
+| 12 | Mgr. Petr Cais
+| 13 | Richard Kubíček, Dis.
+| 14 | Zdeněk Kopš
+| 15 | Bc. Lukáš Vojtěch Vodenka, Dis.
+| 16 | Mgr. Jan Nedvěd
+| 17 | Bc. Lucie Vaňková
+| 18 | Hana Toufarová
+| 19 | Ing. Jan Plomer
+| 20 | Ing. Jiří Slach
+| 21 | Daniel Vašíček
+| 22 | Mgr. David Maglia
+| 23 | Maya Vaštagová
+| 24 | Josef Staněk
+| 25 | MgA. Jakub Skramlík
+| 26 | Jan Roušal
+| 27 | Daniel Farkas
+| 28 | Mgr. Jan Váňa
+| 29 | JUDr. Renata Kozáková
+| 30 | Růžena Šimkaninová
+| 31 | Pavel Vevera
+| 32 | Matyáš-Jakub Bílý
+| 33 | Kamila Nováčková
+| 34 | Ivana Peerová
+| 35 | Eva Hradečná
     
 # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
