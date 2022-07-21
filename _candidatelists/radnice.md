@@ -25,7 +25,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Piráti 
     description: student, marketér, první předseda krajského parlamentu dětí a mládeže
     
- # tail: # zbytek kandidatky
+ tail: # zbytek kandidatky
  - Bc. Jana Jandová Dis.
  - Antonín Šimkanin
  - Olga Bischofová
