@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Program pro komunální volby 2022
+title: Kandidátka pro komunální volby 2022
 campaignGroupUid: radnice
----
 
-  leader:
+leader:
   uid: barbora.hradecna
   age: 37
   party: Piráti
   description: zastupitelka města, organizatorka sousedských slavností ČR, promoterka kulturních akci, kreativec # zobrazuje se v komunalni-volby
 
-  head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
+head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: bohdan.vanek
     age: 48
     party: Piráti
@@ -28,7 +27,7 @@ campaignGroupUid: radnice
     party: Piráti 
     description: student, marketér, první předseda krajského parlamentu dětí a mládeže
     
-  tail: # zbytek kandidatky
+tail: # zbytek kandidatky
  - Bc. Jana Jandová Dis.
  - Antonín Šimkanin
  - Olga Bischofová
@@ -60,7 +59,7 @@ campaignGroupUid: radnice
  -  Ivana Peerová
  -  Eva Hradečná
     
-# tail: # zbytek kandidatky
+    # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
  #- name: Mudr. Místní Dkotor
