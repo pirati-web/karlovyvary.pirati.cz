@@ -5,7 +5,7 @@ campaignGroupUid: radnice
 ---
 
 ![](/assets/img/posts//prog01_transparentnost.png) 
-## Město ekonomicky prosperující a otevřené
+## ![](/assets/img/posts//prog01_transparentnost.png) Město ekonomicky prosperující a otevřené
 **Vyvážené a transparentní hospodaření města v souladu se zájmy jeho obyvatel a s jejich účastí na něm.** 
 
  - **Vytvoříme dlouhodobý plán hospodaření** – plán oprav a investic městského majetku, vše bude známo včas předem. Využijeme moderní aplikace na hlášení nedostatků ve městě. Zajistíme přehled městského majetku ke komerčnímu využití a tím zabráníme náhlým nevýhodným prodejům.
