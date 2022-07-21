@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: members
 title: Kandidátka pro komunální volby 2022
 campaignGroupUid: radnice
 
