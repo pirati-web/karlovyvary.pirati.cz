@@ -4,7 +4,6 @@ title: Program pro komunální volby 2022
 campaignGroupUid: radnice
 ---
 
-![](/assets/img/posts//prog01_transparentnost.png) 
 ## ![](/assets/img/posts//prog01_transparentnost.png) Město ekonomicky prosperující a otevřené
 **Vyvážené a transparentní hospodaření města v souladu se zájmy jeho obyvatel a s jejich účastí na něm.** 
 
@@ -17,9 +16,8 @@ campaignGroupUid: radnice
  - **I ty jsi tohle město** - umožníme větší zapojení občanů do rozhodovacích procesů. Zavedeme moderní komunikační kanály pro informování. Vytvoříme místní výbory pro jednotlivé městské čtvrti. Zároveň dáme občanům možnost rozhodovat o tom, jak bude využíván veřejný prostor.
 
 ---
-
-![](/assets/img/posts//prog02_kultura.png) 
-## Město, kde to žije celý rok
+ 
+## ![](/assets/img/posts//prog02_kultura.png) Město, kde to žije celý rok
 **Chceme kvalitní zázemí pro kulturu a oživení veřejného prostoru ve všech čtvrtích napojené na místní komunitu. Kultura dostupná pro všechny po celý rok.**
  - **Karlovy Vary jako kulturní centrum Evropy, kde nestojí kultura na okraji zájmu** – v maximální možné míře podpoříme místní spolky, promotéry, festivaly, ale i čtvrti, aby se mohly dál rozvíjet. Vytvoříme síť pro propojování aktivních lidí a sdílení osvědčených projektů mezi obcemi i přes hranice. Založíme platformu pro vznik komunitního života v rámci podpory kulturně kreativního odvětví.  
     
@@ -31,8 +29,7 @@ campaignGroupUid: radnice
 
 ---
 
-![](/assets/img/posts//prog03_turismus.png) 
-## **Město s turisty**
+## ![](/assets/img/posts//prog03_turismus.png)  **Město s turisty**
 **Zaměříme se na to, aby byl turistický ruch pro město opravdu přínosný a nezpůsoboval nepříjemnosti místním ani turistům. Velkou příležitost vidíme v zakládání a rozvoji organizací destinačního managementu, které budou poskytovat efektivní strukturu pro řízení cestovního ruchu.** 
 
  -  **Připravíme zázemí pro turisty** – budeme budovat naučné stezky a cyklostezky, protože samotné památky bez vhodného přístupu nestačí. Dohlédneme na dostupnost veřejných toalet. Budeme budovat kvalitní, navazující a estetické orientační systémy ve veřejném prostoru, informační tabule, mapy a turistické aplikace. Vytvoříme nezbytnou turistickou infrastrukturu v podobě záchytných a P+R parkovišť s návazným pokrytím hromadnou dopravou  
@@ -41,8 +38,7 @@ campaignGroupUid: radnice
 
 ---
 
-![](/assets/img/posts//prog04_zp.png)
-## **Město zelené a modré**
+## ![](/assets/img/posts//prog04_zp.png) **Město zelené a modré**
 **Péče o životní prostředí začíná tam, kde žijeme. Vytvoříme čistý, bezpečný a funkční životní prostor.**
 
 -   **Půjdeme příkladem** – dohlédneme na udržitelné využívání obecní půdy a lesů. Podpoříme obnovu cest, remízků a vodních ploch a úpravy krajiny pro zadržování vody a boj s erozí. Zaměříme se na udržování čistoty ve městě, ať už aktivní údržbou nebo pasivně - instalací odpadkových košů.  
@@ -55,8 +51,7 @@ campaignGroupUid: radnice
 
 ---
 
-![](/assets/img/posts//prog05_social.png)
-## **Město přívětivé a nápomocné**
+## ![](/assets/img/posts//prog05_social.png) **Město přívětivé a nápomocné**
 **Budeme oporou znevýhodněným skupinám obyvatel. Zlepšíme informovanost o možnostech podpory, propojíme a optimalizujeme služby.**
 
  - **Pomáháme bydlet** – podpoříme vznik dostupného komunitního bydlení nízkopříjmových seniorů a osob v invalidním důchodu. Navýšíme kapacity služeb pro osoby bez domova, pro jejich rychlý návrat do společnosti. Vytvoříme bezpečné zóny s přístupem k vodě a toaletě.  
@@ -71,8 +66,7 @@ campaignGroupUid: radnice
 
 ---
 
-![](/assets/img/posts//prog06_mladez.png)
-## **Město, kde je hlas mladých slyšet**
+## ![](/assets/img/posts//prog06_mladez.png) **Město, kde je hlas mladých slyšet**
 **Karlovy Vary v současné době fakt nejsou pro mladé. Město na mládež zkrátka kašle. Chceme dát mladým lidem důvod v Karlových Varech zůstat!**
 -   **Otevřeme dialog s mládeží** - iniciujeme založení platformy pro sbírání zpětné vazby a dialog s mládeží. Město musí vyslechnout názor mladých lidí, aby mohlo efektivně řešit jejich problémy.  
       
@@ -91,8 +85,7 @@ campaignGroupUid: radnice
 
 ---
 
-![](/assets/img/posts//prog07_doprava.png)
-## **Město moderní dopravy**
+## ![](/assets/img/posts//prog07_doprava.png) **Město moderní dopravy**
 **Efektivní mobilita je zásadní pro ekonomiku města i komfort občanů. Proto budeme klást důraz na opravu stávající infrastruktury a vytváření moderních možností individuální dopravy.**
 
  - **Kvalitní infrastruktura hraje prim** - budeme nadále pokračovat v rekonstrukci silnic a chodníků, přehled oprav bude jednoduše a včas dohledatelný na mapové aplikaci města. V souladu s rozvojovými projekty města budeme podporovat nový most přes Ohři a obchvat města
@@ -115,8 +108,7 @@ campaignGroupUid: radnice
 
 ---
 
-![](/assets/img/posts//prog08_vzdelavani.png)
-## **Město plné kvalitních škol**
+## ![](/assets/img/posts//prog08_vzdelavani.png) **Město plné kvalitních škol**
 **V roce 2022 nestačí mít jen opravené budovy. Je potřeba dát ředitelům a učitelům prostor k zavádění moderních pedagogických trendů, podporovat jejich dalších vzdělávání. Hlavním úkolem škol by mělo být: naučit děti učit se.**
 
 -   **Zlepšíme kvalitu výuky** – vytvoříme podmínky pro vzdělávání učitelů, sdílení učebních materiálů a aktivní využívání digitálních technologií, setkávání a sdílení nápadů a dobré praxe napříč regiony. Pro mladé učitele zavedme náborové příspěvky a podporu ubytování. Podpoříme alternativní výuku. Do školních jídelen vpustíme lokální produkty a zdravé stravování.  
