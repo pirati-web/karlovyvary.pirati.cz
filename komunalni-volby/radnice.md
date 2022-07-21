@@ -78,7 +78,6 @@ tail: # zbytek kandidatky
  #  partyUid: bez politické příslušnosti
 note: # poznámka pod kanidátku
    # Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
----
 
 
  -  Maya Vaštagová
