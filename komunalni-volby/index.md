@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
 title: Komunální volby
-campaignCategoryUid: praha20188
+campaignCategoryUid: radnice
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
