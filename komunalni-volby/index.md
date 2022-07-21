@@ -5,5 +5,5 @@ campaignCategoryUid: praha20188
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-# ZNÁME LEPŠÍ VARYANTU!
+# I ty jsi tohle město!
 
