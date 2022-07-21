@@ -29,7 +29,7 @@ main:
     name: Volby 2022
     match: komunalni-volby
     submenu:
-      - link: /_candidatelists/radnice.md
+      - link: /komunalni-volby/radnice.html
         name: Kandidátka
         match: komunalni-volby
       - link: /komunalni-volby/program.html
