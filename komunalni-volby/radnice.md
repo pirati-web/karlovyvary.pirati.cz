@@ -1,6 +1,7 @@
 ---
 title: Kandidátka pro komunální volby 2022
 Uid: radnice
+layout: communal-elections
 
 leader:
 #1
