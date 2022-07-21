@@ -1,6 +1,9 @@
 ---
-title: Kandidátka na radnici
-uid: radnice
+layout: page
+title: Program pro komunální volby 2022
+campaignGroupUid: radnice
+---
+
 leader:
   uid: barbora.hradecna
   age: 37
