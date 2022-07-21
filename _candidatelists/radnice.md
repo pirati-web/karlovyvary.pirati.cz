@@ -26,36 +26,36 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: student, marketér, první předseda krajského parlamentu dětí a mládeže
     
  # tail: # zbytek kandidatky
-  | 6 | Bc. Jana Jandová Dis.
-| 7 | Antonín Šimkanin
-| 8 | Olga Bischofová
-| 9 | Ing. Helena Vrbická
-| 10 | Ing. Jana Michková
-| 11 | Mgr. et. Bc. Ondřej Bednář
-| 12 | Mgr. Petr Cais
-| 13 | Richard Kubíček, Dis.
-| 14 | Zdeněk Kopš
-| 15 | Bc. Lukáš Vojtěch Vodenka, Dis.
-| 16 | Mgr. Jan Nedvěd
-| 17 | Bc. Lucie Vaňková
-| 18 | Hana Toufarová
-| 19 | Ing. Jan Plomer
-| 20 | Ing. Jiří Slach
-| 21 | Daniel Vašíček
-| 22 | Mgr. David Maglia
-| 23 | Maya Vaštagová
-| 24 | Josef Staněk
-| 25 | MgA. Jakub Skramlík
-| 26 | Jan Roušal
-| 27 | Daniel Farkas
-| 28 | Mgr. Jan Váňa
-| 29 | JUDr. Renata Kozáková
-| 30 | Růžena Šimkaninová
-| 31 | Pavel Vevera
-| 32 | Matyáš-Jakub Bílý
-| 33 | Kamila Nováčková
-| 34 | Ivana Peerová
-| 35 | Eva Hradečná
+ - Bc. Jana Jandová Dis.
+ - Antonín Šimkanin
+ - Olga Bischofová
+ - Ing. Helena Vrbická
+ - Ing. Jana Michková
+ - Mgr. et. Bc. Ondřej Bednář
+ - Mgr. Petr Cais
+ - Richard Kubíček, Dis.
+ - Zdeněk Kopš
+ - Bc. Lukáš Vojtěch Vodenka, Dis.
+ - Mgr. Jan Nedvěd
+ - Bc. Lucie Vaňková
+ - Hana Toufarová
+ - Ing. Jan Plomer
+ -  Ing. Jiří Slach
+ -  Daniel Vašíček
+ -  Mgr. David Maglia
+ -  Maya Vaštagová
+ -  Josef Staněk
+ -  MgA. Jakub Skramlík
+ -  Jan Roušal
+ -  Daniel Farkas
+ -  Mgr. Jan Váňa
+ -  JUDr. Renata Kozáková
+ -  Růžena Šimkaninová
+ -  Pavel Vevera
+ -  Matyáš-Jakub Bílý
+ -  Kamila Nováčková
+ -  Ivana Peerová
+ -  Eva Hradečná
     
 # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
