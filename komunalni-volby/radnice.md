@@ -1,8 +1,6 @@
 ---
-title: Kandidátka pro komunální volby 2022
-Uid: radnice
-layout: communal-elections
-
+title: Kandidáti do Komunálního zastupitelstva
+uid: 2022-komunalni
 leader:
 #1
   uid: barbora.hradecna
