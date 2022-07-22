@@ -12,7 +12,7 @@ ordz: 2
 ordvy: 1
 ordpms: 2
 description: zastupitelka, členka Výboru pro sociální věci a seniory, 1.místopředsedkyně Pirátů Karlovy Vary
-img: people/barbora_hradecna.png # zakomentuj radek dokud není fotka
+img: people/barbora_hradecna.jpg # zakomentuj radek dokud není fotka
 mail:
   - barbora.hradecna@pirati.cz
 mob:			  +420 724 828 362
