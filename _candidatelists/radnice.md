@@ -29,36 +29,36 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     partyUid: Piráti 
     description: student, marketér, první předseda krajského parlamentu dětí a mládeže  
 tail: # zbytek kandidatky
- - Bc. Jana Jandová Dis.
- - Antonín Šimkanin
- - Olga Bischofová
- - Ing. Helena Vrbická
- - Ing. Jana Michková
- - Mgr. et. Bc. Ondřej Bednář
- - Mgr. Petr Cais
- - Richard Kubíček, Dis.
- - Zdeněk Kopš
- - Bc. Lukáš Vojtěch Vodenka, Dis.
- - Mgr. Jan Nedvěd
- - Bc. Lucie Vaňková
- - Hana Toufarová
- - Ing. Jan Plomer
- -  Ing. Jiří Slach
- -  Daniel Vašíček
- -  Mgr. David Maglia
- -  Maya Vaštagová
- -  Josef Staněk
- -  MgA. Jakub Skramlík
- -  Jan Roušal
- -  Daniel Farkas
- -  Mgr. Jan Váňa
- -  JUDr. Renata Kozáková
- -  Růžena Šimkaninová
- -  Pavel Vevera
- -  Matyáš-Jakub Bílý
- -  Kamila Nováčková
- -  Ivana Peerová
- -  Eva Hradečná
+  - name: Bc. Jana Jandová Dis.
+  - name: Antonín Šimkanin
+  - name: Olga Bischofová
+  - name: Ing. Helena Vrbická
+  - name: Ing. Jana Michková
+  - name: Mgr. et. Bc. Ondřej Bednář
+  - name: Mgr. Petr Cais
+  - name: Richard Kubíček, Dis.
+  - name: Zdeněk Kopš
+  - name: Bc. Lukáš Vojtěch Vodenka, Dis.
+  - name: Mgr. Jan Nedvěd
+  - name: Bc. Lucie Vaňková
+  - name: Hana Toufarová
+  - name: Ing. Jan Plomer
+  - name: Ing. Jiří Slach
+  - name: Daniel Vašíček
+  - name: Mgr. David Maglia
+  - name: Maya Vaštagová
+  - name: Josef Staněk
+  - name: MgA. Jakub Skramlík
+  - name: Jan Roušal
+  - name: Daniel Farkas
+  - name: Mgr. Jan Váňa
+  - name: JUDr. Renata Kozáková
+  - name: Růžena Šimkaninová
+  - name: Pavel Vevera
+  - name: Matyáš-Jakub Bílý
+  - name: Kamila Nováčková
+  - name: Ivana Peerová
+  - name: Eva Hradečná
     
     # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
