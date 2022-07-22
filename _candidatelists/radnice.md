@@ -33,11 +33,27 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 68
     partyUid: Piráti 
     description: předsedkyně spolku, členka Kontrolního výboru kraje a města, srdcařka
+#7    
+  - uid: antonin.simkanin
+    age: 21
+    partyUid: Piráti 
+    description: IT & marketingový expert
+#8    
+  - uid: olga.bischofova
+    age: 52
+    partyUid: BezPP 
+    description: investigativec karlovarských zákoutí, Holka z Moskevské
+#9    
+  - uid: helena.vrbicka
+    age: 61
+    partyUid: BezPP 
+    description: úřednice, členka Výboru města pro dopravu a ŽP,  členka krajského Výboru pro zdravotnictví
+#10    
+  - uid: jana.michkova
+    age: 58
+    partyUid: BezPP 
+    description: vedoucí Eurocentra Karlovy Vary, projektová manažerka
 tail: # zbytek kandidatky
-  - name: Antonín Šimkanin
-  - name: Olga Bischofová
-  - name: Ing. Helena Vrbická
-  - name: Ing. Jana Michková
   - name: Mgr. et. Bc. Ondřej Bednář
   - name: Mgr. Petr Cais
   - name: Richard Kubíček, Dis.
