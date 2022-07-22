@@ -8,7 +8,7 @@ category:
   - vybor
 ordvy: 6
 description: členka Výboru dopravy, životního prostředí, čistoty města a zeleně
-img: people/helena_vrbicka.png # zakomentuj radek dokud není fotka
+img: people/helena_vrbicka.jpg # zakomentuj radek dokud není fotka
 mail:
   - velejitka@email.cz  
 profiles:
