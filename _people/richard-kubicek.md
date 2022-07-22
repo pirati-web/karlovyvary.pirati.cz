@@ -6,7 +6,7 @@ titles:
   after: DiS.
 # category:
 # description: 
-img: people/richard_kubicek.png # zakomentuj radek dokud není fotka
+img: people/richard_kubicek.jpg # zakomentuj radek dokud není fotka
 
 profiles:
 # facebook: https://www.facebook.com/jincer  # pokud nema, staci smazat tuto radku
