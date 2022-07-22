@@ -34,7 +34,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     partyUid: Piráti 
     description: předsedkyně spolku, členka Kontrolního výboru kraje a města, srdcařka
 tail: # zbytek kandidatky
-  - name: Bc. Jana Jandová Dis.
   - name: Antonín Šimkanin
   - name: Olga Bischofová
   - name: Ing. Helena Vrbická
