@@ -13,7 +13,7 @@ ordz: 1
 ordko: 1
 ordkr: 2
 description: předseda zastupitelského klubu, zastupitel Karlovarského kraje, Radní Karlovarského kraje pro školství
-img: people/jindrich_cermak.png # zakomentuj radek dokud není fotka
+img: people/jindrich_cermak.jpg # zakomentuj radek dokud není fotka
 mail:
   - jindrich.cermak@pirati.cz
 mob:			  +420 604 317 512
