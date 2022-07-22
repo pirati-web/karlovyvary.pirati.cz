@@ -8,7 +8,7 @@ category:
   - vybor
 ordvy: 4
 description: členka Kontrolního výboru
-img: people/jana_jandova.png # zakomentuj radek dokud není fotka
+img: people/jana_jandova.jpg # zakomentuj radek dokud není fotka
 mail:
   - j_jandova@centrum.cz 
 profiles:
