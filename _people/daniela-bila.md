@@ -12,7 +12,7 @@ ordko: 3
 ordpms: 1
 description: členka Komise školství, vzdělávání a demografie, 
              předsedkyně Pirátů Karlovy Vary
-img: people/daniela_bila.png # zakomentuj radek dokud není fotka
+img: people/daniela_bila.jpg # zakomentuj radek dokud není fotka
 mail:
   - daniela.bila@pirati.cz
 mob:			  +420 606 812 941
