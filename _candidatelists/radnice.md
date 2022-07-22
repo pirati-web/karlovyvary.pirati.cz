@@ -28,6 +28,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 18
     partyUid: Piráti 
     description: student, marketér, první předseda krajského parlamentu dětí a mládeže  
+#6    
+  - uid: jana.jandova
+    age: 68
+    partyUid: Piráti 
+    description: předsedkyně spolku, členka Kontrolního výboru kraje a města, srdcařka
 tail: # zbytek kandidatky
   - name: Bc. Jana Jandová Dis.
   - name: Antonín Šimkanin
