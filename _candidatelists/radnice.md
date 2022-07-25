@@ -53,8 +53,12 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 58
     party: BezPP 
     description: vedoucí Eurocentra Karlovy Vary, projektová manažerka
+#11
+  - uid: ondrej.bednar
+    age: 43
+    party: BezPP 
+    description: divadelník
 tail: # zbytek kandidatky
-  - name: Mgr. et. Bc. Ondřej Bednář
   - name: Mgr. Petr Cais
   - name: Richard Kubíček, Dis.
   - name: Zdeněk Kopš
