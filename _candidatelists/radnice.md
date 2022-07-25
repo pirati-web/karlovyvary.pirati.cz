@@ -59,42 +59,42 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: BezPP 
     description: divadelník
 #12
-  -uid: petr.cais
+  - uid: petr.cais
     age: 50
     party: BezPP 
     description: archivář
 #13
-  -uid: richard.kubicek
+  - uid: richard.kubicek
     age: 45
     party: BezPP 
     description: sociální pracovník
 #14
-  -uid: zdenek.kops
+  - uid: zdenek.kops
     age: 30
     party: Piráti
     description: programátor 
 #15
-  -uid: lukas.vodenka
+  - uid: lukas.vodenka
     age: 30
     party: Piráti
     description: sociální pracovník, sociální antropolog, specialista služeb zákazníkům
 #16
-  -uid: jan.nedved
+  - uid: jan.nedved
     age: 46
     party: BezPP
     description: historik krajského muzea
 #17
-  -uid: lucie.vankova
+  - uid: lucie.vankova
     age: 48
     party: BezPP
     description: optometristka
 #18
-  -uid: hana.toufarova
+  - uid: hana.toufarova
     age: 74
     party: BezPP
     description: aktivistka, ortodoxní kočkařka
 #19
-  -uid: jan.plomer
+  - uid: jan.plomer
     age: 32
     party: BezPP
     description: architekt železničních vozidel, dopravní expert
