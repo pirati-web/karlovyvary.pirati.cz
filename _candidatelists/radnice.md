@@ -16,7 +16,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 #3    
   - uid: jindrich.cermak
     age: 40
-    party: nestraník
+    party: Piráti
     description: krajský radní pro školství a sport, zastupitel města, politický analytik
 #4    
   - uid: daniela.bila
@@ -58,16 +58,52 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 43
     party: BezPP 
     description: divadelník
+#12
+  -uid: petr.cais
+    age: 50
+    party: BezPP 
+    description: archivář
+#13
+  -uid: richard.kubicek
+    age: 45
+    party: BezPP 
+    description: sociální pracovník
+#14
+  -uid: zdenek.kops
+    age: 30
+    party: Piráti
+    description: programátor 
+#15
+  -uid: lukas.vodenka
+    age: 30
+    party: Piráti
+    description: sociální pracovník, sociální antropolog, specialista služeb zákazníkům
+#16
+  -uid: jan.nedved
+    age: 46
+    party: BezPP
+    description: historik krajského muzea
+#17
+  -uid: lucie.vankova
+    age: 48
+    party: BezPP
+    description: optometristka
+#18
+  -uid: hana.toufarova
+    age: 74
+    party: BezPP
+    description: aktivistka, ortodoxní kočkařka
+#19
+  -uid: jan.plomer
+    age: 32
+    party: BezPP
+    description: architekt železničních vozidel, dopravní expert
+#20
+  -uid: jiri.slach
+    age: 57
+    party: BezPP
+    description: ekonom, promotér Jožina
 tail: # zbytek kandidatky
-  - name: Mgr. Petr Cais
-  - name: Richard Kubíček, Dis.
-  - name: Zdeněk Kopš
-  - name: Bc. Lukáš Vojtěch Vodenka, Dis.
-  - name: Mgr. Jan Nedvěd
-  - name: Bc. Lucie Vaňková
-  - name: Hana Toufarová
-  - name: Ing. Jan Plomer
-  - name: Ing. Jiří Slach
   - name: Daniel Vašíček
   - name: Mgr. David Maglia
   - name: Maya Vaštagová
