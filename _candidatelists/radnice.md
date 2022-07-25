@@ -68,6 +68,21 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 45
     party: BezPP 
     description: sociální pracovník
+#14
+  - uid: zdenek.kops
+    age: 30
+    party: Piráti
+    description: programátor 
+#15
+  - uid: lukas.vodenka
+    age: 30
+    party: Piráti
+    description: sociální pracovník, sociální antropolog, specialista služeb zákazníkům
+#16
+  - uid: jan.nedved
+    age: 46
+    party: BezPP
+    description: historik krajského muzea
 tail: # zbytek kandidatky
   - name: Daniel Vašíček
   - name: Mgr. David Maglia
