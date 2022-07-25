@@ -83,6 +83,16 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 46
     party: BezPP
     description: historik krajského muzea
+#17
+  - uid: lucie.vankova
+    age: 48
+    party: BezPP
+    description: optometristka
+#18
+  - uid: hana.toufarova
+    age: 74
+    party: BezPP
+    description: aktivistka, ortodoxní kočkařka
 tail: # zbytek kandidatky
   - name: Daniel Vašíček
   - name: Mgr. David Maglia
