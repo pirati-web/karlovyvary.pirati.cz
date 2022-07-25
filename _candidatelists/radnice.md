@@ -53,6 +53,16 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 58
     party: BezPP 
     description: vedoucí Eurocentra Karlovy Vary, projektová manažerka
+#11
+  - uid: ondrej.bednar
+    age: 43
+    party: BezPP 
+    description: divadelník
+#12
+  - uid: petr.cais
+    age: 50
+    party: BezPP 
+    description: archivář
 tail: # zbytek kandidatky
   - name: Daniel Vašíček
   - name: Mgr. David Maglia
