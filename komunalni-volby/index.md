@@ -7,3 +7,4 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 
 # I ty jsi tohle město!
 ![](/assets/img//ukazovani.jpg)
+ 
