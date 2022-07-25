@@ -9,8 +9,8 @@ description: Karel studuje na gymnáziu v Karlových Varech a pracuje jako medi�
 img: people/karel_specian.jpg # zakomentuj radek dokud není fotka
 
 profiles:
-facebook: https://www.facebook.com/specian.karel  # pokud nema, staci smazat tuto radku
+# facebook: https://www.facebook.com/specian.karel  # pokud nema, staci smazat tuto radku
 # googleplus: https://plus.google.com/+uzivatel.na.googleplus
-twitter: https://twitter.com/liberal_kaja
+# twitter: https://twitter.com/liberal_kaja
 instagram: https://www.instagram.com/kaja.specian/
 ---
