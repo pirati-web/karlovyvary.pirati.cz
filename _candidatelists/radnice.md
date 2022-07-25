@@ -98,6 +98,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 32
     party: BezPP
     description: architekt železničních vozidel, dopravní expert
+#20
+  - uid: jiri.slach
+    age: 57
+    party: BezPP
+    description: ekonom, promotér Jožina
 tail: # zbytek kandidatky
   - name: Daniel Vašíček
   - name: Mgr. David Maglia
