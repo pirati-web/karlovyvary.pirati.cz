@@ -63,6 +63,11 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 50
     party: BezPP 
     description: archivář
+#13
+  - uid: richard.kubicek
+    age: 45
+    party: BezPP 
+    description: sociální pracovník
 tail: # zbytek kandidatky
   - name: Daniel Vašíček
   - name: Mgr. David Maglia
