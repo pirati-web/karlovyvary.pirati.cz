@@ -105,23 +105,65 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: ekonom, promotér Jožina
 tail: # zbytek kandidatky
   - name: Daniel Vašíček
-    age: 49
+    age: 41
     profession: ředitel lázní
     party: Karlovy Vary
   - name: Mgr. David Maglia
+    age: 44
+    profession: analytik projektového řízení
+    party: Drahovice
   - name: Maya Vaštagová
+    age: 22
+    profession: praktická sestra, výtvarnice
+    party: Karlovy Vary
   - name: Josef Staněk
+    age: 53
+    profession: lázeňský specialista
+    party: Karlovy Vary
   - name: MgA. Jakub Skramlík
+    age: 44
+    profession: orchestrální hudebník, učitel
+    party: Karlovy Vary
   - name: Jan Roušal
+    age: 25
+    profession: plavčík, moderátor, stand-up komik
+    party: Drahovice
   - name: Daniel Farkas
+    age: 26
+    profession: správce internetu, IT administrátor
+    party: Rybáře
   - name: Mgr. Jan Váňa
+    age: 38
+    profession: IT manager
+    party: Karlovy Vary
   - name: JUDr. Renata Kozáková
+    age: 60
+    profession: právnička, plk. HZS v.v.
+    party: Rybáře
   - name: Růžena Šimkaninová
+    age: 54
+    profession: sanitářka v KKN
+    party: Karlovy Vary
   - name: Pavel Vevera
+    age: 18
+    profession: student
+    party: Drahovice
   - name: Matyáš-Jakub Bílý
+    age: 22
+    profession: elektromontér, petrolhead
+    party: Drahovice
   - name: Kamila Nováčková
+    age: 45
+    profession: knihovnice
+    party: Rybáře
   - name: Ivana Peerová
+    age: 48
+    profession: holka z porcelánky G. Benedikt
+    party: Karlovy Vary
   - name: Eva Hradečná
+    age: 61
+    profession: invalidní důchodkyně, bývalá žokejka a holka z porcelánky
+    party: Rybáře
     
     # tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
