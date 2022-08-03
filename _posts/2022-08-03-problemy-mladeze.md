@@ -13,7 +13,6 @@ Zasadíme se o zajištění startovacího bydlení pro mladé. Není přece norm
 
 Chceme, aby Vary žily. Můžeme tu mít rozmanité druhy kulturních akcí spojených  se vzděláváním a cestovním ruchem. Budeme hledat i nové cesty - například e-sport, pro který tu máme skvělé zázemí.
 
-Karlovy Vary mají v tomto směru obrovský potenciál. 
-**Pojďme toho využít a udělejme z Karlových Varů město pro život ve 21. století, odkud lidé nebudou utíkat, ale naopak se i rádi vracet.**
+**Karlovy Vary mají v tomto směru obrovský potenciál. Pojďme toho využít a udělejme z Karlových Varů město pro život ve 21. století, odkud lidé nebudou utíkat, ale naopak se i rádi vracet.**
 
 ***Karel Špecián, kandidát č. 5 do ZM Karlovy Vary***
