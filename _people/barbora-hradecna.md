@@ -7,11 +7,12 @@ titles:
 category:
   - zastupitel
   - vybor
+  - komise
   - predsednictvo
 ordz: 2
 ordvy: 1
 ordpms: 2
-description: zastupitelka, členka Výboru pro sociální věci a seniory, 1.místopředsedkyně Pirátů Karlovy Vary
+description: zastupitelka, členka Výboru pro sociální věci a seniory, členka kulturní komise, 1.místopředsedkyně Pirátů Karlovy Vary
 img: people/barbora_hradecna.jpg # zakomentuj radek dokud není fotka
 mail:
   - barbora.hradecna@pirati.cz
@@ -35,9 +36,5 @@ Od roku 2012 její pozornost směřuje na vše, co souvisí s lidskou psyché. V
 „Po zkušenostech a životě v jiných městech mě přitáhlo zpět kouzlo Karlových Varů, kde mám silné kořeny a jsem tu doma. Bohužel se ve Varech žije stále obtížněji. Chybí zde zajímavé pracovní nabídky a práce pro mladé lidi, jsou tu nízké mzdy, nedostupné bydlení. To už tak nějak asi víme, ale jak z toho ven? Terapeutikum nebude snadné, nebude jen jedno a bude potřeba ho dávkovat postupně.“
 
 _Motto: „Má-li problém řešení, nemá smysl dělat si starosti, když řešení nemá, starosti nepomohou.“_
-
-Vzdělání/práce: Studoval něco, teď dělá něco.
-
-Politik: zastupitel Karlových Varů
 
 - - - 
