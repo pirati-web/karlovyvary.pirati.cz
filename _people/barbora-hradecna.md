@@ -7,7 +7,7 @@ titles:
 category:
   - zastupitel
   - vybor
-  - komise
+  - komis
   - predsednictvo
 ordz: 2
 ordvy: 1
