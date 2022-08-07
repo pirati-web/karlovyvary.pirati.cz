@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2022-08-10
 category: blog
 layout: post
 title: Zajistíme, aby mladí měli důvod v Karlových Varech zůstávat a žít
