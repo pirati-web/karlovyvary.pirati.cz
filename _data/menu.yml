@@ -36,8 +36,8 @@ main:
         name: Program
         match: program
       #- link: /komunalni-volby/povolebni-strategie.html
-        name: Povolební strategie
-        match: povolebni-strategie
+        #name: Povolební strategie
+        #match: povolebni-strategie
   - link: /kontakt/
     name: Kontakt
     match: kontakt
