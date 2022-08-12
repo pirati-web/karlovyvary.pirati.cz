@@ -25,4 +25,5 @@ Citujete jen jednu část z volebního programu pro mladé lidi, jejichž hlas b
 
 Největším dluhem je bezesporu „zabetonování“ současné radnice a absence dialogu s občany. Hlavním dluhem ale je, že město svým občanům nevěří. Bojí se znát jejich názor, bojí se je připustit do rozhodovacího procesu. Diskuze se nevedou ani ohledně plánování a využití veřejného prostoru.
 
+---
 *Rozhovor pro týdeník 5+2, 12. 8. 2022*
