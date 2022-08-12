@@ -124,7 +124,7 @@ tail: # zbytek kandidatky
     age: 44
     profession: orchestrální hudebník, učitel
     party: Karlovy Vary
-  - name: Jan Roušal
+  - uid: jan.rousal
     age: 25
     profession: plavčík, moderátor, stand-up komik
     party: Drahovice
