@@ -132,7 +132,7 @@ tail: # zbytek kandidatky
     age: 26
     profession: správce internetu, IT administrátor
     party: Rybáře
-  - name: Mgr. Jan Váňa
+  - uid: jan.vana
     age: 38
     profession: IT manager
     party: Karlovy Vary
