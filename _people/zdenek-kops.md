@@ -15,3 +15,7 @@ profiles:
 # instagram: https://www.instagram.com/jincermak/ 
 
 ---
+Jsem programátor pracující z domova přímo v centru Karlových Varů. Jsem vášnivý audiofil a milovník dobrého jídla.
+Mé druhé „povolání,“ ačkoli neplacené, je řízení auta. V autech mám obecně velkou zálibu a dříve jsem dokonce v autodílech podnikal.
+
+***Zdeněk Kopš***
