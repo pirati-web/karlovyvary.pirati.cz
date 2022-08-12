@@ -24,15 +24,8 @@ profiles:
   instagram: https://www.instagram.com/jincermak/ 
    
 ---
+V srpnu mi přibyl čtvrtý křížek na krku. Od mládí jsem byl praštěný politikou, nakonec jsem politologii i vystudoval. A stále mám stejnou představu, jak mělo dobře spravované město fungovat. 
 
-Jindřich Čermák (* 20. srpna 1982, Karlovy Vary) je hrdým karlovarským patriotem. Po maturitě na tamním gymnáziu studoval nejprve neúspěšně na FF UK, později úspěšně na FF ZČU a to politologii a mezinárodní vztahy. Studium zakončil získáním magisterského titulu v roce 2007. Během studia čtyři roky vedl Akademický spolek studentů politických věd v Plzni, který organizoval přednášky a semináře se špičkovými osobnostmi české politiky (Zeman, Topolánek, Paroubek aj.).
+Své občany jasně a dopředu informovat a vysvětlovat, co a proč se chystá. Využít moderní formy komunikace a umožnit jim, aby nemuseli s každým papírem na úřad. Podporuje spolkový a komunitní život a také se se často ptá svých občanů a nabídne jim možnost se podílet na reálném fungování i jinak než jednou za čtyři roky u volebních uren.
 
-V letech 2008-10 pracoval na ministerstvu vnitra a to v odborech, které se věnovaly efektivnějšímu řízení veřejné správy, nyní působí jako regionální koordinátor informačních aktivit o EU Eurocentra Karlovy Vary, organizačně patřící pod Úřad vlády ČR.
-
-Ve volném čase si rád přečte knihu, podívá se na dobrý film nebo si zahraje počítačovou či deskovou hru. Je fascinován moderní historií a od mala je praštěný politikou.
-
-Vzdělání/práce: Studoval něco, teď dělá něco.
-
-Politik: zastupitel Karlových Varů
-
-- - - 
+***Jindřich Čermák***
