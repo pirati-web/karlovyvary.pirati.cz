@@ -108,7 +108,7 @@ tail: # zbytek kandidatky
     age: 41
     profession: ředitel lázní
     party: Karlovy Vary
-  - name: Mgr. David Maglia
+  - uid: david.maglia
     age: 44
     profession: analytik projektového řízení
     party: Drahovice
