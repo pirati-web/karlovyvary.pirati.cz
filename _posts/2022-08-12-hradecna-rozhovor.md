@@ -8,7 +8,7 @@ image: posts/hradecna_lehatko.jpg
 ---
 **Jedničkou na kandidátce České pirátské strany do komunálních voleb v Karlových Varech je karlovarská rodačka Barbora Hradečná. Členkou strany je od roku 2013, a je mimo jiné i spoluzakládající členkou ašského místního sdružení. V Aši žila pět let, v roce 2014 tady kandidovala za piráty do městského zastupitelstva. V roce 2018 byla za piráty zvolena do městského zastupitelstva v Karlových Varech.**
 
-
+---
 **V roce 2018 Piráti získali v zastupitelstvu pět mandátů. Jak vidíte letos vaše šance?**
 
 Po čtyřech letech kontinuální a konstruktivní práce v opozici věřím, že počet mandátů obhájíme. Během našeho prvního volebního období se nám podařilo vytvořit kolem sebe tým lidí, odborníků, kteří přicházejí s vlastními, mnohdy prospěšnějšími návrhy řešení. Naším cílem je zisk 7 - 8 mandátů. Nicméně není to jen o číslech. Městu by prospěla silná demokratická vláda, která se nebojí zeptat se na názor svých občanů a dát jim i prostor pro rozhodování ve věci budoucího směřování města.
