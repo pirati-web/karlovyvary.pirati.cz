@@ -25,7 +25,5 @@ Citujete jen jednu část z volebního programu pro mladé lidi, jejichž hlas b
 
 Největším dluhem je bezesporu „zabetonování“ současné radnice a absence dialogu s občany. Hlavním dluhem ale je, že město svým občanům nevěří. Bojí se znát jejich názor, bojí se je připustit do rozhodovacího procesu. Diskuze se nevedou ani ohledně plánování a využití veřejného prostoru.
 
-<iframe src="https://giphy.com/embed/6NVB9ZNsFE3pTfrtgz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pirti-karlovy-vary-program-kv-6NVB9ZNsFE3pTfrtgz">via GIPHY</a></p>
-
 ---
 *Rozhovor pro týdeník 5+2, 12. 8. 2022*
