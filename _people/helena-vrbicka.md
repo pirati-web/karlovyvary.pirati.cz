@@ -18,3 +18,8 @@ profiles:
 # instagram: https://www.instagram.com/jincermak/ 
    
 ---
+Zabývám se poradenskou činností v oblasti ochrany veřejného zdraví a stavebnictví. Miluji aktivní pohyb a pobyt v přírodě, cestování a hlavně poznávání jiných krajů včetně těch “našich”, mám velmi kladný vztah ke všem živým tvorům, zejména psíkům.
+
+Mým oblíbeným místem bývala Rolava, bohužel přestala být unikátním a netypickým místem a stala se komerční slátaninou všeho, bez jasné linky a koncepce. Velmi oblíbeným místem jsou i lázěnské lesy se svými rozhlednami.
+
+***Helena Vrbická***
