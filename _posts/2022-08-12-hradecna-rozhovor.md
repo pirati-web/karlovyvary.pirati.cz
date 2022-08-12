@@ -1,5 +1,5 @@
 ---
-date: 2022-08-10
+date: 2022-08-12
 category: blog
 layout: post
 title: Dáme prostor občanům našeho města!
