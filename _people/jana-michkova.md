@@ -25,4 +25,4 @@ Kromě své práce a rodiny se zajímám o historii, kulturu a to zejména hudbu
 
 Svoje rodné město mám ráda hlavně pro jedinečné souznění přírody a architektury. S oblibou využívám našich léčivých pramenů a lázeňských služeb pro své zdraví. Věřím, že budoucností Karlových Varů jsou mladí lidé a ráda bych jim pomohla nějakou radou a zkušenostmi.
 
-Jana Michková
+***Jana Michková***
