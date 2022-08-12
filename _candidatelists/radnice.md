@@ -136,7 +136,7 @@ tail: # zbytek kandidatky
     age: 38
     profession: IT manager
     party: Karlovy Vary
-  - name: JUDr. Renata Kozáková
+  - uid: renata.kozakova
     age: 60
     profession: právnička, plk. HZS v.v.
     party: Rybáře
