@@ -20,7 +20,7 @@ Když se zrovna nehádám s někým na twitteru, najdete mě u klavíru. Hraju 1
 
 V roce 2020 jsem se ve svých 16 letech přidal k Pirátům, protože se mi líbilo, že dělají politiku jinak. Nemají zapotřebí krást, rozhodnutí dělají na základě dat, a hlavně, mladí lidé jim nikdy nebyli ukradení. 
 
-Chci měnit svět okolo sebe a proto jsem se zapojil do veřejného dění. Mrzí mě, že z Karlových Varů mladí lidé odchází a nemají zájem se sem vracet, žít tu a zakládat rodiny. A chci to změnit - dát jim důvod k tomu, vybrat si jako místo pro život právě Karlovy Vary. Jsou tu pro to skvělé podmínky, tak to pojďme využít. 
+Chci měnit svět okolo sebe a proto jsem se zapojil do veřejného dění. Mrzí mě, že z Karlových Varů mladí lidé odchází a nemají zájem se sem vracet, žít tu a zakládat rodiny. Chci to změnit - dát jim důvod k tomu, vybrat si jako místo pro život právě Karlovy Vary. Jsou tu pro to skvělé podmínky, tak to pojďme využít. 
 Chci z Karlových Varů udělat město, kde je hlas mladých slyšet!
 
 ***Karel Špecián***
