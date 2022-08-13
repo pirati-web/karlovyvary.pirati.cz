@@ -16,7 +16,7 @@ profiles:
 ---
 Studuji na Prvním českém gymnáziu v Karlových Varech, kde letos budu skládat maturitní zkoušku. Považuji se za aktivního studenta, kterému nikdy nebylo jedno, co se okolo něj děje. Spolupracoval jsem na několika projektech, které měly za cíl zlepšit fungování českého školství. Aktivní jsem byl i na své škole, kde jsem založil debatní spolek. Tam měli studenti možnost bavit se se zajímavými osobnostmi z oborů jako diplomacie, sociologie či politika. 
 
-Když se zrovna nehádám s někým na twitteru, najdete mě u klavíru. Hraju 12 let a ačkoliv bych si představoval, že po tak dlouhé době budu doslova virtuóz, tak daleko jsem se ještě nedostal. K hudbě jako takové mám obecně výjimečný vztah - poslouchám ji při práci, u čtení, ba dokonce i před spaním.
+Když se zrovna nehádám s někým na twitteru, najdete mě u klavíru. Hraju 12 let a ačkoliv bych si představoval, že po tak dlouhé době budu doslova virtuóz, tak Rudolfinum jsem ještě nevyprodal :). K hudbě jako takové mám obecně výjimečný vztah - poslouchám ji při práci, u čtení, ba dokonce i před spaním.
 
 V roce 2020 jsem se ve svých 16 letech přidal k Pirátům, protože se mi líbilo, že dělají politiku jinak. Nemají zapotřebí krást, rozhodnutí dělají na základě dat, a hlavně, mladí lidé jim nikdy nebyli ukradení. 
 
