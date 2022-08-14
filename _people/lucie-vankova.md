@@ -15,3 +15,8 @@ profiles:
 # instagram: https://www.instagram.com/jincermak/ 
 
 ---
+Pracuji jako optička a optometristka. 
+Přidala jsem se k pirátům, protože jsou liberální, dívají se za hranice, hledají moderní řešení a nehledí na vlastní prospěch.
+Mám ráda pozůstatky historie v krajině, vysoké hory a abstraktní malbu. Jsem tím, kdo zůstává stát na rozcestí, aby propojoval ostatní a povzbuzoval je k další cestě.
+Chtěla bych, aby se naše město proměnilo v moderní a odvážné místo plné umění, komunitního života a nových projektů vzniklých z veřejné diskuze.
+***Lucie Vaňková***
