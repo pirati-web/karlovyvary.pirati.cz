@@ -23,25 +23,16 @@ facebook: https://www.facebook.com/daniela.bila  # pokud nema, staci smazat tuto
 # instagram: https://www.instagram.com/jincermak/ 
    
 ---
+Léta pracuji v Karlových Varech na různých úřednických a referentských pozicích. Už kdysi při práci na Magistrátu města karlovy Vary jsem se začala zajímat o politiku na městě. Zajímalo mne na jakém základě se rozhodují zastupitelé a rada města, když se podle toho opravují mosty, bourají pergoly, staví se místo nich “benzínky” apod. 
 
-Narodila se 15.5.1970 v Podbořanech.
+Dlouhodobě se zajímám o architekturu, urbanismus, veřejný prostor, moc ráda se účastním různých vzdělávacích přednášek v Kanceláři architektury města, je to úžasná instituce.
 
-Od roku 1993 žije a pracuje v Karlových Varech. Má jednoho syna.
+K Pirátům jsem se přidala ještě před prvním parlamentním úspěchem, konkrétně v roce 2014. Zakládala jsem místní sdružení Pirátů v Karlových Varech. Už druhé volební období jsem jeho předsedkyní. Moc ráda pomáhám a připravuji naše akce, např. VyOsení, dětské dny, Mikulášskou besídku.
 
-**Studium**
+Protože naše pirátské centrum e-PIC bylo v době pandemie covidu nevyužité, ihned jsem s kamarádkami v rámci Holek z Moskevské ve spolupráci s karlovarskými Piráty uspořádala výdejnu dezinfekce, ručně šitých roušek, štítů vyráběných na 3D tiskárně, později počítače pro domácí vyučování školáků ze sociálně slabých rodin. Dále jsem se v rámci stejného uskupení od konce února 2022 zapojila do pomoci rodinám ukrajinských uprchlíků.
 
-Gymnázium Podbořany, Střední knihovnická škola Praha
+Několik let jsem také fungovala v užším vedení místních Milion chvilek pro demokracii.
 
-**Zaměstnání**
+K mým velkým koníčkům patří hudba, film, kultura, hudební a filmové festivaly, zahrada, bylinky, fytoterapie, ekologie. V rámci zájmu o ekologii a udržitelné hospodaření přišel i velký problém se suchem, který bych ráda v našem městě dotáhla do stavu, který nás už nebude tak trápit. Musíme se naučit vodou neplýtvat, naučit se ji zadržovat a využívat. Chceme vypracovat strategii pro přechod k novým udržitelným zdrojům energie. Podpoříme více zeleně v městském veřejném prostoru.
 
-Po gymnaziálním studiu pár let pracovala v Městské knihovně Podbořany. Odtamtud se kvůli nízké mzdě přemístila do Karlových Varů, kde začala pracovat v knihkupectví. Pak přišla léta v pozici vedoucí několika prodejen. V roce 1999 odešla na 4 letou mateřskou dovolenou a po ní začala pracovat ve státní správě. Nejdříve na České školní inspekci, následně na Magistrátu města Karlovy Vary na odboru vnitřních věcí a poté 3 roky v advokátní kanceláři. Před pár lety působila jako odborný referent na Finančním úřadu v Karlových Varech. Od ledna do července 2017 byla krajskou koordinátorkou České pirátské strany. Nyní od prosince 2018 pracuje jako obchodní referent na Údržbě silnic Karlovarského kraje, a.s.
-
-**Pirátská strana**
-
-Členem ČPS je od roku 2014, v březnu 2015 spoluzakládala místní sdružení v Karlových Varech. Aktivně se zůčastňuje schůzí a jednání Pirátů spolu s Hnutím O co jim jde?. Podílela se na pořádání prvního Karlovarského Vyosení v říjnu 2015. Jako aktivistka pomáhala s propagací petice na záchranu bazénu hotelu Thermal v Karlových Varech. Působila jako hospodářka KS Karlovarského kraje a pomáhala propagovat Piráty při kampani v krajských volbách. Její hlavní snahou v roce 2017 bylo pomoci straně dostat se do Poslanecké sněmovny. Byla velkou posilou při volební kampani do sněmovny, v kraji, kde je jen pět poslanců se Pirátům podařilo mít jednoho svého, takže snaha se zúročila.  ![;-)](https://wiki.pirati.cz/lib/images/smileys/icon_wink.gif)
-
-**Zájmy**
-
-Hudba, film, kultura, hudební a filmové festivaly, zahrada, bylinky, fytoterapie, ekologie, výroba mastí a dalších výrobků z léčebného konopí, pečení kváskového chleba a jiné pečení z kvásku, výroba domácích sýrů a mýdel a samozřejmě Piráti :D
-
-- - - 
+***Daniela Bílá***
