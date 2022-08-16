@@ -38,6 +38,9 @@ main:
       #- link: /komunalni-volby/povolebni-strategie.html
         #name: Povolební strategie
         #match: povolebni-strategie
+      - link: https://online.fliphtml5.com/ehneq/afaz/?1660035332020
+        name: Pirátské noviny
+        match: piratske-noviny
   - link: /kontakt/
     name: Kontakt
     match: kontakt
