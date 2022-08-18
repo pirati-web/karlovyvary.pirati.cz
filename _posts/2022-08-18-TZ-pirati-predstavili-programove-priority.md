@@ -6,7 +6,7 @@ title: Karlovarští Piráti na tiskové konferenci představili programové pri
 author: Tisková Zpráva
 image: posts/TK_KV_2022.JPG
 ---
-18. 8. 2022, Karlovy Vary - **Karlovarští Piráti představili na čtvrteční tiskové konferenci čelo kandidátky a programové priority pro letošní komunální volby. Mezi hlavní priority patřila transparentnost, otevřená radnice, odpovědné hospodaření a kultura. Důraz kladou i na mladou generaci.**
+18.8.2022, Karlovy Vary - **Karlovarští Piráti představili na čtvrteční tiskové konferenci čelo kandidátky a programové priority pro letošní komunální volby. Mezi hlavní priority patřila transparentnost, otevřená radnice, odpovědné hospodaření a kultura. Důraz kladou i na mladou generaci.**
 
 Na úvod tiskové konference shrnula lídryně **[Barbora Hradečná](https://karlovyvary.pirati.cz/lide/barbora-hradecna/)** poslední čtyři roky v zastupitelstvu a představila plán na následující volební období: *“V zastupitelstvu nejsme nováčky. Čtvrtým rokem bojujeme z opozice za přístupnější a otevřenější radnici, která je nyní zabetonovaná. Čtvrtým rokem přinášíme spoluobčanům informace o tom, co vedení města chystá a upozorňujeme na špatné hospodaření. Dohlédli jsme na to, aby příspěvkové organizace města řídili odborníci bez politického klíče. Zastavili jsme prodej Sanatoria Trocnov, jednoho z posledních velkých městských majetků v lázeňské čtvrti. 
 Chceme Karlovy Vary jako moderní, sebevědomé a udržitelné lázeňské město, ve kterém se dá žít a kde se občané mohou sami zapojit do rozhodovacích procesů. 
