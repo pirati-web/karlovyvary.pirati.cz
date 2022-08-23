@@ -2,8 +2,8 @@
 date: 2022-08-23
 category: blog
 layout: post
-title: Připravme město na klimatické změny
-author: Daniela Bílá
+title: Město je třeba posunout dopředu
+author: Jindřich Čermák
 image: posts/cermak_kocka.jpg
 ---
 **Nepřeberné množství příběhů zažily karlovarské ulice, zákoutí a parky. Hlavním aktérem mého nejoblíbenějšího je baron August Friedrich Ulrich von Lützow, který, ačkoli byl původem z Meklenburska, se ve druhé polovině 19. století stal jedním z nejvýznamnějších karlovarských občanů. Jednou z jeho mnoha eskapád byla instalace sochy kočky (od známého sochaře Kisse). A protože baron rád provokoval tehdejší vedení, hlavně  byl-li přesvědčen, že nekompetentností škodí městu, tak milou kočku otočil zadkem k tehdejší radnici.**
