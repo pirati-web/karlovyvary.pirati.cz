@@ -13,4 +13,5 @@ image: posts/alzbetinky_prodej_madafaka.jpg
 Jsme ve střehu, protože žádná z vládnoucích stran se před volbami o takové proměně lázní nezmiňovala.
 Jaký je váš názor na budoucnost posledních městských lázní?
 
+Záznam z ustavujícího zasedání Zastupitelstva města je všeříkající.
 {% include youtube.html id='gv7T_CleOXU' %} *Volili jste prodej Alžbětiných lázní?*
