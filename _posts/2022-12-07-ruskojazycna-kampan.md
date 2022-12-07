@@ -4,7 +4,7 @@ category: blog
 layout: post
 tags:
     - Zastupitelstvo_města
-title: Peníze přes Nadaci, plán využití Alžbětiných lázní bude?
+title: Demokratická opozice vyzývá vedení města k ukončení ruskojazyčné kampaně
 author: Piráti Karlovy Vary
 image: posts/ruskojazycnakampan.png
 ---
