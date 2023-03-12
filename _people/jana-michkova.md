@@ -4,8 +4,10 @@ name:     Jana Michková  	# běžně používáné jméno
 titles:
   before: Ing.
   after: 
-# category:
-# description: 
+category:
+  - komis
+ordko: 1
+description: členka komise kulturní, památkové péče a architektury města
 img: people/jana_michkova.jpg # zakomentuj radek dokud není fotka
 
 profiles:
