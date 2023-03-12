@@ -9,6 +9,8 @@ category:
   - vybor
 ordpms: 2
 ordvy: 1
+mail: karel.specian@pirati.cz
+mob: +420 792 248 984
 description: Člen kontrolního výboru, 1. místopředseda Pirátů Karlovy Vary
 img: people/karel_specian.jpg # zakomentuj radek dokud není fotka
 
