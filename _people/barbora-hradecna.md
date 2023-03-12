@@ -5,15 +5,7 @@ titles:
   before: 
   after:
 category:
-  - zastupitel
-  - vybor
-  - komis
-  - predsednictvo
-ordz: 2
-ordvy: 1
-ordpms: 2
-ordko: 6
-description: zastupitelka, členka Výboru pro sociální věci a seniory, členka kulturní komise, 1.místopředsedkyně Pirátů Karlovy Vary
+description: 
 img: people/barbora_hradecna.jpg # zakomentuj radek dokud není fotka
 mail:
   - barbora.hradecna@pirati.cz
