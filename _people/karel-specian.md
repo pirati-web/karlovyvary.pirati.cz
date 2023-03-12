@@ -4,8 +4,12 @@ name:     Karel Špecián  	# běžně používáné jméno
 titles:
   before: 
   after: 
-# category:
-description:  
+category:
+  - predsednictvo
+  - vybor
+ordpms: 2
+ordvy: 1
+description: Člen kontrolního výboru, 1. místopředseda Pirátů Karlovy Vary
 img: people/karel_specian.jpg # zakomentuj radek dokud není fotka
 
 profiles:
