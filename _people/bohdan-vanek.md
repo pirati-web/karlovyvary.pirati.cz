@@ -7,8 +7,10 @@ titles:
 category:
   - vybor
   - predsednictvo
+  - zastupitel
 ordpms: 3
 ordvy: 5
+ordz: 2
 description: člen Finančního výboru, 2. místopředseda Pirátů Karlovy Vary
 img: people/bohdan_vanek.jpg # zakomentuj radek dokud není fotka
 mail:
