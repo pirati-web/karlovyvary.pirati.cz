@@ -9,8 +9,7 @@ category:
   - kontaktni_osoba
 # ordko: 3
 ordpms: 1
-description: členka Komise školství, vzdělávání a demografie, 
-             předsedkyně Pirátů Karlovy Vary
+description: předsedkyně Pirátů Karlovy Vary
 img: people/daniela_bila.jpg # zakomentuj radek dokud není fotka
 mail:
   - daniela.bila@pirati.cz
