@@ -6,11 +6,10 @@ titles:
   after:
 category:
   - zastupitel
-  - komis
   - kontaktni_osoba
   - kraj
 ordz: 1
-ordko: 1
+# ordko: 1
 ordkr: 2
 description: předseda zastupitelského klubu, zastupitel Karlovarského kraje, Radní Karlovarského kraje pro školství
 img: people/jindrich_cermak.jpg # zakomentuj radek dokud není fotka
