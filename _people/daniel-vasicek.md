@@ -4,10 +4,7 @@ name:     Daniel Vašíček  	# běžně používáné jméno
 titles:
   before:
   after:
-category:
-  - komis
-ordko: 4
-description: člen Komise lázeňství a cestovního ruchu
+description: 
 img: people/daniel_vasicek.png # zakomentuj radek dokud není fotka
 mail:
   - vasicekdaniel@seznam.cz
