@@ -4,12 +4,10 @@ name:     Renata Kozáková  	# běžně používáné jméno
 titles:
   before: JUDr. 
   after:
-category:
-  - zastupitel
-  - vybor
-ordz: 5
-ordvy: 3
-description: zastupitelka, členka Kontrolního výboru
+# category:
+# ordz: 5
+# ordvy: 3
+description: 
 img: people/renata_kozakova.png # zakomentuj radek dokud není fotka
 mail:
   -  renata.kozakova@hzs-kvk.cz
