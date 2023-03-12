@@ -5,7 +5,7 @@ titles:
   before: Bc.
   after: Dis.
 category:
-description: členka Kontrolního výboru
+description:
 img: people/jana_jandova.jpg # zakomentuj radek dokud není fotka
 mail:
   - j_jandova@centrum.cz 
