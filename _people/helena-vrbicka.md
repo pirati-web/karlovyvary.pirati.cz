@@ -5,9 +5,7 @@ titles:
   before: Ing.
   after: 
 category:
-  - vybor
-ordvy: 6
-description: členka Výboru dopravy, životního prostředí, čistoty města a zeleně
+description:
 img: people/helena_vrbicka.jpg # zakomentuj radek dokud není fotka
 mail:
   - velejitka@email.cz  
