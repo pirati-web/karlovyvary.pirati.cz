@@ -5,8 +5,6 @@ titles:
   before: Bc.
   after: Dis.
 category:
-  - vybor
-ordvy: 4
 description: členka Kontrolního výboru
 img: people/jana_jandova.jpg # zakomentuj radek dokud není fotka
 mail:
