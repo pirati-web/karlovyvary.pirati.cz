@@ -4,12 +4,10 @@ name:     Pavel Sušanin  	# běžně používáné jméno
 titles:
   before: Ing.
   after:
-category:
-  - zastupitel
-  - komis
-ordz: 3
-ordko: 2
-description: zastupitel, člen Komise pro hospodaření s majetkem města
+# category:
+# ordz:
+# ordko: 
+description:
 img: people/pavel_susanin.png # zakomentuj radek dokud není fotka
 mail:
   - susanin.kv@gmail.com
