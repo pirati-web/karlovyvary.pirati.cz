@@ -5,10 +5,9 @@ titles:
   before: 
   after:
 category:
-  - komis
   - predsednictvo
   - kontaktni_osoba
-ordko: 3
+# ordko: 3
 ordpms: 1
 description: členka Komise školství, vzdělávání a demografie, 
              předsedkyně Pirátů Karlovy Vary
