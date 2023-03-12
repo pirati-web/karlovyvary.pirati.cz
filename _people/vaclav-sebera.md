@@ -5,9 +5,8 @@ titles:
   before: 
   after:
 category:
-  - komis
-ordko: 5
-description: člen Komise sportovní a tělovýchovy
+# ordko: 5
+description: 
 img: people/vaclav_sebera.jpg # zakomentuj radek dokud není fotka
 mail:
   - vsebera@volny.cz
