@@ -3,7 +3,6 @@ date: 2023-06-22
 category: blog
 layout: post
 tags:
-    - Zastupitelstvo_města
 title: Alžbětiny Lázně, co s nimi?
 author: Bohdan Vaněk
 image: posts/alzbetinky.jpg
