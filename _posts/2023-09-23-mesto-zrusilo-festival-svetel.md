@@ -3,6 +3,7 @@ date: 2023-09-23
 category: blog
 layout: post
 tags:
+    - Vary_Září
 title: Vedení města zrušilo festival Vary Září
 author: Karel Špecián
 image: posts/varyzari.jpg
